@@ -1,0 +1,34 @@
+---
+layout: default
+wide: false
+title: Other Blogs & Websites
+comments: true
+---
+
+Here is a list of some interesting acedemic blogs.
+* Computer vision
+**(inset) "Quantombone":http://quantombone.blogspot.com/
+  "The philosophy of computational object recognition, scene understanding, machine learning, and musings on the future of computer vision" from "Tomasz Malisiewicz":http://www.cs.cmu.edu/~tmalisie/ at CMU.
+**(inset) "Computer Blindness":http://computerblindness.blogspot.com/
+  The research blog of "Roman Shapovalov":http://shapovalov.ro/ at the Moscow State University.
+**(inset) "Learning in Vision":http://vimsu99.blogspot.com/
+  Vidit Jain's (Yahoo! Labs) blog on computer vision, with a focus on information retrieval.
+* General machine learning
+  **(inset) "Please Scoop Me":http://pleasescoopme.com/
+    Jonathan Chang has good posts about topic models and random statistical visualizations.
+  **(inset) "Inductio Ex Machine":http://mark.reid.name/iem/
+    Mark Reid's research blog on machine learning and statistical inference.
+  **(inset) "Inherent Uncertainty":http://www.inherentuncertainty.org/
+    Jake Abernethy (and some other mostly Berkeley ML people) post "a range of thoughts on Learning and Game-playing, Prediction and Decision-making."
+  **(inset) "Hunch: Machine Learning Theory":http://hunch.net/
+    John Langford's blog.
+* Robotics  
+  **(inset) "Robot Zeitgeist":http://robotzeitgeist.com/ 
+	This is a general news blog covering Robotics, AI, Machine Learning and Computer Vision.  
+  **(inset) "SurgRob":http://surgrob.blogspot.com/  
+    This is a news blog listing info on developments in medical and surgical robotics.
+
+* "Readings for students in AI":http://reason.cs.uiuc.edu/eyal/for-students/reading.html
+
+A number of these links are courtsey "Sergey Karayev":http://sergeykarayev.com/
+If you'd like to see an addition to this list, please post a comment below. If you'd like to see a removal, email me.

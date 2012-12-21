@@ -1,0 +1,10 @@
+[pa]: http://www.cs.berkeley.edu/~pabbeel
+[kg]: http://goldberg.berkeley.edu/
+[sk]: http://sergeykarayev.com/
+[ieor]: http://ieor.berkeley.edu
+[ucb]: http://www.berkeley.edu
+[autolab]: http://automation.berkeley.edu/
+[du]: http://www.du.ac.in/index.php?id=4
+[sd]: http://www2.isye.gatech.edu/~sdey30/
+[jr]: http://www.cc.gatech.edu/~rehg/
+[hic]: http://www.hichristensen.net/

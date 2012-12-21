@@ -1,0 +1,5 @@
+source: ./src
+destination: ./_site
+auto:       true
+permalink:  /:categories/:year-:month-:day/:title
+pygments:   true
