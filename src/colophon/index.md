@@ -12,5 +12,5 @@ Unless specified otherwise, all design and content within this site is licensed 
 A notable exception are the papers, some of which are under intense
 copyrights (that are nevertheless universally disregarded in the community).
 
-The template is from the website of [Sergey Karayev](http://sergeykarayev.com).  
-If you use this design, please [let me know](mailto:garg.animesh@gmail.com).
+This template is adapted from the website of [Sergey Karayev](http://sergeykarayev.com).  
+If you use this design, please [let him know](mailto:sergeykarayev@gmail.com).
