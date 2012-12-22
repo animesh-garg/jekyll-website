@@ -7,12 +7,12 @@ script: home.js
 
 ---
 
-### Recent [projects](/work/projects/)
+### Recent [projects]({{ site.baseurl }}/work/projects/)
 {% include recent_projects.md %}
 
 ---
 
-### Recent [notes](/work/notes/)
+### Recent [notes]({{ site.baseurl }}/work/notes/)
 <ul class="inset">
 {% for post in site.categories.work %}
   <li>
@@ -23,7 +23,7 @@ script: home.js
 
 ---
 
-### Recent [fun](/fun/)
+### Recent [fun]({{ site.baseurl }}/fun/)
 <ul class="inset">
 {% for post in site.categories.fun %}{% include fun_posts.md %}{% endfor %}
 </ul>

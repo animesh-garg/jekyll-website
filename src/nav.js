@@ -8,28 +8,28 @@ $(document).ready(function(){
     $("a#home").replaceWith("Animesh Garg");
   }
   else if (pathname.match("/work/projects/")) {
-    $("a#projects").replaceWith("research");
+    $("a#projects").replaceWith("Research");
   }
   else if (pathname.match("work/[0-9]+")) {
     $("a#notes").replaceWith("notes (<a href=\"/work/notes/\">more</a>)");
   }
   else if (pathname.match("/work/notes/")) {
-    $("a#notes").replaceWith("notes");
+    $("a#notes").replaceWith("Notes");
   }
   else if (pathname.match("/vita/")) {
-    $("a#vita").replaceWith("vita");
+    $("a#vita").replaceWith("Vita");
   }
   else if (pathname.match("/fun/[0-9]+")) {
-    $("a#fun").replaceWith("fun (<a href=\"/fun/\">more</a>)");
+    $("a#fun").replaceWith("Fun (<a href=\"/fun/\">more</a>)");
   }
   else if (pathname.match("/fun/")) {
-    $("a#fun").replaceWith("fun");
+    $("a#fun").replaceWith("Fun");
   }
   else if (pathname.match("/links/")) {
-    $("a#links").replaceWith("links");
+    $("a#links").replaceWith("Links");
   }
   else if (pathname.match("/colophon/")) {
-    $("a#colophon").replaceWith("colophon");
+    $("a#colophon").replaceWith("Colophon");
   }
 });
 //]]>

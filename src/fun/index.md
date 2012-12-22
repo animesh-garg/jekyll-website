@@ -1,6 +1,5 @@
 ---
 title: Fun 
-div_class: fun 
 layout: default
 ---
 

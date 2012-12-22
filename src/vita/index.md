@@ -25,7 +25,7 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
   
 2010 
 : **Bachelor in Engineering, Manufacturing Processes and Automation** &#xb7;  
-Netaji Subhas Institute of Technology, [University of Delhi][du] (India)  
+[Netaji Subhas Institute of Technology](http://www.nsitonline.in/departments/mpae.html), [University of Delhi][du] (India)  
   *Thesis Advisors*: Sachin Maheshwari and Satish Chand
 
   ---
@@ -116,7 +116,7 @@ Spring 2011
 ###### Conference Publications 
 * **Initial Experiments toward Automated Robotic Implantation of Skew-Line Needle Arrangements for HDR Brachytherapy.**  
  *Animesh Garg*, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
- IEEE CASE, Seoul, Korea. August, 2012.\[[PDF](/work/files/garg-brachy-case-2012.pdf)\]   
+ IEEE CASE, Seoul, Korea. August, 2012.\[[PDF]({{ site.baseurl }}/work/files/garg-brachy-case-2012.pdf)\]   
  **Best Application Paper Award.**
  
 * **Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer**    

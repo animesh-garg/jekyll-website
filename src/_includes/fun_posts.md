@@ -8,7 +8,7 @@ tag adds whitespace -->
 {% if post.summary %}
 <a href="{{ post.url }}">{{datestring}}</a>
 {% else %}
-{{datestring}}
+{{ site.baseurl }}/{{datestring}}
 {% endif %}
 {% endcapture %}
 {% capture stuff %}

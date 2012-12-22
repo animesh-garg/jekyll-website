@@ -1,6 +1,6 @@
 {% capture stuff %}
 
-#<a href="/" id="home">Animesh Garg</a>
+#<a href="{{ site.baseurl }}/" id="home">Animesh Garg</a>
 
 Graduate Student  
 [Department of Operations Research][ieor]  
@@ -16,7 +16,7 @@ Graduate Student
 * [github](https://github.com/animesh-garg)
 * [blog](http://animesh-garg.blogspot.com/)
 
-![That is me at Lake Tahoe](/images/me_cover.jpg)  
+![That is me at Lake Tahoe]({{ site.baseurl }}/images/me_cover.jpg)  
 
 *Last updated on : {{ site.time | date_to_string }}*
 {% include peoples_urls.md %}

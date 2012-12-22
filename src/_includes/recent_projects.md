@@ -1,6 +1,6 @@
 {% capture stuff %}
 
-#### [Robot-Assisted Brachytherapy](/work/brachy)
+#### [Robot-Assisted Brachytherapy]({{ site.baseurl }}/work/brachy)
 
 We devised and demonstrated an end-to-end robot assisted brachytherapy treatment delivery system using automated dose and needle planners. 
 
