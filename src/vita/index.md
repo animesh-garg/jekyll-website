@@ -8,7 +8,6 @@ I want to solve some of the open problems in AI, particularly for robotics. I am
 Currently I am working on autonomy in surgical robotics with [Raven-II](http://r2db.tumblr.com/).  
 
 Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.  
-*Last updated on : {{ site.time | date_to_string }}*  
 
 ---
 
