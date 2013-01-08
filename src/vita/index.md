@@ -24,7 +24,7 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
   
 2010 
 : **Bachelor in Engineering, Manufacturing Processes and Automation** &#xb7;  
-[Netaji Subhas Institute of Technology](http://www.nsitonline.in/departments/mpae.html), [University of Delhi][du] (India)  
+[Netaji Subhas Institute of Technology](http://nsit.ac.in/department/mpa.php), [University of Delhi][du] (India)  
   *Thesis Advisors*: Sachin Maheshwari and Satish Chand
 
   ---
@@ -79,7 +79,7 @@ Winter 2007
 ---
  
 ###### Teaching
-Spring 2013
+Spring 2013, Fall 2011
 : Teaching Assistant, **Industrial and Commercial Data Systems** \([IEOR 115](http://www.ieor.berkeley.edu/~ieor115/)\)  
   [Ken Goldberg][kg]  
   *University of California, Berkeley*
@@ -91,11 +91,6 @@ Fall 2012
 
 Fall 2011
 : Lectured on Linear Programming, **Introduction to IEOR(Seminar)** \(IEOR 24\)  
-  [Ken Goldberg][kg]  
-  *University of California, Berkeley*
-
-Fall 2011
-: Teaching Assistant, **Industrial and Commercial Data Systems** \([IEOR 115](http://www.ieor.berkeley.edu/~ieor115/)\)   
   [Ken Goldberg][kg]  
   *University of California, Berkeley*
 
