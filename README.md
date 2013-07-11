@@ -9,8 +9,9 @@ It is uses Jekyll, please let me know if you have questions.
 How to run: 
 1. Open shell and cd to ./src
 
-2. jekyll --server 
+2. jekyll serve --watch 
 This will fire up a local serverat http://localhost:4000 and you may check if your website works.
+--watch allows you to change files without recompiling
 
 3. jekyll --base-url "http://www3.decf.berkeley.edu/~agarg" 
 to generate a website you want to host at a shared hosting service where you can replace your address.
