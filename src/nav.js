@@ -13,11 +13,17 @@ $(document).ready(function(){
   else if (pathname.match("/work/projects/")) {
     $("a#research").replaceWith("Research");
   }
-  else if (pathname.match("/work/[0-9]+")) {
-    $("a#notes").replaceWith("Notes (<a href=\"/work/notes/\">more</a>)");
+  else if (pathname.match("/work/projects/[0-9]+")) {
+    $("a#research").replaceWith("Research (<a href=\"/work/projects/\">more</a>)");
   }
-  else if (pathname.match("/work/notes/")) {
-    $("a#notes").replaceWith("Notes");
+  else if (pathname.match("/work/pubs/")) {
+    $("a#publications").replaceWith("Publications");
+  }
+  else if (pathname.match("/articles/")) {
+    $("a#articles").replaceWith("Articles");
+  }
+  else if (pathname.match("/articles/[0-9]+")) {
+    $("a#articles").replaceWith("Articles (<a href=\"/articles/\">more</a>)");
   }
   else if (pathname.match("/vita/")) {
     $("a#vita").replaceWith("Vita");

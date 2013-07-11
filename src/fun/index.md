@@ -11,9 +11,16 @@ I have also been improving my culinary skills ever since I started graduate scho
 
 I will try to update this space with pictures from travel and adventure sports as fequently as possible.  
 
+
 <ul class="inset">
-  {% for post in site.categories.fun %}
-  {% include fun_posts.md %}
-  {% endfor %}
+{% for post in site.categories.fun %}
+  <li>
+    <a href="{{ site.baseurl }}/{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
+  </li>
+{% endfor %}
 </ul>
 
+
+<div class="footer">
+&copy; Last updated on: {{ site.time | date_to_string }}
+</div>

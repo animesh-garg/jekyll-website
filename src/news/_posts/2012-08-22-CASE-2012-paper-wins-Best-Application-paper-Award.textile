@@ -1,0 +1,8 @@
+---
+layout: default
+wide: false
+title: CASE 2012 paper wins Best Application paper Award
+comments: false
+---
+
+Our submission to CASE 2012 on Robot Assisted Brachytherapy wins Best Application Paper Award. 

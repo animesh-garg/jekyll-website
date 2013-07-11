@@ -1,0 +1,23 @@
+---
+layout: default
+wide: false
+title: Brachytherapy -- Cancer Treatment with Internal Radiation Therapy
+comments: false
+excerpt: Exploring Brachytherapy practices to reduce costs, improve quality and encourage de-skilling
+---
+
+h3. Brachytherapy -- Cancer Treatment with Internal Radiation Therapy
+
+
+!{{ site.baseurl }}/images/research-AcubotPlusImplant.png!
+
+Brachytherapy is widely used treatment technique for a number of cancer types, namely prostate, gynaecological, oral etc. However it also accompanies a number of side effects as a result of current clinical practice.  
+<br>
+I am exploring shortcomings current methods of treatment planning, procedure and dose delivery techniques. I aim to address these by leveraging advances in robotics, needle steering and rapid prototyping (3D printing). 
+<br>
+!{{ site.baseurl }}/images/research-anatomy-implant.png!
+In "TASE-2013":{{ site.baseurl }}/work/files/garg-brachy-tase-2013.pdf paper, we have studied use of robot assisted needle implants to improve overall quality of prostate brachytherapy and also as a step towards de-skilling the process. We devised and demonstrated an end-to-end robot assisted brachytherapy treatment delivery system using automated dose and needle planners. Also refer "CASE-2012":{{ site.baseurl }}/work/files/garg-brachy-case-2012.pdf
+<br>
+More recently we have extended the use of 3D printing in customised implants for brachtherapy procedures in gynaecoloical cancers. Details in "CASE-2013":{{ site.baseurl }}/work/files/garg-case2013-custom_3DP_Implants.pdf paper.
+ 
+

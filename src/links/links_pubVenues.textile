@@ -1,0 +1,65 @@
+---
+layout: default
+wide: false
+title: Conference and Journal Listing
+comments: false
+div_class: vita
+---
+
+Go back of listing of "Links":{{ site.baseurl }}/links/
+
+h3. Publication Venues
+
+This is a list of possible publication venues sorted by topics of my research interests.
+(Some of the conference/journals may overlap in focus areas)
+
+---
+h4. **Robotics and Automation**
+
+- **RSS** := Annual Conference in June with deadline in January. "Link":http://www.roboticsconference.org/    
+
+- **IROS** := Annual Conference in Oct/Nov with deadline in March."Link":http://www.ieee-ras.org/conferences-workshops
+
+- **CASE** := Annual Conference in August with deadline in Feb/March."Link":http://www.ieee-ras.org/conferences-workshops
+
+- **ICRA** := Annual Conference in May/June with deadline in Sept. of previous year. "Link":http://www.ieee-ras.org/conferences-workshops
+
+- **WAFR** := Biennial conference organised by "IFRR":http://www.ifrr.org/  
+
+- **ISRR/ISER** := Annual conferences organised by "IFRR":http://www.ifrr.org/.  
+
+---
+h4. **Machine Learning, Artificial Intelligence and Pattern Recognition**
+
+- **NIPS** := Annual Conference on Information Processing (ML, AI and algorithms). Conference in Dec. and Deadline in early June. "Link":http://nips.cc/
+
+- **ICML** := Conference cum Journal on a variety of Machine Learning topics and applications. "Link":http://icml.cc/
+
+- **IJCAI** := Biennial conference on Artificial Intelligence."Link":http://ijcai.org/
+
+- **T-PAMI** := Monthly Journal pattern analysis and macine intelligence. "Link":http://www.computer.org/portal/web/tpami/home
+
+- **AAAI** := Annual Confenrce on AI in America. "Link":http://www.aaai.org/Conferences/AAAI/aaai.php
+
+- **UAI** := Conference focused on knowledge representation, learning and reasoning under uncertainty. "Link":http://auai.org/
+
+---
+h4. **Interface of Engineering and Medicine**
+
+- **EMBC** := Annual Conference in summer for translational research. "Link":http://www.embs.org/conferences-meetings
+
+- **Hamlyn Symposium** := Annual Symposium on Medical Robotics in London, UK. Deadline in January for summer conference "Link":http://www.hamlyn-robotics.org/
+
+- **Medical Physics** := Journal for radiantion oncology research apart from other topics. "MedPhys Home":http://online.medphys.org/, "Submission Portal":http://medphys.peerx-press.org/cgi-bin/main.plex
+
+---
+
+Some Live deadlines are maintained here: "academic countdown":http://www.academiccountdown.com/
+
+If you'd like to see a removal or rearrangement, "email me (Contact Animesh)":mailto:garg.animesh@gmail.com. 
+
+
+<div class="footer">
+&copy; Last updated on: 05 July 2013
+</div>
+

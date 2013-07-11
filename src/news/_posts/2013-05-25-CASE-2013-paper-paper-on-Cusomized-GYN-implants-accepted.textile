@@ -1,0 +1,8 @@
+---
+layout: default
+wide: false
+title: CASE 2013 paper paper on Cusomized GYN implants accepted
+comments: false
+---
+
+Our submission to CASE 2013 on customized 3D printed implants for brachytherapy in Gynaecological cancers has been accepted.

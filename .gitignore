@@ -2,7 +2,7 @@ _site/
 site_online/
 todo.txt
 load-site.sh
-
+*~
 #################
 ## Eclipse
 #################

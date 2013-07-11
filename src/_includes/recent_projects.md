@@ -1,9 +1,6 @@
 {% capture stuff %}
 
-#### [Robot-Assisted Brachytherapy]({{ site.baseurl }}/work/brachy)
-
-We devised and demonstrated an end-to-end robot assisted brachytherapy treatment delivery system using automated dose and needle planners. 
-
+Recently I have been working on implementing semi-autonomous solutions for improving brachytherapy quality and reduce dependence on physician skill.
 
 {% include peoples_urls.md %}
 {% endcapture %}

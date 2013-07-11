@@ -1,0 +1,9 @@
+---
+layout: default
+wide: false
+title: I passed IEOR prelims
+comments: false
+---
+
+I have successfully passed IEOR Prelim exams in Stochastics, Optimization and Supply Chain Modelling.
+

@@ -4,11 +4,13 @@ title: Software & Code for Computer Vision and Machine Learning
 comments: true
 ---
 
-h2. Links to code and software
+Go back of listing of "Links":{{ site.baseurl }}/links/
+
+h3. Links to code and software
 
 There is one good argument against "open science" in the sense of real-time dissemination of research work: it prevents encapsulation of thought that is necessary to original research directions. But there is no good argument for not providing the source code, or at least some method of replication, for the experimental results that have been published. And some people want to provide code just to lower the barrier to entry for others--some things, like camera calibration, should only be coded up once.
 
-This is my collection of software (mostly open source) for computer vision and general machine learning.
+This is a collection of software (mostly open source) for computer vision and general machine learning.
 
 * General purpose computer vision code
   **(inset) "OpenCV":http://opencv.willowgarage.com/wiki/
@@ -25,4 +27,9 @@ This is my collection of software (mostly open source) for computer vision and g
     n-D Point Clouds and 3D geometry processing.
   
 If you'd like to see an addition to this list, please post a comment below. If you'd like to see a removal, email me.
+
+
+<div class="footer">
+&copy; Last updated on: 15 Dec 2012
+</div>
 

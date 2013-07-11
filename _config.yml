@@ -1,5 +1,16 @@
 source: ./src
+#plugins:     ./_plugins
+#layouts:     ./_layouts
 destination: ./_site
-auto:       true
-permalink:  /:categories/:year-:month-:day/:title
+#auto:       true
 pygments:   true
+
+#relative_permalinks: true
+# permalink:  /:categories/:year-:month-:day/:title
+permalink:  none
+
+baseurl:   http://www3.decf.berkeley.edu/~agarg
+#baseurl:   /home/animesh/work/jekyll-website/_site
+
+redcloth:
+  hard_breaks: true

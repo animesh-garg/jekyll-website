@@ -1,11 +1,14 @@
 ---
 layout: default
 wide: false
-title: Other Blogs & Websites
+title: Academic Blogs & Websites
 comments: true
 ---
 
-Here is a list of some interesting acedemic blogs.
+Go back of listing of "Links":{{ site.baseurl }}/links/
+
+h3. List of some interesting acedemic blogs.
+
 * Computer vision
 **(inset) "Quantombone":http://quantombone.blogspot.com/
   "The philosophy of computational object recognition, scene understanding, machine learning, and musings on the future of computer vision" from "Tomasz Malisiewicz":http://www.cs.cmu.edu/~tmalisie/ at CMU.
@@ -32,3 +35,8 @@ Here is a list of some interesting acedemic blogs.
 
 A number of these links are courtsey "Sergey Karayev":http://sergeykarayev.com/
 If you'd like to see an addition to this list, please post a comment below. If you'd like to see a removal, email me.
+
+
+<div class="footer">
+&copy; Last updated on: 15 Dec 2012
+</div>

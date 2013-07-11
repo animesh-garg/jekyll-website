@@ -30,6 +30,9 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
   ---
 
 ###### Honors and Awards
+2013
+:  NSF Travel Support for IEEE CASE 2013  
+   UC Berkeley Dept. of IEOR Summer Fellowship
 
 2012
 : IEEE CASE 2012 Best Application Paper Award  
@@ -37,7 +40,7 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
   Dept. of IE&OR Graduate Fellowship
 
 2010
-:  Erasmus Mundus Fellowship (full tuition and stipend)
+:  Erasmus Mundus Fellowship for MSc. at TU Munich (full tuition and stipend)
 
 2007, 2009, 2010 
 : NSIT Academic Merit Scholarship Award (full tuition waiver)
@@ -47,6 +50,12 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
 
 ---
 
+###### Publications
+
+For a list of papers, go to [Publications]({{ site.baseurl }}/work/pubs/) page.  
+For an online listing please visit [Google Scholar](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
+
+---
 ###### Employment
 
 2011 -- 
@@ -79,8 +88,8 @@ Winter 2007
 ---
  
 ###### Teaching
-Spring 2013, Fall 2011
-: Teaching Assistant, **Industrial and Commercial Data Systems** \([IEOR 115](http://www.ieor.berkeley.edu/~ieor115/)\)  
+Fall-2013 Spring-2013 Fall-2011
+: Teaching Assistant, **Industrial and Commercial Data Systems** \([IEOR-115](http://www.ieor.berkeley.edu/~ieor115/)\)  
   [Ken Goldberg][kg]  
   *University of California, Berkeley*
 
@@ -101,32 +110,6 @@ Spring 2011
   
 ---
 
-###### Journal Publications
-* **Open-Loop Robot-Guided Insertion of Optimized Skew-Line Needle Arrangements for High Dose Rate Brachytherapy.**  
- *Animesh Garg*, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
- Transactions on Automation Science and Engineering, 2012. *\(under review\)*
-
----
-###### Conference Publications 
-* **Initial Experiments toward Automated Robotic Implantation of Skew-Line Needle Arrangements for HDR Brachytherapy.**  
- *Animesh Garg*, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
- IEEE CASE, Seoul, Korea. August, 2012.\[[PDF]({{ site.baseurl }}/work/files/garg-brachy-case-2012.pdf)\]   
- **Best Application Paper Award.**
- 
-* **Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer**    
-  Sahil Thakkar, *Animesh Garg*, Adesh Midha, Prerna Gaur  
-  IEEE International Conference of Cybernetics, Robotics and Controls, 2011.\[[PDF](http://www.scientific.net/AMR.403-408.4727)\]
-
-* **The Autotrix: Design and Implementation of an Autonomous Urban Driving System**  
-  *Animesh Garg*, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  
-  IEEE International Conference of Cybernetics, Robotics and Controls, 2011.\[[PDF](http://www.scientific.net/AMR.403-408.3884)\]
-
-* **Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System**    
-  *Animesh Garg*, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  
-  IEEE International Conference of Machine Vision, 2010. <!-- \[[PDF](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] -->
- 
- ---
-
 ###### Service
 
 2009 -- 2010
@@ -135,6 +118,12 @@ Founded a team to set up a online network and start  bi-annual publication *Remi
 
 2008 -- 2010
 : NSIT Placement Team  
-  Assisted in cordinating recruitments for the batch of 2010.
+  Assisted in cordinating recruitments for the batch of 2010.  
 
- {% include peoples_urls.md %}
+
+{% include peoples_urls.md %}
+---
+
+<div class="footer">
+&copy; Last updated on: {{ site.time | date_to_string }}
+</div>

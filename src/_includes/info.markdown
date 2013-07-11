@@ -1,24 +1,25 @@
 {% capture stuff %}
 
-#<a href="{{ site.baseurl }}/" id="home">Animesh Garg</a>
+
+# <a href="{{ site.baseurl }}/" id="home">Animesh Garg</a>
 
 Graduate Student  
-[Department of Operations Research][ieor]  
-[University of California, Berkeley][ucb]
+[Dept of Operations Research][ieor]  
+[University of California, Berkeley][ucb]  
 
-[Automation Lab][autolab] with [Ken Goldberg][kg] and [Pieter Abbeel][pa].
+[Automation Lab][autolab] with  
+[Ken Goldberg][kg] and [Pieter Abbeel][pa].
 
-<p class="no-bottom-margin">Digital facets</p>
-* [email](mailto:animesh.garg@berkeley.edu)
-* [fb](https://www.facebook.com/garganimesh) &#xb7;
-  [twtr](https://twitter.com/Animesh_Garg) &#xb7;
-  [lnkd](http://www.linkedin.com/in/animeshgarg)
-* [github](https://github.com/animesh-garg)
-* [blog](http://animesh-garg.blogspot.com/)
+* [Email](mailto:animesh.garg@berkeley.edu)  
+* [Github](https://github.com/animesh-garg)  
+* [Blog](http://animesh-garg.blogspot.com/)  
+* [twtr](https://twitter.com/Animesh_Garg) **&#xb7;**
+  [lnkd](http://www.linkedin.com/in/animeshgarg) **&#xb7;**
+  [fb](https://www.facebook.com/garganimesh)  
+
 
 ![That is me at Lake Tahoe]({{ site.baseurl }}/images/me_cover.jpg)  
 
-*Last updated on : {{ site.time | date_to_string }}*
 {% include peoples_urls.md %}
 
 {% endcapture %}
