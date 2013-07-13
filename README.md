@@ -14,9 +14,12 @@ This will fire up a local serverat http://localhost:4000 and you may check if yo
 --watch allows you to change files without recompiling
 
 3. jekyll --base-url "http://www.eecs.berkeley.edu/~animesh.garg" 
-to generate a website you want to host at a shared hosting service where you can replace your address.
+to generate a website you want to host at a shared hosting service where you can replace your address. 
+(This is only required if baseurl variable in not set in _config.yml)
 
-Also if you use a different base-url then check some files for hard-sets like the nav.js. All others should work fine. 
+Also if you use a different base-url then check some files for hard-sets like the nav.js. 
+All others should work fine. 
+
 
 
 Reference Docs:
