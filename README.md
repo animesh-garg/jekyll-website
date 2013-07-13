@@ -20,8 +20,12 @@ Also if you use a different base-url then check some files for hard-sets like th
 
 
 Reference Docs:
-Comprehensive guide to Jekyll: http://jekyllrb.com/docs/home/
+
+Comprehensive guide to Jekyll: http://jekyllrb.com/docs/home/ 
+
 Liquid Tags Cheatsheet: http://cheat.markdunkley.com/
+
 Textile Documentation: http://txstyle.org/
+
 Markdown Syntax: http://daringfireball.net/projects/markdown/syntax
 
