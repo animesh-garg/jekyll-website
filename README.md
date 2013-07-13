@@ -13,7 +13,7 @@ How to run:
 This will fire up a local serverat http://localhost:4000 and you may check if your website works.
 --watch allows you to change files without recompiling
 
-3. jekyll --base-url "http://www3.decf.berkeley.edu/~agarg" 
+3. jekyll --base-url "http://www.eecs.berkeley.edu/~animesh.garg" 
 to generate a website you want to host at a shared hosting service where you can replace your address.
 
 Also if you use a different base-url then check some files for hard-sets like the nav.js. All others should work fine. 
