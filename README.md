@@ -32,3 +32,4 @@ Textile Documentation: http://txstyle.org/
 
 Markdown Syntax: http://daringfireball.net/projects/markdown/syntax
 
+Fonts: https://edgewebfonts.adobe.com/index
