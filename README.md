@@ -1,10 +1,10 @@
 jekyll-website
 ==============
 
-Personal Website of Animesh Garg. This is the acedemic webpage for Animesh Garg written in statis generator, jekyll. 
+Personal Website of Animesh Garg. This is the acedemic webpage for Animesh Garg written in static generator, Jekyll. 
 This repo contains my personal site.
 
-It is uses Jekyll, please let me know if you have questions.
+Please let me know if you have questions.
 
 How to run: 
 1. Open shell and cd to ./src
@@ -19,7 +19,6 @@ to generate a website you want to host at a shared hosting service where you can
 
 Also if you use a different base-url then check some files for hard-sets like the nav.js. 
 All others should work fine. 
-
 
 
 Reference Docs:
