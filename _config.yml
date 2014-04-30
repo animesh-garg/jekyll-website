@@ -9,7 +9,7 @@ pygments:   true
 # permalink:  /:categories/:year-:month-:day/:title
 permalink:  none
 
-baseurl:   http://www3.decf.berkeley.edu/~agarg
+baseurl:   http://www.eecs.berkeley.edu/~animesh.garg
 #baseurl:   /home/animesh/work/jekyll-website/_site
 
 redcloth:
