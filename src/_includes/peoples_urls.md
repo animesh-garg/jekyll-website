@@ -8,3 +8,9 @@
 [sd]: http://www2.isye.gatech.edu/~sdey30/
 [jr]: http://www.cc.gatech.edu/~rehg/
 [hic]: http://www.hichristensen.net/
+[aa]: www.ieor.berkeley.edu/~atamturk/
+[leg]: http://www.eecs.berkeley.edu/~elghaoui/
+[scp]: http://rll.berkeley.edu/~sachin/
+[ts]: http://www.timmysiauw.com/
+[ac]: http://profiles.ucsf.edu/adam.cunha
+[jp]: http://profiles.ucsf.edu/jean.pouliot
