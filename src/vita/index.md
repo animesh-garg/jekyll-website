@@ -4,8 +4,11 @@ layout: default
 div_class: vita
 ---
 
-I want to solve some of the open problems in AI, particularly for robotics. I am interested in vision and machine learning applications for robotics. My long term goal would be to make robots as easy to program and operate as a car.  
-Currently I am working on autonomy in surgical robotics with [Raven-II](http://r2db.tumblr.com/).  
+I want to solve some of the open problems in AI, particularly for robotics. I am interested in optimization and machine learning applications for robotics & healthcare applications. 
+
+Primarily, I work in radiation treatment planning and delivery for cancer. We use latest optimization algorithms for creating clinically safe radiaction distributions and devise novel delivery methods like custom 3D printed implants.
+
+One of my long term goal would be to make robots as easy to program and operate as a car. I am also working on skill learning with applications to surgical robotics.
 
 Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.  
 
