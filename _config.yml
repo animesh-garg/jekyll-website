@@ -9,8 +9,11 @@ pygments:   true
 # permalink:  /:categories/:year-:month-:day/:title
 permalink:  none
 
-baseurl:   http://www.eecs.berkeley.edu/~animesh.garg
+#baseurl:   http://www.eecs.berkeley.edu/~animesh.garg
+#linux
 #baseurl:   /home/animesh/work/jekyll-website/_site
+#Mac
+baseurl:   /Users/animesh/work/jekyll-website/_site
 
 redcloth:
   hard_breaks: true
