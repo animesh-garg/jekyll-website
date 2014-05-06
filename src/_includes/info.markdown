@@ -4,11 +4,12 @@
 # <a href="{{ site.baseurl }}/" id="home">Animesh Garg</a>
 
 Graduate Student  
-[Dept of Operations Research][ieor]  
-[University of California, Berkeley][ucb]  
+[Operations Research][ieor],  
+[UC, Berkeley][ucb].  
 
 [Automation Lab][autolab] with  
-[Ken Goldberg][kg] and [Pieter Abbeel][pa].
+[Ken Goldberg][kg] and <br>
+[Pieter Abbeel][pa].
 
 * [Email](mailto:animesh.garg@berkeley.edu)  
 * [Github](https://github.com/animesh-garg)  
