@@ -2,6 +2,7 @@
 [kg]: http://goldberg.berkeley.edu/
 [sk]: http://sergeykarayev.com/
 [ieor]: http://ieor.berkeley.edu
+[cs]: http://www.eecs.berkeley.edu/Research/Areas/CIR/
 [ucb]: http://www.berkeley.edu
 [autolab]: http://automation.berkeley.edu/
 [du]: http://www.du.ac.in/index.php?id=4
