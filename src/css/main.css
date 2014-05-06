@@ -22,7 +22,7 @@ body {
   background-color: #FFFDFC;
   color: #0A0A0A;
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
-  font-size: 14px;
+  font-size: 1em;
 }
 /* color scheme: http://colorschemedesigner.com/#3s21QvyQpw0w0 */
 a {
@@ -134,12 +134,12 @@ ul.inset {
 
 /* vita styling */
 .vita p {
-  width: 460px;
+  width:;
 }
 
 .vita dt {
   float:left;
-  width:80px;
+  width:100px;
   padding: 0px;
   margin-left: -19px;
   margin-right: 19px;
@@ -150,7 +150,7 @@ ul.inset {
 
 .vita dd {
   float: left;
-  width: 460px;
+  width: 600px;
   margin-bottom: 19px;
 }
 
@@ -189,47 +189,47 @@ hr {
 }
 
 h1 {
-  font-size: 26px;
+  font-size: 1.5em;
   font-family: "Museo300", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
 }
 
 #navbar {
-  font-size: 24px;
+  font-size: 1.4em;
   font-family: "Museo300", Helvetica, Arial, sans-serif;
   margin-bottom: 19px;
 }
 
 #navbar .small {
-  font-size: 18px;
+  font-size: 75%;
 }
 
 h2 {
   font-family: "Museo300", Helvetica, Arial, sans-serif;
   font-weight: lighter;
-  font-size: 20px;
+  font-size: 1.25em;
 }
 
 h3 {
   font-family: "Museo300", Helvetica, Arial, sans-serif;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 1.15em;
 }
 
 h4 {
   font-family: "Museo300", Helvetica, Arial, sans-serif;
   font-weight: lighter;
-  font-size: 16px;
+  font-size: 1.1em;
 }
 
 h5 {
   font-family: "Museo300", Helvetica, Arial, sans-serif;
   font-weight: lighter;
-  font-size: 14px;
+  font-size: 1em;
 }
 
 h6 { /* h6 is special... */
-  font-size: 15px;
+  font-size: 1.1em;
   line-height: 7px;
   font-weight: normal;
   font-variant: small-caps;
