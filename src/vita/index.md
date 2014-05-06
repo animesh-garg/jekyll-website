@@ -111,6 +111,9 @@ Spring 2011
 ---
 
 ###### Service
+2012 -- Present
+: Reviewer for CASE 2013, CASE 2014, ICRA 2014
+
 
 2009 -- 2010
 : [NSIT Alumni Association](http://nsitalumni.org/)  
@@ -123,7 +126,8 @@ Founded a team to set up a online network and start  bi-annual publication *Remi
 
 {% include peoples_urls.md %}
 ---
-
+<!--
 <div class="footer">
 &copy; Last updated on: {{ site.time | date_to_string }}
 </div>
+-->
