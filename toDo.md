@@ -7,6 +7,7 @@ To DO for jekyll-website
     Aggregate them into one page 'More'
 4. Add colophon to bottom of the page. 
 5. Add a page People with all the collaborators with pictures. 
-5. Fix the navigation on research page.
+6. Add a mode for auto deployment instead of havin gto copy over the files.
+7. Fix the navigation on research page.
     Issue: When one navigates to a post within the research directory, there is no link to come back to the directory. 
     Possibly solution fix nav.js 
