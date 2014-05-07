@@ -2,7 +2,6 @@ jekyll-website
 ==============
 
 Personal Website of Animesh Garg.   
-This is the acedemic webpage for Animesh Garg written in static generator, Jekyll.  
 
 How to run:  
 1. Open shell and cd to ./src  
