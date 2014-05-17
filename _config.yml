@@ -9,8 +9,8 @@ pygments:   true
 # permalink:  /:categories/:year-:month-:day/:title
 permalink:  none
 
-baseurl:   .
-#baseurl:   http://www.eecs.berkeley.edu/~animesh.garg
+#baseurl:   .
+baseurl:   http://www.eecs.berkeley.edu/~animesh.garg
 #linux
 #baseurl:   /home/animesh/work/jekyll-website/_site
 #Mac

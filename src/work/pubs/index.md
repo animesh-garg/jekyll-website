@@ -24,7 +24,8 @@ layout: default
 
 * **Open-Loop Robot-Guided Insertion of Optimized Skew-Line Needle Arrangements for High Dose Rate Brachytherapy.**  
  **Animesh Garg**, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
- IEEE Transactions on Automation Science and Engineering, 2013. \[[PDF]({{ site.baseurl }}/work/files/garg-brachy-tase-2013.pdf)\]
+ IEEE Transactions on Automation Science and Engineering, 2013.
+ \[[PDF]({{ site.baseurl }}/work/files/garg-brachy-tase-2013.pdf)\]
 
 ---
 ###### Conference Publications
@@ -34,11 +35,13 @@ layout: default
 
 * **An Algorithm for Computing Customized 3D Printed Implants with Curvature Constrained Channels for Enhancing Intracavitary Brachytherapy Radiation Delivery.**  
   **Animesh Garg**, Sachin Patil, Timmy Siauw, J. Adam M. Cunha, I-Chow Hsu, Pieter Abbeel, Jean Pouliot, and Ken Goldberg.  
-  IEEE CASE, Madison, USA. August, 2013. \[[PDF](http://goldberg.berkeley.edu/pubs/CASE-2013-Brachy-3D-Printing.pdf)\]
+  IEEE CASE, Madison, USA. August, 2013.
+  \[[PDF]({{ site.baseurl }}/work/files/garg-3dpImplant-case-2013.pdf)\]
 
 * **Initial Experiments toward Automated Robotic Implantation of Skew-Line Needle Arrangements for HDR Brachytherapy.**  
  **Animesh Garg**, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
- IEEE CASE, Seoul, Korea. August, 2012. \[[PDF]({{ site.baseurl }}/work/files/garg-brachy-case-2012.pdf)\]<br>
+ IEEE CASE, Seoul, Korea. August, 2012.
+ \[[PDF]({{ site.baseurl }}/work/files/garg-brachy-case-2012.pdf)\]  
  **<font color="red">Best Application Paper Award.</font>**
 
 * **Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer.**  
@@ -48,7 +51,8 @@ layout: default
   **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. IEEE International Conference of Cybernetics, Robotics and Controls, 2011. \[[PDF](http://www.scientific.net/AMR.403-408.3884)\]
 
 * **Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System.**  
-  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. IEEE International Conference of Machine Vision, 2010.  <!-- \[[PDF](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] -->
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. IEEE International Conference of Machine Vision, 2010. 
+  <!-- \[[PDF](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] -->
 
 ---
 ###### Workshops, Demonstrations and Abstracts
