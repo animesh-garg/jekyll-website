@@ -14,10 +14,10 @@ pagination: true
 <ul class="inset">
 {% for post in site.categories.projects limit:3  %}
   <li>
-    <a href="{{ site.baseurl }}/{{ post.url }}"><strong>{{ post.title | markdownify }}</strong></a> <br>
+    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title | markdownify }}</strong></a> <br>
 {{ post.excerpt | markdownify }}
   </li>
-{% endfor %} 
+{% endfor %}
 </ul>
 ---
 
@@ -25,7 +25,7 @@ pagination: true
 <ul class="inset">
 {% for post in site.categories.articles limit:2 %}
   <li>
-    <a href="{{ site.baseurl }}/{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
+    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
   </li>
 {% endfor %}
 </ul>
@@ -36,7 +36,7 @@ pagination: true
 <ul class="inset">
 {% for post in site.categories.news limit:5 %}
   <li>
-    <a href="{{ site.baseurl }}/{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
+    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
   </li>
 {% endfor %}
 </ul>

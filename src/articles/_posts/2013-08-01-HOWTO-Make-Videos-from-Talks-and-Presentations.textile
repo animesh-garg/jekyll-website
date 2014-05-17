@@ -8,17 +8,17 @@ excerpt: Record your talks to make beautiful HD videos
 
 Go back of listing of "Articles":{{ site.baseurl }}/articles/
 
-h2. HOWTO Make Videos from Talks and Presentations
+h2. HOWTO Make Videos from Talks and Presentations (Still-in-progress)
 
-Disseminating research in a comprehensive manner is a matter of great importance, more 
-so today with easy access to similar work and information overload. Very often, I have 
-myself abandoned reading many papers for the lack of either: clarity in writing, absence 
+Disseminating research in a comprehensive manner is a matter of great importance, more
+so today with easy access to similar work and information overload. Very often, I have
+myself abandoned reading many papers for the lack of either: clarity in writing, absence
 of supporting material or no reproducible results.
 
 I am making a small step towards personal corrective action by writing this tutorial on
-how to record videos in Powerpoint for your talks. I am going to provide a bare bones 
-method because I think it has low potential barrier (so no more excuses!) and it would 
-perhaps take only 10 minutes of work over and above the time of the talk. 
+how to record videos in Powerpoint for your talks. I am going to provide a bare bones
+method because I think it has low potential barrier (so no more excuses!) and it would
+perhaps take only 10 minutes of work over and above the time of the talk.
 
 h4. Step 1
 
@@ -27,7 +27,7 @@ INSERT IMAGE HERE
 
 h4. Step 2
 
-ROADbblock: 
+ROADbblock:
 office for MAC doesnt allow for this.
 
 Write up for windows and then we  will find a solution or a script for creating videos in mac

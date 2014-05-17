@@ -21,21 +21,27 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
   *Advisor*: [Ken Goldberg][kg]  
   *Coursework*: Linear and Non Linear Optimization, Stochastic Modelling, Network Algortihms and Graph Theory, Statistical Learning, Computer Vision, Robotics.
 
+2014 (expected)
+: **M.S. Computer Science** &#xb7; [University of California, Berkeley][cs]  
+  *Advisors*: [Ken Goldberg][kg] and [Pieter Abbeel][pa] 
+
 2011   
 : **M.S. Industrial Engineering** &#xb7; [Georgia Institute of Technology](http://www.isye.gatech.edu/), Atlanta  
-  *Advisors*: [Santanu Dey][sd] and [Jim Rehg][jr]
-  
-2010 
-: **Bachelor in Engineering, Manufacturing Processes and Automation** &#xb7;  
-[Netaji Subhas Institute of Technology](http://nsit.ac.in/department/mpa.php), [University of Delhi][du] (India)  
-  *Thesis Advisors*: Sachin Maheshwari and Satish Chand
+  *Advisors*: [Santanu Dey][sd] and [Jim Rehg][jr]  
 
+2010 
+: **Bachelor in Engineering, Manufacturing Processes and Automation** 
+[Netaji Subhas Institute of Technology](http://nsit.ac.in/department/mpa.php), [University of Delhi][du] (India)  
+  *Advisors*: Pradeep Khanna, Sachin Maheshwari and Satish Chand
   ---
 
 ###### Honors and Awards
+2014
+:  UC Berkeley Dept. of IEOR Summer Research Grant
+
 2013
 :  NSF Travel Support for IEEE CASE 2013  
-   UC Berkeley Dept. of IEOR Summer Fellowship
+   UC Berkeley Dept. of IEOR Summer Research Grant
 
 2012
 : IEEE CASE 2012 Best Application Paper Award  

@@ -16,7 +16,7 @@ layout: default
 <ul class="inset">
 {% for post in site.categories.projects %}
   <li> <p>{{ post.content }}</p>
-       <br> <a href="{{ site.baseurl }}/{{ post.url }}"><strong>Read More...</strong></a> 
+       <br> <a href="{{ site.baseurl }}{{ post.url }}"><strong>Read More...</strong></a>
   </li>  <br>
 {% endfor %}
 </ul>

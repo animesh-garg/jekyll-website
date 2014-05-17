@@ -12,10 +12,11 @@ layout: default
 ---
 
 ###### Journal Publications
+<!--
 * **Material Evaluation of PC-ISO for Customized, 3D Printed, Gynecologic 192Ir HDR Brachytherapy Applicators.**  
   Katherine Mellis, Timmy Siauw, Atchar Sudhyadhom, Rajni Sethi, I-Chow Hsu, Jean Pouliot, **Animesh Garg**, Ken Goldberg, J. Adam Cunha.  
   Under Review: Medical Physics Journal.
-
+-->
 * **Needle Placement using Patient-Specic, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.**  
   Timmy Siauw, J. Adam Cunha, **Animesh Garg**, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot.  
   Under Review: Medical Physics Journal.
@@ -29,7 +30,7 @@ layout: default
 ###### Conference Publications
 * **Exact Reachability Analysis for Planning Skew-Line Needle Arrangements for Automated Brachytherapy.**  
   **Animesh Garg**, Timmy Siauw, Guang Yang, Sachin Patil, J. Adam M. Cunha, I-Chow Hsu, Jean Pouliot, Alper Atamturk, Ken Goldberg.  
-  Under Review: IEEE Int'l Conference on Automation Science and Engineering (CASE). Taipei, Taiwan. August 2014.
+  IEEE Int'l Conference on Automation Science and Engineering (CASE). Taipei, Taiwan. August 2014. \[[PDF-soon!]({{site.baseurl}}/work/pubs)\]
 
 * **An Algorithm for Computing Customized 3D Printed Implants with Curvature Constrained Channels for Enhancing Intracavitary Brachytherapy Radiation Delivery.**  
   **Animesh Garg**, Sachin Patil, Timmy Siauw, J. Adam M. Cunha, I-Chow Hsu, Pieter Abbeel, Jean Pouliot, and Ken Goldberg.  
