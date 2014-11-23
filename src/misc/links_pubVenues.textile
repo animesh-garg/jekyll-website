@@ -6,8 +6,6 @@ comments: false
 div_class: vita
 ---
 
-Go back of listing of "Links":{{ site.baseurl }}/links/
-
 h3. Publication Venues
 
 This is a list of possible publication venues sorted by topics of my research interests.
@@ -54,12 +52,6 @@ h4. **Interface of Engineering and Medicine**
 
 ---
 
-Some Live deadlines are maintained here: "academic countdown":http://www.academiccountdown.com/
 
 If you'd like to see a removal or rearrangement, "email me (Contact Animesh)":mailto:garg.animesh@gmail.com. 
-
-
-<div class="footer">
-&copy; Last updated on: 05 July 2013
-</div>
 

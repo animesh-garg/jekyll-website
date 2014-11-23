@@ -5,8 +5,6 @@ title: Academic Blogs & Websites
 comments: true
 ---
 
-Go back of listing of "Links":{{ site.baseurl }}/links/
-
 h3. List of some interesting acedemic blogs.
 
 * Computer vision
@@ -34,7 +32,7 @@ h3. List of some interesting acedemic blogs.
 * "Readings for students in AI":http://reason.cs.uiuc.edu/eyal/for-students/reading.html
 
 A number of these links are courtsey "Sergey Karayev":http://sergeykarayev.com/
-If you'd like to see an addition to this list, please post a comment below. If you'd like to see a removal, email me.
+If you'd like to see an addition to this list, please post a comment below. 
 
 
 <div class="footer">
