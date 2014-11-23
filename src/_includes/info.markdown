@@ -3,23 +3,26 @@
 
 # <a href="{{ site.baseurl }}/" id="home">Animesh Garg</a>
 
-Graduate Student  
-[Operations Research][ieor],  
-[UC, Berkeley][ucb].  
+![Animesh with Bay Bridge in background]({{ site.baseurl }}/images/animesh_bay.png)  
 
-[Automation Lab][autolab] with  
-[Ken Goldberg][kg] and <br>
-[Pieter Abbeel][pa].
+Ph.D. Candidate  
+[Automation Lab][autolab]  
+[Operations Research][ieor]   
+[Computer Science][cs]  
+[UC, Berkeley][ucb]  
 
-* [Email](mailto:animesh.garg@berkeley.edu)  
-* [Github](https://github.com/animesh-garg)  
-* [Blog](http://animesh-garg.blogspot.com/)  
-* [twtr](https://twitter.com/Animesh_Garg) **&#xb7;**
-  [lnkd](http://www.linkedin.com/in/animeshgarg) **&#xb7;**
-  [fb](https://www.facebook.com/garganimesh)  
+Contact me: [<i class="fa fa-envelope fa-lg"></i>](mailto:animesh.garg@berkeley.edu)  
+
+Find me on:  
+[**Blog**](http://animesh-garg.blogspot.com/)   **&#xb7;** 
+[<i class="fa fa-git fa-lg"></i>](https://github.com/animesh-garg)   **&#xb7;** 
+[<i class="fa fa-twitter fa-lg"></i>](https://twitter.com/Animesh_Garg)  **&#xb7;**
+[<i class="fa fa-linkedin fa-lg"></i>](http://www.linkedin.com/in/animeshgarg)  **&#xb7;**
+[<i class="fa fa-facebook-square fa-lg"></i>](https://www.facebook.com/garganimesh)    
 
 
-![That is me at Lake Tahoe]({{ site.baseurl }}/images/me_cover.jpg)  
+<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/Animesh_Garg" data-widget-id="536483931428618240">Tweets by @Animesh_Garg</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 {% include peoples_urls.md %}
 

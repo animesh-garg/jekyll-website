@@ -1,11 +1,11 @@
-[pa]: http://www.cs.berkeley.edu/~pabbeel
-[kg]: http://goldberg.berkeley.edu/
-[sk]: http://sergeykarayev.com/
+[pa]: 	http://www.cs.berkeley.edu/~pabbeel
+[kg]: 	http://goldberg.berkeley.edu/
+[alper]:	http://www.ieor.berkeley.edu/~atamturk/
 [ieor]: http://ieor.berkeley.edu
-[cs]: http://www.eecs.berkeley.edu/Research/Areas/CIR/
-[ucb]: http://www.berkeley.edu
+[cs]: 	http://www.eecs.berkeley.edu/Research/Areas/CIR/
+[ucb]: 	http://www.berkeley.edu
 [autolab]: http://automation.berkeley.edu/
-[du]: http://www.du.ac.in/index.php?id=4
+[du]: 	http://www.du.ac.in/index.php?id=4
 [sd]: http://www2.isye.gatech.edu/~sdey30/
 [jr]: http://www.cc.gatech.edu/~rehg/
 [hic]: http://www.hichristensen.net/
@@ -15,3 +15,6 @@
 [ts]: http://www.timmysiauw.com/
 [ac]: http://profiles.ucsf.edu/adam.cunha
 [jp]: http://profiles.ucsf.edu/jean.pouliot
+[sk]: http://sergeykarayev.com/
+[db]: http://users.wpi.edu/~dberenson/
+[ich]: http://radonc.ucsf.edu/faculty/physicians/hsu_i.html

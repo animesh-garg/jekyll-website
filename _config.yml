@@ -1,20 +1,26 @@
 source: ./src
-#plugins:     ./_plugins
-#layouts:     ./_layouts
+plugins:     ./src/_plugins
+layouts:     ./src/_layouts
 destination: ./_site
 #auto:       true
-pygments:   true
+highlighter: pygments
 
 #relative_permalinks: true
 # permalink:  /:categories/:year-:month-:day/:title
 permalink:  none
 
-#baseurl:   .
+#deploy
 baseurl:   http://www.eecs.berkeley.edu/~animesh.garg
+#debug
 #linux
 #baseurl:   /home/animesh/work/jekyll-website/_site
 #Mac
-#baseurl:   /Users/animesh/work/jekyll-website/_site
+#baseurl:	/Users/animesh/work/jekyll-website/_site
 
-redcloth:
-  hard_breaks: true
+#markdown
+markdown:    kramdown
+
+#redcloth:
+#  hard_breaks: true
+
+#kramdown:
