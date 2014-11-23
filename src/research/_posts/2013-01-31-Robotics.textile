@@ -1,0 +1,18 @@
+---
+layout: default
+wide: false
+title: Learning from Expert Demonstrations for Surgical Robotics
+comments: false
+excerpt: Semi-supervised learning from demonstrations in robotic surgery.
+---
+
+h3. Learning from Expert Demonstrations for Surgical Robotics
+
+Surgical tasks,whether robotic or manual, are hard and often long. However automation of frequently repeated sub-tasks in a procedure would improve treatment quality by reducing surgeon fatigue and delegating the repetitive tasks to intelligent systems.  
+<br>
+!{{ site.baseurl }}/images/research-heli-example.png!
+I am currently studying semi-supervised optimization frameworks for identification of these motions, and performing robust reconstruction of the required trajectories in a changed environment than observed before.
+<br>
+The same techniques would in principle be applicable to other high skill tasks like cooking.
+
+
