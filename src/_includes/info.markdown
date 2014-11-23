@@ -3,7 +3,8 @@
 
 # <a href="{{ site.baseurl }}/" id="home">Animesh Garg</a>
 
-![Animesh with Bay Bridge in background]({{ site.baseurl }}/images/animesh_bay.png)  
+<!--![Animesh with Bay Bridge in background]({{ site.baseurl }}/images/animesh_bay.png)  -->
+![Animesh with Bay Bridge in background]({{ site.baseurl }}/images/animesh_headshot.png)  
 
 Ph.D. Candidate  
 [Automation Lab][autolab]  
