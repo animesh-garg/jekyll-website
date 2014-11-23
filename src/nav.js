@@ -4,12 +4,11 @@ $(document).ready(function(){
   // simply by making it not a link
   var path_url = window.location.pathname;
   //take the baseurl out of the path.
-  //var base_url = "/~animesh.garg";
+  var base_url = "/~animesh.garg";
   //var base_url = "http://www.eecs.berkeley.edu/~animesh.garg";
-  var base_url = "/Users/animesh/work/jekyll-website/_site";
   var pathname = path_url.replace(base_url,"");
   
-  if (pathname == "/") {
+  if (pathname=="/") {
     $("a#home").replaceWith("Animesh Garg");
   }
   else if (pathname.match("/research/.")) {

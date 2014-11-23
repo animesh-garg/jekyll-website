@@ -9,8 +9,9 @@ highlighter: pygments
 # permalink:  /:categories/:year-:month-:day/:title
 permalink:  none
 
-#deploy
-baseurl:   http://www.eecs.berkeley.edu/~animesh.garg
+#deploy-also change in nav.js
+#baseurl:  http://www.eecs.berkeley.edu/~animesh.garg
+baseurl:   /~animesh.garg
 #debug
 #linux
 #baseurl:   /home/animesh/work/jekyll-website/_site
