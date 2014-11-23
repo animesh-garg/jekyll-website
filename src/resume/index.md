@@ -1,25 +1,26 @@
 ---
-title: Vita
+title: Resume
 layout: default
 div_class: vita
 ---
 
 I want to solve some of the open problems in AI, particularly for robotics. I am interested in optimization and machine learning applications for robotics & healthcare applications. 
 
-Primarily, I work in radiation treatment planning and delivery for cancer. We use latest optimization algorithms for creating clinically safe radiaction distributions and devise novel delivery methods like custom 3D printed implants.
+Primarily, I work in radiation treatment planning and delivery for cancer. We use latest optimization algorithms for creating clinically safe radiation distributions and devise novel delivery methods like custom 3D printed implants.
 
 One of my long term goal would be to make robots as easy to program and operate as a car. I am also working on skill learning with applications to surgical robotics.
 
 Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.  
 
----
+---  
 
 ###### Education
 
 2016 (expected)
 : **Ph.D. Operations Research** &#xb7; [University of California, Berkeley][ieor]  
-  *Advisor*: [Ken Goldberg][kg]  
-  *Coursework*: Linear and Non Linear Optimization, Stochastic Modelling, Network Algortihms and Graph Theory, Statistical Learning, Computer Vision, Robotics.
+  *Committee*: [Ken Goldberg][kg], [Alper Atamturk][alper], [Pieter Abbeel][pa],  
+  [Laurent El Ghaoui][leg], [Jean Pouliot][jp]   
+  *Coursework*: Linear and Non Linear Optimization, Stochastic Modeling, Network Algorithms and Graph Theory, Statistical Learning, Controls, Robotics.
 
 2014 (expected)
 : **M.S. Computer Science** &#xb7; [University of California, Berkeley][cs]  
@@ -27,13 +28,13 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
 
 2011   
 : **M.S. Industrial Engineering** &#xb7; [Georgia Institute of Technology](http://www.isye.gatech.edu/), Atlanta  
-  *Advisors*: [Santanu Dey][sd] and [Jim Rehg][jr]  
 
 2010 
-: **Bachelor in Engineering, Manufacturing Processes and Automation** 
+: **Bachelor in Engineering, Manufacturing Processes and Automation**  
 [Netaji Subhas Institute of Technology](http://nsit.ac.in/department/mpa.php), [University of Delhi][du] (India)  
   *Advisors*: Pradeep Khanna, Sachin Maheshwari and Satish Chand
-  ---
+
+---  
 
 ###### Honors and Awards
 2014
@@ -61,10 +62,11 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
 
 ###### Publications
 
-For a list of papers, go to [Publications]({{ site.baseurl }}/work/pubs/) page.  
-For an online listing please visit [Google Scholar](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
+* For a full list of papers, go to [Publications]({{ site.baseurl }}/publications.html) page.  
+* For an online listing please visit [Google Scholar](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
 
 ---
+
 ###### Employment
 
 2011 -- 
@@ -97,40 +99,58 @@ Winter 2007
 ---
  
 ###### Teaching
-Fall-2013 Spring-2013 Fall-2011
+Spring-2015
+: Teaching Assistant, **Industrial Design and Human Factors** \([IEOR-170](http://www.ieor.berkeley.edu/~ieor170/)\)  
+  [Ken Goldberg][kg]  
+  *University of California, Berkeley*
+
+Fall-2014, Fall-2013, Spring-2013, Fall-2011
 : Teaching Assistant, **Industrial and Commercial Data Systems** \([IEOR-115](http://www.ieor.berkeley.edu/~ieor115/)\)  
   [Ken Goldberg][kg]  
   *University of California, Berkeley*
 
 Fall 2012
 : Teaching Assistant, **Technology Entrepreneurship** \(IEOR 191\)  
-  Ron Lesniak   
-  *University of California, Berkeley*
-
-Fall 2011
-: Lectured on Linear Programming, **Introduction to IEOR(Seminar)** \(IEOR 24\)  
-  [Ken Goldberg][kg]  
+  [Ron Lesniak](http://ronlesniak.com/)  
   *University of California, Berkeley*
 
 Spring 2011
 : Teaching Assistant, **Computer Graphics** \([CS 3451](http://www.cc.gatech.edu/graphics/courses.html)\)   
   [Greg Turk](http://www.cc.gatech.edu/~turk/)   
   *Georgia Institute of Technology*
-  
+
+---
+
+###### Invited Talks
+
+Fall 2011
+: Lectured on Linear Programming, **Introduction to IEOR(Seminar)** \(IEOR 24\)  
+  *University of California, Berkeley*
+
+---
+
+###### Student Mentoring
+
+* Heimdall siao - Undergraduate (2012), Now at Ericsson
+* Nikitha Singh - Undergraduate (2014), Now at Palantir
+* Zach Mulder - Undergraduate (2014), Now grad student at Berkeley
+
 ---
 
 ###### Service
-2012 -- Present
-: Reviewer for CASE 2013, CASE 2014, ICRA 2014
+2014 
+: Volunteer for INFORMS 2014 local organization.
 
+Ongoing
+: Reviewer for CASE 2013, CASE 2014, ICRA 2014, [APES 2014](http://www.springer.com/biomed/journal/13246)
 
 2009 -- 2010
 : [NSIT Alumni Association](http://nsitalumni.org/)  
-Founded a team to set up a online network and start  bi-annual publication *Reminisce*
+Founded an online alumni network and started bi-annual publication *Reminisce*
 
 2008 -- 2010
 : NSIT Placement Team  
-  Assisted in cordinating recruitments for the batch of 2010.  
+  Assisted in coordinating recruitments for the batch of 2010.  
 
 
 {% include peoples_urls.md %}
