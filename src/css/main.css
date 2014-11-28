@@ -189,42 +189,44 @@ hr {
 }
 
 h1 {
-  font-size: 1.5em;
-  font-family: "Museo300", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
+  font-size: 1.75em;
+  font-family: "Museo300", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  /*text-transform: uppercase;*/
+  font-variant: small-caps;
+  font-weight: normal;
 }
 
 #navbar {
   font-size: 1.4em;
-  font-family: "Museo300", Helvetica, Arial, sans-serif;  
+  font-family: "Museo300",'Helvetica Neue', Helvetica, Arial, sans-serif;  
   margin-bottom: 19px;
   background-color: #E6E6E6;
 }
 
 #navbar .small {
-  font-size: 75%;  
+  font-size: 80%;  
 }
 
 h2 {
-  font-family: "Museo300", Helvetica, Arial, sans-serif;
-  font-weight: lighter;
-  font-size: 1.25em;
+  font-family: "Museo300", 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 1.4em;
 }
 
 h3 {
   font-family: "Museo300", Helvetica, Arial, sans-serif;
   font-weight: lighter;
-  font-size: 1.15em;
+  font-size: 1.2em;
 }
 
 h4 {
-  font-family: "Museo300", Helvetica, Arial, sans-serif;
+  font-family: "Museo300",  Helvetica, Arial, sans-serif;
   font-weight: lighter;
   font-size: 1.1em;
 }
 
 h5 {
-  font-family: "Museo300", Helvetica, Arial, sans-serif;
+  font-family: "Museo300", , Helvetica, Arial, sans-serif;
   font-weight: lighter;
   font-size: 1em;
 }
