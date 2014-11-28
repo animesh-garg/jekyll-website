@@ -6,8 +6,6 @@ comments: true
 excerpt: Record your talks to make beautiful HD videos
 ---
 
-Go back of listing of "Articles":{{ site.baseurl }}/articles/
-
 h2. HOWTO Make Videos from Talks and Presentations (Still-in-progress)
 
 Disseminating research in a comprehensive manner is a matter of great importance, more
