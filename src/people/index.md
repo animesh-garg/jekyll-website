@@ -11,7 +11,7 @@ div_class: people
 | [Ken Goldberg][kg]  | [Alper Atamturk][alper] | [Pieter Abbeel][pa] |
 
 |![laurent]({{ site.baseurl }}/people/images/LEG.jpg)  | ![timmy]({{ site.baseurl }}/people/images/timmy-siauw.png) | ![sachin]({{ site.baseurl }}/people/images/sachin-patil.png) |
-|  [Laurent El Ghaoui][leg]  | [Timmy Saiuw][ts] | [Sachin Patil][scp] |
+|  [Laurent El Ghaoui][leg]  | [Timmy Siauw][ts] | [Sachin Patil][scp] |
 
 ---
 

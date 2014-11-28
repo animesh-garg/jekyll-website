@@ -131,7 +131,7 @@ Fall 2011
 
 ###### Student Mentoring
 
-* Heimdall siao - Undergraduate (2012), Now at Ericsson
+* Heimdall Siao - Undergraduate (2012), Now at Ericsson
 * Nikitha Singh - Undergraduate (2014), Now at Palantir
 * Zach Mulder - Undergraduate (2014), Now grad student at Berkeley
 
