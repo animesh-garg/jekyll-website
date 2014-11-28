@@ -58,17 +58,24 @@ Under Review: ICRA 2015 \[[PDF](http://goldberg.berkeley.edu/pubs/davinci-icra-2
 
 ---
 
+###### Patents
+* **Patient-Specific Temporary Implants For Accurately Guiding Local Means of Tumor Control Along Patient-Specific Internal Channels to Treat Cancers.**  
+Jean Pouliot, Ken Goldberg, I-Chow Hsu, J. Adam Cunha, **Animesh Garg**, Sachin Patil, Pieter
+Abbeel, Timmu Siauw. U.S. Provisional. *PCT International Application No.: PCT/US2014/048488 filed July 28, 2014.* <!-- Patent Application No.: 61/859,687-->
+
+---  
+
 ###### Peer Reviewed Abstracts & Demonstrations
 
 * **Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis**  
- JA Cunha, T Siauw, **A Garg**, N Zhang, K Goldberg, D Stoianovici, M Roach III, I-C Hsu, J Pouliot. Medical Physics, vol. 39, p.3931, 2012
+ JA Cunha, T Siauw, **A Garg**, N Zhang, K Goldberg, D Stoianovici, M Roach III, I-C Hsu, J Pouliot. Medical Physics, vol. 39, p.3931, 2012. \[[Med Phys](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)\] \[[AAPM](http://www.aapm.org/meetings/2012am/PRAbs.asp?mid=68&aid=17884)\]
 
 * **Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture**  
- JAM Cunha, **A Garg**, T Siauw, N Zhang, Y Zuo, K Goldberg, D Stoianovici, M Roach, J Pouliot. J. of Radiotherapy and Oncology, vol.103,p.S45-S46, May 2012.
+ JAM Cunha, **A Garg**, T Siauw, N Zhang, Y Zuo, K Goldberg, D Stoianovici, M Roach, J Pouliot. J. of Radiotherapy and Oncology, vol.103,p.S45-S46, May 2012.\[[Link](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)\]
 
 * **A Robotic System for Needle Steering**  
 Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura.
-IEEE IROS 2011 Demonstrations
+IEEE IROS 2011 Demonstrations. \[[Link](http://www.iros2011.org/demos)\]
 <!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulation
 s, path planners, controllers, and integration with medical imaging. -->
 
