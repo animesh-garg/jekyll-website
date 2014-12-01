@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'Museo300';
-  src: url('/css/type/museo_300_macroman/Museo300-Regular.otf');
-  src: url('/css/type/museo_300_macroman/Museo300-Regular-webfont.eot?iefix') format('eot'),
-  url('/css/type/museo_300_macroman/Museo300-Regular-webfont.woff') format('woff'),
-  url('/css/type/museo_300_macroman/Museo300-Regular-webfont.ttf') format('truetype'),
-  url('/css/type/museo_300_macroman/Museo300-Regular-webfont.svg#webfontBsA9EFUC') format('svg');
+  font-family: "Museo300" ;
+  src: url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular.otf");
+  src: url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.eot?iefix") format("embedded-opentype"),
+  url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.woff") format("woff"),
+  url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.ttf") format("truetype"),
+  url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.svg#webfontBsA9EFUC") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -21,7 +21,7 @@
 body {
   background-color: #FFFDFC;
   color: #0A0A0A;
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+  font-family: "Museo300",'Helvetica Neue', 'Helvetica Neue Light', 'HelveticaNeue-Light',  Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
   font-size: 1em;
 }
 /* color scheme: http://colorschemedesigner.com/#3s21QvyQpw0w0 */
@@ -111,6 +111,25 @@ div.figure {
   border-radius: 3px;
   margin-bottom: 19px;
 }
+
+/* publications styling */
+.publications ol {
+  list-style: decimal;
+  margin-left: -30px;
+}
+
+.publications ul {
+  list-style: none;
+  margin-left: -30px;
+}
+
+.publications li {
+  border-left: 1px solid #ccc;
+  padding-left: 19px;
+  border-radius: 3px;
+  margin-bottom: 19px;
+}
+
 
 .vision_lunch li {
   list-style: bullet;
