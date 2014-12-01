@@ -33,4 +33,4 @@ Nanorobots have been shown to have high potential in-vitro experiments. Next ste
 [2] Rudchenko, Maria, Steven Taylor, Payal Pallavi, Alesia Dechkovskaia, Safana Khan, Vincent P. Butler Jr, Sergei Rudchenko, and Milan N. Stojanovic. "Autonomous molecular cascades for evaluation of cell surfaces." Nature nanotechnology 8, no. 8 (2013): 580-586. \[[Link](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776593/)\]  
 [3] Park, Sung Jun, Seung-Hwan Park, Sunghoon Cho, Deok-Mi Kim, Yeonkyung Lee, Seong Young Ko, Yeongjin Hong et al. "New paradigm for tumor theranostic methodology using bacteria-based microrobot." Scientific reports 3 (2013).\[[Link](http://www.nature.com/srep/2013/131202/srep03394/full/srep03394.html?message-global=remove&WT.ec_id=SREP-20131203)\]  
 
-[ref]: {{ site.baseurl }}{{ page.url }}/#refs  "Link to references"
+[ref]: {{ site.baseurl }}{{ page.url }}#refs  "Link to references"
