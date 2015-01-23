@@ -215,16 +215,26 @@ h1 {
   font-weight: normal;
 }
 
-#navbar {
+#navbar {  
   font-size: 1.4em;
   font-family: "Museo300",'Helvetica Neue', Helvetica, Arial, sans-serif;  
   margin-bottom: 19px;
-  background-color: #E6E6E6;
+  background-color: #E6E6E6;  
+  /*Make the nav bar slide with the page*/
+  /*position: fixed;
+  box-shadow: 0 2px 7px 0px #b8b8b8;*/
 }
 
 #navbar .small {
   font-size: 80%;  
 }
+/*Make the name also floating */
+/*#a-href-idhomeanimesh-garga {
+  position: fixed;  
+  background-color: #FFF;
+  box-shadow: 0 0 7px 0px #FFF;  
+  border: 3px solid #FFF;
+}*/
 
 h2 {
   font-family: "Museo300", 'Helvetica Neue', Helvetica, Arial, sans-serif;
