@@ -1,15 +1,32 @@
+# Author: Animesh Garg
+
+# Where things are
 source: ./src
 plugins:     ./src/_plugins
 layouts:     ./src/_layouts
 destination: ./_site
 #auto:       true
-highlighter: pygments
+#collections: null
 
+# Handling Reading
+safe:         false
+include:      [".htaccess"]
+exclude:      []
+keep_files:   [".git", ".svn"]
+encoding:     "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Backwards-compatibility
+relative_permalinks: false
 #relative_permalinks: true
 # permalink:  /:categories/:year-:month-:day/:title
 permalink:  none
 
-#deploy-also change in nav.js
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
 #baseurl:  http://www.eecs.berkeley.edu/~animesh.garg
 baseurl:   /~animesh.garg
 #debug
@@ -18,10 +35,36 @@ baseurl:   /~animesh.garg
 #Mac
 #baseurl:	/Users/animesh/work/jekyll-website/_site
 
+# Plugins
+whitelist: []
+gems:      []
+
+
+
 #markdown
 markdown:    kramdown
+highlighter: rouge
+#highlighter: pygments
+lsi:         false
+excerpt_separator: "\n\n"
 
 #redcloth:
 #  hard_breaks: true
 
 #kramdown:
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+   # coderay:
+   #  coderay_wrap:              div
+   #  coderay_line_numbers:      inline
+   #  coderay_line_number_start: 1
+   #  coderay_tab_width:         4
+   #  coderay_bold_every:        10
+   #  coderay_css:               style

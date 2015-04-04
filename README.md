@@ -4,9 +4,9 @@ jekyll-website
 Personal Website of Animesh Garg.   
 
 How to run:  
-1. Open shell and cd to ./src  
+1. Open shell and cd to /jekyll-website  
 2. jekyll serve --watch  
-This will fire up a local serverat http://localhost:4000 and you may check if your website works.  
+This will fire up a local serverat http://127.0.0.1:4000/~animesh.garg/ and you may check if your website works.  
 --watch allows you to change files without recompiling  
 3. jekyll --base-url "/~animesh.garg"  
 to generate a website you want to host at a shared hosting service where you can replace your address.  
