@@ -1,18 +1,11 @@
 {% capture stuff %}
 
 ### Welcome!  
-I am a Ph.D candidate in Robotics and AI at University of California, Berkeley since 2011.  
-My home department is [Operations Research][ieor], and I am also pursuing an MS in [Computer Science][cs].   
-
-I am working at the [Berkeley Lab for Automation Science and Engineering][autolab] at UC Berkeley where I am being advised by [Ken Goldberg][kg].  
-I also work closely with [Pieter Abbeel][pa] and [Alper Atamturk][alper].
+I am a Ph.D. student in [Operations Research][ieor] and MS student in [Computer Science][cs] at [University of California, Berkeley][ucb]. I am member of the [Automation Lab][autolab] advised by [Ken Goldberg][kg]. I also work closely with [Pieter Abbeel][pa], [Alper Atamturk][alper] and [UCSF](ucsf) Radiation Oncology.  
 Complete list of [collaborators]({{ site.baseurl }}/people/).
 
-*Research Interests*: Optimization (Mixed Integer, Non linear), Machine Learning, Artificial Intelligence in Robotics & Healthcare Applications. 
-
-Primarily, I work in radiation treatment planning and delivery for cancer. We design optimization algorithms for creating clinically safe radiation dose distributions and devise novel delivery methods leveraging Custom 3D printed implants and medical robotics.
-
-One of my long term goal would be to make robots as easy to program and operate as a car. And, I am working on skill learning with applications to surgical robotics.
+*Research Interests*: Optimization (Mixed Integer, Non linear), Machine Learning and AI in Robotics & Healthcare Applications.  
+I envision enabling ease of robot operation by laymen to an extent where the *user manual* becomes unnecessary. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning. 
 
 {% include peoples_urls.md %}
 {% endcapture %}

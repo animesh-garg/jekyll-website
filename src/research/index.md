@@ -6,7 +6,7 @@ layout: default
 
 
 I am interested problems at the intersection of optimization, machine learning and robotics. The goal of my work is analysis of decision and design problems in human-machine collaboration and skill-augmentation, with a focus on healthcare.
-I study integration of algorithms with hardware design for applications in medical robotics and healthcare.  My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  Inference and optimization in healthcare are often hard-to-solve multi-stage stochastic models, and I focus on efficient reformulations and heuristics with guarantees. 
+I study integration of algorithms with hardware design for applications in medical robotics and healthcare.  My work employs and contributes to techniques in non-convex discrete optimization and representation learning. 
 
 Specifically, I have studied algorithmically grounded solutions for integration of autonomy in internal radiotherapy for cancer and subtask automation in Robot-assisted minimally invasive surgery (RMIS). 
 
@@ -25,20 +25,21 @@ We proposed a Disposable Haptic Palpation Probe for Locating Subcutaneous Blood 
 ![DVRK]({{ site.baseurl }}/research/images/tasks-dvrk.jpg)
 : **Learning by Observation for Surgical Subtasks**  
 We proposed a [Learning by Observation]({{ site.baseurl }}/files/murali-LBO-2015.pdf) algorithm for surgical subtasks demosttrated with multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms.  
-\[[**PDF**]({{ site.baseurl }}/files/murali-LBO-2015.pdf)\] \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]
+\[[**PDF**]({{ site.baseurl }}/files/murali-LBO-2015.pdf)\] \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\] \[[**Short Talk**](https://youtu.be/Eye92IXOkxE)\]
 
 ---
 
 ###### Radiation Therapy for Cancer: Planning and Delivery
 
 High Dose Rate Brachytherapy (HDR-BT) is an internal radiation therapy and is prevalent for cancer treatment in many body sites such as mouth, breast and prostate. It involves radioactive sources placed temporarily proximal to or within tumors. 
-Current methods for intracavitary and interstitial HDR-BT use generic templates which result in inadequate dose coverage and healthy organ puncture, respectively. We present novel patient specific **3D-printed implants** and **needle guides** for respective modes; we also evaluate **robot-assisted needle implants** for interstitial HDR-BT. Further, we pose the treatment planning for problem as a discrete conic optimization to achieve optimality guarantees.
+Current methods for intracavitary and interstitial HDR-BT use generic templates which result in inadequate dose coverage and healthy organ puncture, respectively.  
+We present novel patient specific **3D-printed implants** and **needle guides** for respective modes; we also evaluate **robot-assisted needle implants** for interstitial HDR-BT. Further, we pose the treatment planning for problem as a discrete conic optimization to achieve optimality guarantees. 
 
 ![3dImplants]({{ site.baseurl }}/research/images/research-anatomy-implant.png)
 : **3D Printed Implants for Intracavitary Brachytherapy**  
 We propose a new approach that builds on recent results in 3D printing and steerable needle motion planning to create customized implants containing customized curvature-constrained internal channels that fit securely, minimize air gaps, and precisely
 guide radioactive sources through printed channels.  
-\[[**PDF**]({{ site.baseurl }}/files/garg-3dpImplant-case-2013.pdf)\]
+\[[**PDF**]({{ site.baseurl }}/files/garg-3dpImplant-case-2013.pdf)\] \[[**Short Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
 
 ![material-Evaluation]({{ site.baseurl }}/research/images/matEval-jacmp.png)
 : **Material Evaluation for 3D Printed Implants in GYN HDR-BT**  
@@ -56,11 +57,11 @@ We propose a new approach that builds on recent results in 3D printing and steer
 guide radioactive sources through printed channels.  
 \[[**PDF**]({{ site.baseurl }}/files/garg-3dpImplant-case-2013.pdf)\]
 
-<!--![externalImplants]({{ site.baseurl }}/research/images/3DP-ExternalTemplate-1.jpg)-->
-![externalImplants]({{ site.baseurl }}/research/images/comingSoon.jpg)
+<!--![externalImplants]({{ site.baseurl }}/research/images/comingSoon.jpg) -->
+![externalImplants]({{ site.baseurl }}/research/images/3DP-ExternalTemplate-1.jpg)
 : **3D Printed Guides for Prostate Brachytherapy**  
 We propose the use of patient specific custom needle guides for needle configuration implant in Prostate HDR-BT. This work builds upon the robot-guided needle implants, and attempts to evaluate a low-cost yet effective method for achieving clinical objectives.  
-\[[**PDF**-soon!]({{ site.baseurl }}/research/)\]  
+\[[**PDF**-soon!]({{ site.baseurl }}/research/)\] \[[**Link**](http://www.sciencedirect.com/science/article/pii/S1538472114004863)\] 
 
 ---
 

@@ -20,7 +20,7 @@ Reference Docs:
 
 Comprehensive guide to Jekyll: http://jekyllrb.com/docs/home/  
 Liquid Tags Cheatsheet: http://cheat.markdunkley.com/  
-Kramdown - http://kramdown.gettalong.org/syntax.html (Preferred)
+Kramdown - http://kramdown.gettalong.org/syntax.html (Preferred)  
 Markdown Syntax: http://daringfireball.net/projects/markdown/syntax  
 Textile Documentation: http://txstyle.org/
 Fonts: https://edgewebfonts.adobe.com/index

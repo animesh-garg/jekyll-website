@@ -10,19 +10,18 @@ pagination: true
 
 ### Recent [Research]({{ site.baseurl }}/research/)
 {% include recent_projects.md %}
-
+<!--
 * [**Customized Treatment methods for HDR Brachytherapy**]({{ site.baseurl}}/research/Brachytherapy.html)  
 
 <div align="center">
-<img src="{{ site.baseurl}}/research/images/panel-Labelled-v3.png" alt="custom workflow" style="width: 480px" align="middle" />
+<img src="{{ site.baseurl}}/research/images/panel-Labelled-v3.png" alt="custom workflow" style="width: 80%" align="middle" />
 </div>
 
 * [**Learning from Expert Demonstrations for Surgical Robotics**]({{ site.baseurl}}/research/Robotics.html)  
 
 <div align="center">
-<img src="{{ site.baseurl}}/research/images/tasks-dvrk.jpg" alt="dvrk-lbo" style="width: 480px" align="middle" />
-</div>
-
+<img src="{{ site.baseurl}}/research/images/circleProcess.jpg" alt="dvrk-lbo" style="width: 80%" align="middle" />
+</div>  
 <!--
 <ul class="inset">
 {% for post in site.categories.research limit:3  %}
@@ -32,13 +31,13 @@ pagination: true
   </li>
 {% endfor %}
 </ul>
--->
+-->  
 
 ---
 
 ### Recent [News]({{ site.baseurl }}/news/)
 <ul class="inset">
-{% for post in site.categories.news limit:3 %}
+{% for post in site.categories.news limit:4 %}
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
   </li>

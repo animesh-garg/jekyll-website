@@ -10,12 +10,11 @@
 
 
 
-Ph.D. Candidate  
+Ph.D. Student  
 [Automation Lab][autolab]  
 [Operations Research][ieor]   
 [Computer Science][cs]  
 [UC, Berkeley][ucb]  
-
 
 Email me: [<i class="fa fa-envelope fa-lg"></i>](javascript:toggleblock('emailAdd')) 
 <i id = "emailAdd"> [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu) </i>

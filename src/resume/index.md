@@ -4,11 +4,13 @@ layout: default
 div_class: vita
 ---
 
-I want to solve some of the open problems in AI, particularly for robotics. I am interested in optimization and machine learning applications for robotics & healthcare applications. 
+I was born in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior), studied Manufacturing & Automation at [University of Delhi][du] and moved to the US in 2010 for graduate training. 
 
-Primarily, I work in radiation treatment planning and delivery for cancer. We use latest optimization algorithms for creating clinically safe radiation distributions and devise novel delivery methods like custom 3D printed implants.
+I am interested problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
 
-One of my long term goal would be to make robots as easy to program and operate as a car. I am also working on skill learning with applications to surgical robotics.
+During my Ph.D., I have studied algorithmically grounded solutions for:  
++ Learning & Automation in Surgical Subtasks.  
++ Radiation Therapy for Cancer: Planning and Delivery.  
 
 Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.  
 
@@ -16,13 +18,12 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
 
 ###### Education
 
-2016 (expected)
+Exp. 2016  *Committee*
 : **Ph.D. Operations Research** &#xb7; [University of California, Berkeley][ieor]  
-  *Committee*: [Ken Goldberg][kg], [Alper Atamturk][alper], [Pieter Abbeel][pa],  
-  [Laurent El Ghaoui][leg], [Jean Pouliot][jp]   
-  *Coursework*: Linear and Non Linear Optimization, Stochastic Modeling, Network Algorithms and Graph Theory, Statistical Learning, Controls, Robotics.
+  [Ken Goldberg][kg], [Alper Atamturk][alper], [Pieter Abbeel][pa], [Laurent El Ghaoui][leg], [Jean Pouliot][jp]   
+  <!--*Coursework*: Linear and Non Linear Optimization, Stochastic Modeling, Network Algorithms and Graph Theory, Statistical Learning, Controls, Robotics.-->
 
-2014 (expected)
+Exp. 2015 
 : **M.S. Computer Science** &#xb7; [University of California, Berkeley][cs]  
   *Advisors*: [Ken Goldberg][kg] and [Pieter Abbeel][pa] 
 
@@ -30,7 +31,7 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
 : **M.S. Industrial Engineering** &#xb7; [Georgia Institute of Technology](http://www.isye.gatech.edu/), Atlanta  
 
 2010 
-: **Bachelor in Engineering, Manufacturing Processes and Automation**  
+: **Bachelor in Engineering, Manufacturing Processes & Automation**  
 [Netaji Subhas Institute of Technology](http://nsit.ac.in/department/mpa.php), [University of Delhi][du] (India)  
   *Advisors*: Pradeep Khanna, Sachin Maheshwari and Satish Chand
 
@@ -52,7 +53,7 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
 2010
 :  Erasmus Mundus Fellowship for MSc. at TU Munich (full tuition and stipend)
 
-2007, 2009, 2010 
+2007, '09, '10 
 : NSIT Academic Merit Scholarship Award (full tuition waiver)
 
 2004 -- 2010
@@ -60,101 +61,115 @@ Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest 
 
 ---
 
-###### Publications
-
-* For a full list of papers, go to [Publications]({{ site.baseurl }}/publications.html) page.  
-* For an online listing please visit [Google Scholar](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
-
----
-
 ###### Employment
 
-2011 -- 
-: **UC Berkeley**  
-  Graduate Student Researcher  
-  *Learning algorithms for greater autonomy in surgical tasks.*  
-  *Implement autonomy in clinical brachytherapy.*
+2011 -- *Present*
+: **UC Berkeley** , Graduate Student Researcher    
+  Learning algorithms for greater autonomy in surgical tasks.  
+  Implement autonomy in clinical brachytherapy.
 
 2010 -- 2011
-: **Georgia Institute of Technology**  
-  Graduate Student Researcher  
-  *Efficient object segmentation in video using Integer Programming.*
+: **Georgia Institute of Technology**, Graduate Student Researcher  
+  Efficient object segmentation in video using Integer Programming.
 
 Winter 2009
-: **Defence Research and Development Organisation, India**    
-  Research Assistant  
-  *Assisted in design and simulation of a fire-protection system in a submarine emulator.*   
+: **Defence Research and Development Organisation, India**, Research Assistant       
+  Design and simulation of a fire-protection system in a vessel emulator.   
 
 Summer 2009
-: **National Thermal Power Corporation, India**   
-  Engineering Intern   
-  *Assisted in the Control and Instrumentation dept. of the thermal power plant.*    
+: **National Thermal Power Corporation, India**, Engineering Intern     
+  Assisted in the Control and Instrumentation dept. of the thermal power plant.  
   
 Winter 2007
-: **JK Tyres India Pvt. Ltd**  
-   Engineering Intern  
-   *Worked on PLC systems in the plant for automatic Mixing Processes involving composites used alongside rubber in tyre manufacturing.*  
+: **JK Tyres India Pvt. Ltd** , Engineering Intern     
+   Worked on PLC systems in the plant for automatic Mixing Processes involving composites used alongside rubber in tyre manufacturing.  
    
-   
----
- 
-###### Teaching
-Spring-2015
-: Teaching Assistant, **Industrial Design and Human Factors** \([IEOR-170](http://www.ieor.berkeley.edu/~ieor170/)\)  
-  [Ken Goldberg][kg]  
-  *University of California, Berkeley*
-
-Fall-2014, Fall-2013, Spring-2013, Fall-2011
-: Teaching Assistant, **Industrial and Commercial Data Systems** \([IEOR-115](http://www.ieor.berkeley.edu/~ieor115/)\)  
-  [Ken Goldberg][kg]  
-  *University of California, Berkeley*
-
-Fall 2012
-: Teaching Assistant, **Technology Entrepreneurship** \(IEOR 191\)  
-  [Ron Lesniak](http://ronlesniak.com/)  
-  *University of California, Berkeley*
-
-Spring 2011
-: Teaching Assistant, **Computer Graphics** \([CS 3451](http://www.cc.gatech.edu/graphics/courses.html)\)   
-  [Greg Turk](http://www.cc.gatech.edu/~turk/)   
-  *Georgia Institute of Technology*
-
 ---
 
 ###### Invited Talks
 
+Feb 2015
+: Learning by Observation for Surgical Subtasks  
+[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/) (short talk), Berkeley, CA \[[**Talk**](https://youtu.be/Eye92IXOkxE)\]
+
+Oct 2014
+: Custom 3D printed Implants for High Dose Rate Brachytherapy.  
+Poster & Demo at Stanford Berkeley Robotics Symposium  
+
+Feb 2014
+: Custom 3D printed Implants for High Dose Rate Brachytherapy.  
+[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/2014/) (short talk), Berkeley, CA \[[**Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
+
 Fall 2011
-: Lectured on Linear Programming, **Introduction to IEOR(Seminar)** \(IEOR 24\)  
+: Lectured on Linear Programming, *Introduction to IEOR(Seminar)* \(IEOR 24\)  
   *University of California, Berkeley*
+
+Sept 2011
+: A Robotic System for Needle Steering, *IEEE IROS 2011* Demonstrations
+
+---
+ 
+###### Teaching
+[IEOR-170](http://www.ieor.berkeley.edu/~ieor170/)
+: **Industrial Design and Human Factors**, TA (*Sp-15*)   
+  [Ken Goldberg][kg], *University of California, Berkeley*
+
+[IEOR-115](http://www.ieor.berkeley.edu/~ieor115/)
+: **Industrial and Commercial Data Systems**, TA (*F-11, F-13, F-14, Sp-13*)  
+  [Ken Goldberg][kg], *University of California, Berkeley*
+
+IEOR 191
+: **Technology Entrepreneurship**, TA (*F-12*)  
+  [Ron Lesniak](http://ronlesniak.com/), *University of California, Berkeley*
+
+[CS 3451](http://www.cc.gatech.edu/graphics/courses.html)
+: **Computer Graphics**, Reader (*Sp-11*)   
+  [Greg Turk](http://www.cc.gatech.edu/~turk/), *Georgia Institute of Technology*
 
 ---
 
 ###### Student Mentoring
 
-* Heimdall Siao - Undergraduate (2012), Now at Ericsson
-* Nikitha Singh - Undergraduate (2014), Now at Palantir
-* Zach Mulder - Undergraduate (2014), Now grad student at Berkeley
+Undergraduate
+: Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
+Nikitha Singh (2013-14) -- Palantir  
+Zach Mulder (2013-14) -- Grad School (Berkeley)
+
+M.Eng
+: Anwaar El-Zireeni (2013-14) -- Startup   
+ Jennifer Wong (2013-14) -- ZS Associates  
+Rashmi Ramtani (2013-14)  
 
 ---
 
 ###### Service
-2014 
-: Volunteer for INFORMS 2014 local organization.
-
 Ongoing
-: Reviewer for CASE 2013, CASE 2014, ICRA 2014, [APES 2014](http://www.springer.com/biomed/journal/13246)
+: Reviewer for CASE 2013-2015, IROS 2015, ICRA 2014, [APES 2014](http://www.springer.com/biomed/journal/13246)
+
+2014 
+: Volunteer for INFORMS 2014 local organization.  
+Volunteer for RSS 2014 local organization
 
 2009 -- 2010
 : [NSIT Alumni Association](http://nsitalumni.org/)  
-Founded an online alumni network and started bi-annual publication *Reminisce*
+Founded an online alumni network and started publication of [*Reminisce*](http://nsitalumni.org/main/index.php/reminisce-2009-10.html)
 
 2008 -- 2010
 : NSIT Placement Team  
   Assisted in coordinating recruitments for the batch of 2010.  
 
-
 {% include peoples_urls.md %}
 ---
+
+<!--
+###### Publications
+
+* For a full list of papers, go to [Publications]({{ site.baseurl }}/publications.html) page.  
+* For an online listing please visit [Google Scholar](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
+---
+
+-->
+
 <!--
 <div class="footer">
 &copy; Last updated on: {{ site.time | date_to_string }}
