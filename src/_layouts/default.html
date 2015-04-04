@@ -11,7 +11,9 @@ layout: base
     <div class="grid_9 alpha omega" id="navbar">
       {% include navbar.html %}
     </div>
-    
+    <!-- <br><!-- Added space to allo for sliding navigation bar-->
+    <!-- <br> -->
+    <br>
     <div class="grid_9 alpha omega">
       <div class="{{ page.div_class }}">
         <div id="page-content">
@@ -23,6 +25,11 @@ layout: base
       {% if page.comments %}
         {% include comments.html %}
       {% endif %}
+      
+      <div id="footer">
+        <br>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"></a>&copy; 2010-<script>document.write(new Date().getFullYear())</script>  Animesh Garg. <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC-NC-SA-4.0</a>. Built with <a href="http://jekyllrb.com/">Jekyll</a>. Template adapted from <a href="http://sergeykarayev.com/">Sergey Karayev</a>.
+      </div>
     </div>
   </div>
 </div>

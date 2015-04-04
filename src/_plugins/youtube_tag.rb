@@ -17,21 +17,22 @@ module Jekyll
     def initialize(tag_name, markup, tokens)
       if markup =~ /(?:(?:https?:\/\/)?(?:www.youtube.com\/(?:embed\/|watch\?v=)|youtu.be\/)?(\S+)(?:\?rel=\d)?)(?:\s+(\d+)\s(\d+))?/i
         @videoid = $1
-        @width = $2 || "480"
+        @width = $2 || "480"        
         @height = $3 || "360"
       end
       super
     end
 
     def render(context)
-      ouptut = super
+      output = super
       if @videoid
         # Thanks to Andrew Clark for the inline CSS calculation idea <http://contentioninvain.com/2013/02/13/video-embeds-for-responsive-designs/>
         intrinsic = ((@height.to_f / @width.to_f) * 100)
-        padding_bottom = ("%.2f" % intrinsic).to_s  + "%"
-        # remove/comment the next line and adjust the class name on the following line if you already have CSS for responsive video
-        video = "<style>.bt-video-container iframe,.bt-video-container object,.bt-video-container embed{position:absolute;top:0;left:0;width:100%;height:100%;margin-top:0}</style>\n"
-        video += %Q{<div class="bt-video-container" style="position:relative;padding-bottom:#{padding_bottom};padding-top:30px;height:0;overflow:hidden"><iframe width="#{@width}" height="#{@height}" src="http://www.youtube.com/embed/#{@videoid}?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe></div>}
+        padding_bottom = ("%.2f" % intrinsic).to_s  + "%"        
+        # remove/comment the next line and adjust the class name on the following line if you already have CSS for responsive video      
+        video = "<style>.video-container iframe{display:block; margin-right:auto; margin-left:auto},.video-container object,.video-container embed{position:absolute;top:0;left:0;width:100%;height:auto;margin-top:0}</style>\n"        
+        #height:100%;
+        video += %Q{<div class="video-container" style="position:relative;padding-bottom:#{padding_bottom};padding-top:30px;height:0;overflow:hidden"><iframe width="#{@width}" height="#{@height}" src="http://www.youtube.com/embed/#{@videoid}?rel=0&showinfo=0" frameborder="0" allowfullscreen> </iframe></div>}      
       else
         "Error processing input, expected syntax: {% youtube video_id [width height] %}"
       end
