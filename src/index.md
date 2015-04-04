@@ -11,13 +11,13 @@ pagination: true
 ### Recent [Research]({{ site.baseurl }}/research/)
 {% include recent_projects.md %}
 
-* [**Customized Treatment methods for HDR Brachytherapy**]({{ site.baseurl}}/research//Brachytherapy.html)  
+* [**Customized Treatment methods for HDR Brachytherapy**]({{ site.baseurl}}/research/Brachytherapy.html)  
 
 <div align="center">
 <img src="{{ site.baseurl}}/research/images/panel-Labelled-v3.png" alt="custom workflow" style="width: 480px" align="middle" />
 </div>
 
-* [**Learning from Expert Demonstrations for Surgical Robotics**]({{ site.baseurl}}/research//Robotics.html)  
+* [**Learning from Expert Demonstrations for Surgical Robotics**]({{ site.baseurl}}/research/Robotics.html)  
 
 <div align="center">
 <img src="{{ site.baseurl}}/research/images/tasks-dvrk.jpg" alt="dvrk-lbo" style="width: 480px" align="middle" />
@@ -57,12 +57,14 @@ pagination: true
 </ul>
 
 
+
 <!--
 <div class="footer">
 &copy; Last updated on: {{ site.time | date_to_string }}
 </div>
--->
-<div class="footer">
+
+<div id="footer">
 <br>
-&copy; Template from <a href="http://sergeykarayev.com/">Sergey Karayev</a> | Adapted by Animesh Garg
+Template by <a href="http://sergeykarayev.com/">Sergey Karayev</a> | Adapted by Animesh Garg
 </div>
+-->
