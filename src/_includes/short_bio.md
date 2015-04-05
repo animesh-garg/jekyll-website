@@ -1,7 +1,7 @@
 {% capture stuff %}
 
 ### Welcome!  
-I am a Ph.D. student in [Operations Research][ieor] and MS student in [Computer Science][cs] at [University of California, Berkeley][ucb]. I am member of the [Automation Lab][autolab] advised by [Ken Goldberg][kg]. I also work closely with [Pieter Abbeel][pa], [Alper Atamturk][alper] and [UCSF](ucsf) Radiation Oncology.  
+I am a Ph.D. student in [Operations Research][ieor] and MS student in [Computer Science][cs] at [University of California, Berkeley][ucb]. I am a member of the [Automation Lab][autolab] advised by [Ken Goldberg][kg]. I also work closely with [Pieter Abbeel][pa], [Alper Atamturk][alper] and [UCSF](ucsf) Radiation Oncology.  
 Complete list of [collaborators]({{ site.baseurl }}/people/).
 
 *Research Interests*: Optimization (Mixed Integer, Non linear), Machine Learning and AI in Robotics & Healthcare Applications.  

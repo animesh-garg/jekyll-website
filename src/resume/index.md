@@ -4,9 +4,9 @@ layout: default
 div_class: vita
 ---
 
-I was born in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior), studied Manufacturing & Automation at [University of Delhi][du] and moved to the US in 2010 for graduate training. 
+I was born in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior), studied Manufacturing & Automation at [University of Delhi][du] and moved to the US in 2010 for graduate study. 
 
-I am interested problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
+I am interested in problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
 
 During my Ph.D., I have studied algorithmically grounded solutions for:  
 + Learning & Automation in Surgical Subtasks.  

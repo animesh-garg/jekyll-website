@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-I am interested problems at the intersection of optimization, machine learning and robotics. The goal of my work is analysis of decision and design problems in human-machine collaboration and skill-augmentation, with a focus on healthcare.
+I am interested in problems at the intersection of optimization, machine learning and robotics. The goal of my work is analysis of decision and design problems in human-machine collaboration and skill-augmentation, with a focus on healthcare.
 I study integration of algorithms with hardware design for applications in medical robotics and healthcare.  My work employs and contributes to techniques in non-convex discrete optimization and representation learning. 
 
 Specifically, I have studied algorithmically grounded solutions for integration of autonomy in internal radiotherapy for cancer and subtask automation in Robot-assisted minimally invasive surgery (RMIS). 

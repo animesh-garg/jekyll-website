@@ -6,5 +6,5 @@ To DO for jekyll-website
 - [ ]  Update the Misc page with links and better layout. 
 Links: http://mark.reid.name/blog/kith.htmlw
 - [ ]  update the HOWTO video using micsrosoft office mix
-- [ ]  use jekyll-scholar for bib
-11. Add a collection of press coverage
+- [ ]  use jekyll-scholar for bib, and abstract listing on pubs page
+- [ ] Add a collection of press coverage
