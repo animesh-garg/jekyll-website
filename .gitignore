@@ -1,6 +1,8 @@
 _site/
 site_online/
 work/files
+src/files/*
+src/images/*
 todo.txt
 load-site.sh
 *~
