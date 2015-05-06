@@ -16,13 +16,18 @@ Specifically, I have studied algorithmically grounded solutions for integration 
 
 Currently, robot-assisted minimally invasive surgery (RMIS) devices are controlled by surgeons in a local tele-operation mode. Procedures often last multiple hours and highly depend on surgeon skill. Autonomy of surgical subtasks has the potential to assist surgeons, reduce fatigue, and facilitate supervised autonomy for tele-surgery.  We consider learning task representations as **milestones** from demonstrations and use multimodal sensory input for classification of success criterion. The goal of this work is semi-supervised learning of *necessary* conditions of success, eventually allowing demonstrations to be **Actor Agnostic**.
 
+![Palpation Probe]({{ site.baseurl }}/research/images/su-demo-3.png)
+: **Unsupervised Surgical Task Segmentation**  
+We proposed an unsupervised algorithm for recovering structure from demonstration data and autonomously perform semantic segmentation.  
+\[[**PDF**]({{ site.baseurl }}/research/)\] - *under review*
+
 ![Palpation Probe]({{ site.baseurl }}/research/images/ProbeSkinDVRK-01.jpg)
-: **Disposable Sensing Probes for Minimally Invasive Surgery**  
+: **Disposable Sensors for Minimally Invasive Surgery**  
 We proposed a Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery.  
 \[[**PDF**]({{ site.baseurl }}/research/)\] - *under review*
 <!--\[[**PDF**]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)\]-->
 
-![DVRK]({{ site.baseurl }}/research/images/tasks-dvrk.jpg)
+![DVRK]({{ site.baseurl }}/research/images/tasks-dvrk-v2.jpg)
 : **Learning by Observation for Surgical Subtasks**  
 We proposed a [Learning by Observation]({{ site.baseurl }}/files/murali-LBO-2015.pdf) algorithm for surgical subtasks demosttrated with multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms.  
 \[[**PDF**]({{ site.baseurl }}/files/murali-LBO-2015.pdf)\] \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\] \[[**Short Talk**](https://youtu.be/Eye92IXOkxE)\]
@@ -37,22 +42,21 @@ We present novel patient specific **3D-printed implants** and **needle guides** 
 
 ![3dImplants]({{ site.baseurl }}/research/images/research-anatomy-implant.png)
 : **3D Printed Implants for Intracavitary Brachytherapy**  
-We propose a new approach that builds on recent results in 3D printing and steerable needle motion planning to create customized implants containing customized curvature-constrained internal channels that fit securely, minimize air gaps, and precisely
-guide radioactive sources through printed channels.  
+We propose a new approach that builds on progress in 3D printing and steerable needle motion planning to create customized implants containing customized curvature-constrained internal channels that fit securely, minimize air gaps, and precisely guide radioactive sources through printed channels.  
 \[[**PDF**]({{ site.baseurl }}/files/garg-3dpImplant-case-2013.pdf)\] \[[**Short Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
 
 ![material-Evaluation]({{ site.baseurl }}/research/images/matEval-jacmp.png)
-: **Material Evaluation for 3D Printed Implants in GYN HDR-BT**  
-The purpose of this study was to evaluate the radiation attenuation properties of PC-ISO, a commercially available, biocompatible, sterilizable 3D printing material, and its suitability for customized, single-use gynecologic (GYN) brachytherapy applicators that have the potential for accurate guiding of seeds through linear and curved internal channels.  
+: **Material Evaluation of 3D Printed GYN Implants**  
+The study evaluates the radiation attenuation properties of PC-ISO, a commercially available, biocompatible, sterilizable 3D printing material, and its suitability for customized, single-use gynecologic (GYN) brachytherapy applicators that have the potential for accurate guiding of seeds through linear and curved internal channels.  
 \[[**PDF**]({{ site.baseurl }}/files/JACMP-published-version.pdf)\]
 
 ![Acubot-Brachy]({{ site.baseurl }}/research/images/research-AcubotPlusImplant.png)
-: **Robot-Guided Needle Insertion for HDR Brachytherapy**  
-We incorporated human-centered automation to reduce side effects from HDR-BT in prostate cancer. The aim is to efficiently deliver radiation to the prostate while minimizing trauma to sensitive structures such as the penile bulb. We modify the Acubot-RND 7-axis robot to guide needles into desired skew-line geometric arrangements algorithmically calculated with a combination of needle planning and inverse dose planning algotihms.  
+: **Robot-Guided Needle Insertion for HDR-BT**  
+We leverage human-centered automation to reduce side effects from HDR-BT in prostate cancer by efficiently delivering radiation to the prostate while minimizing trauma to sensitive structures such as the penile bulb. We modify the [Acubot-RND](http://urobotics.urology.jhu.edu/projects/RND/) system to guide needles into desired skew-line arrangements algorithmically calculated with needle planning and inverse dose planning algorithms.  
 \[[**PDF**]({{ site.baseurl }}/files/garg-brachy-case-2012.pdf)\] \[[**Extended Version**]({{ site.baseurl }}/files/garg-brachy-tase-2013.pdf)\] \[[**Video**](https://youtu.be/Kk_wHiu8nGg)\] \[[**Talk**](https://youtu.be/TGEIRpbuS_I)\]
 
 ![reachability]({{ site.baseurl }}/research/images/anatomyExample-noAxesLabel.png)
-: **Reachability Analysis for Needle Planning in Brachytherapy**  
+: **Reachability Analysis for Needle Planning in HDR-BT**  
 We propose a new approach that builds on recent results in 3D printing and steerable needle motion planning to create customized implants containing customized curvature-constrained internal channels that fit securely, minimize air gaps, and precisely
 guide radioactive sources through printed channels.  
 \[[**PDF**]({{ site.baseurl }}/files/garg-3dpImplant-case-2013.pdf)\]

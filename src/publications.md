@@ -27,14 +27,19 @@ Katherine Mellis, Timmy Siauw, Atchar Sudhyadhom, Rajni Sethi, I-Chow Hsu, Jean 
 
 ###### Conference Publications
 
+* \[C9\] **Unsupervised Surgical Task Segmentation with Milestone Learning**  
+Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)  
+*Under Review.* \[[**PDF**-soon!]({{ site.baseurl }}/publications.html)\]
+
 * \[C8\] **A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rehan Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
 *Under Review: CASE 2015* \[[**PDF**-soon!]({{ site.baseurl }}/publications.html)\]
 <!--\[[**PDF**]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)\]-->
 
 * \[C7\] **Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms**  
-Adithyavairavan Murali, Siddarth Sen, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.   
-*IEEE Int'l Conference on Robotics and Automation (ICRA), 2015.* \[[**PDF**]({{ site.baseurl }}/files/murali-LBO-2015.pdf)\] \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]
+Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
+*IEEE Int'l Conference on Robotics and Automation (ICRA), 2015.* \[[**PDF**]({{ site.baseurl }}/files/murali-LBO-2015.pdf)\] \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]  
+**<font color="red">Best Paper Award Finalist.</font>**
 
 * \[C6\] **Exact Reachability Analysis for Planning Skew-Line Needle Arrangements for Automated Brachytherapy.**  
   **Animesh Garg**, Timmy Siauw, Guang Yang, Sachin Patil, J. Adam M. Cunha, I-Chow Hsu, Jean Pouliot, Alper Atamturk, Ken Goldberg.  
@@ -69,18 +74,33 @@ Adithyavairavan Murali, Siddarth Sen, Ben Kehoe, **Animesh Garg**, Seth McFarlan
 Siauw, Timmy, J. Adam M. Cunha, **Animesh Garg**, Ken Goldberg, I. Hsu, and Jean Pouliot.  *Brachytherapy 13 (2014): S126-S126.* \[[**Link**](http://www.sciencedirect.com/science/article/pii/S1538472114004863)\]
 
 * \[S3\] **Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis**  
- JAM Cunha, T Siauw, **A Garg**, N Zhang, K Goldberg, D Stoianovici, M Roach III, I-C Hsu, J Pouliot.  
+ JAM. Cunha, T. Siauw, **A. Garg**, N. Zhang, K. Goldberg, D. Stoianovici, M. Roach III, I-C. Hsu, J. Pouliot.  
  *Medical Physics, vol. 39, p.3931, 2012.* \[[**Med Phys**](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)\] \[[**AAPM**](http://www.aapm.org/meetings/2012am/PRAbs.asp?mid=68&aid=17884)\]
 
 * \[S2\] **Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture**  
- JAM Cunha, **A Garg**, T Siauw, N Zhang, Y Zuo, K Goldberg, D Stoianovici, M Roach, J Pouliot.  
+ JAM. Cunha, **A. Garg**, T. Siauw, N. Zhang, Y. Zuo, K. Goldberg, D. Stoianovici, M. Roach III, J. Pouliot.  
  *J. of Radiotherapy and Oncology, vol.103,p.S45-S46, May 2012.* \[[**Link**](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)\]
 
 * \[S1\] **A Robotic System for Needle Steering**  
 Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura.  
 *IEEE IROS 2011 Demonstrations.* \[[**Link**](http://www.iros2011.org/demos)\]
-<!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulation
-s, path planners, controllers, and integration with medical imaging. -->
+<!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulations, path planners, controllers, and integration with medical imaging. -->
+
+---
+
+###### Workshop Papers
+
+* \[W3\] **Learning, Optimization & Design for Healthcare Systems.**  
+**Animesh Garg**, Ken Goldberg.   
+*Ph.D. Forum at ICRA 2015.*  \[[**PDF**]({{ site.baseurl }}/files/garg-ICRA15-phdForum.pdf)\]
+
+* \[W2\] **Preliminary Report on the Design of a Palpation Probe for Robot-Assisted Minimally Invasive Surgery**  
+Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rehan Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.   
+*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*
+
+* \[W1\] **Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation**  
+Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
+*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*
 
 ---
 

@@ -38,6 +38,9 @@ Exp. 2015
 ---  
 
 ###### Honors and Awards
+2015
+:  IEEE ICRA [PhD Forum](http://icra2015.org/contribute/call-for-participation-phd-forum) Speaker
+
 2014
 :  UC Berkeley Dept. of IEOR Summer Research Grant
 
