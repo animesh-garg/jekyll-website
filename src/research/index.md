@@ -73,19 +73,3 @@ We propose the use of patient specific custom needle guides for needle configura
 <div id="footer">
 <b>Copyright notice</b>: This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
 </div>
-<!--{% include recent_projects.md %}
-##### For a list of papers, go to [Publications]({{ site.baseurl }}/publications.html) page.  
---- 
--->
-<!-- 
-<ul class="inset">
-{% for post in site.categories.research %}
-  <li> 
-    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.title | markdownify }}</strong></a>
-    <br>
-  	<p>{{ post.excerpt }}</p>
-   	<br> <a href="{{ site.baseurl }}{{ post.url }}"><strong>Read More...</strong></a>
-  </li>  <br>
-{% endfor %}
-</ul>
--->

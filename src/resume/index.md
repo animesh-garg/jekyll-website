@@ -9,8 +9,8 @@ I was born in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior), studied Ma
 I am interested in problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
 
 During my Ph.D., I have studied algorithmically grounded solutions for:  
-+ Learning & Automation in Surgical Subtasks.  
-+ Radiation Therapy for Cancer: Planning and Delivery.  
+- [Learning & Automation in Surgical Subtasks]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
+- [Radiation Therapy for Cancer: Planning and Delivery]({{ site.baseurl }}/research/#radiation-therapy-for-cancer-planning-and-delivery)  
 
 Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.  
 
@@ -39,7 +39,8 @@ Exp. 2015
 
 ###### Honors and Awards
 2015
-:  IEEE ICRA [PhD Forum](http://icra2015.org/contribute/call-for-participation-phd-forum) Speaker
+:  IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/contribute/call-for-participation-phd-forum)  
+  IEEE ICRA 2015 [Best Medical Robotics Paper Award Finalist](http://icra2015.org/conference/awards#medical)
 
 2014
 :  UC Berkeley Dept. of IEOR Summer Research Grant
@@ -49,17 +50,17 @@ Exp. 2015
    UC Berkeley Dept. of IEOR Summer Research Grant
 
 2012
-: IEEE CASE 2012 Best Application Paper Award  
-  UC Berkeley International Office Tuition Award  
-  Dept. of IE&OR Graduate Fellowship
+: IEEE CASE 2012 [Best Application Paper Award](http://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/81-ieee-case-best-application-paper-award-sponsored-by-qsi)  
+  Berkeley International Office Tuition Award  
+  Dept. of IEOR Graduate Fellowship
 
 2010
-:  Erasmus Mundus Fellowship for MSc. at TU Munich (full tuition and stipend)
+:  Erasmus Mundus Fellowship at TU Munich (full tuition and stipend)
 
-2007, '09, '10 
+2007 -- 10 
 : NSIT Academic Merit Scholarship Award (full tuition waiver)
 
-2004 -- 2010
+2004 -- 10
 : State Bank of India Meritorious Student Scholarship (stipend)
 
 ---
@@ -71,21 +72,21 @@ Exp. 2015
   Learning algorithms for greater autonomy in surgical tasks.  
   Implement autonomy in clinical brachytherapy.
 
-2010 -- 2011
+2010 -- 11
 : **Georgia Institute of Technology**, Graduate Student Researcher  
   Efficient object segmentation in video using Integer Programming.
 
-Winter 2009
-: **Defence Research and Development Organisation, India**, Research Assistant       
-  Design and simulation of a fire-protection system in a vessel emulator.   
+2009
+: **[Defence Research & Development Org.](http://www.drdo.gov.in/drdo/labs/CFEES/English/index.jsp?pg=homebody.jsp), India**, Research Assistant       
+  Design & simulation of a fire-protection system in a vessel emulator.   
 
-Summer 2009
-: **National Thermal Power Corporation, India**, Engineering Intern     
-  Assisted in the Control and Instrumentation dept. of the thermal power plant.  
+2009
+: **[National Thermal Power Corporation](http://www.ntpc.co.in/power-generation/coal-based-power-stations/badarpur), India**, Engineering Intern     
+  Control & Instrumentation in the coal thermal power plant.  
   
-Winter 2007
-: **JK Tyres India Pvt. Ltd** , Engineering Intern     
-   Worked on PLC systems in the plant for automatic Mixing Processes involving composites used alongside rubber in tyre manufacturing.  
+2007
+: **[JK Tyres India Pvt. Ltd](http://www.jktyre.com/)** , Engineering Intern     
+   Worked on PLC systems for automatic mixing processes involving composites used alongside rubber in tyre manufacturing.  
    
 ---
 
@@ -97,14 +98,14 @@ Feb 2015
 
 Oct 2014
 : Custom 3D printed Implants for High Dose Rate Brachytherapy.  
-Poster & Demo at Stanford Berkeley Robotics Symposium  
+Poster & Demo at [Stanford Berkeley Robotics Symposium](http://asl.stanford.edu/SBRS2014/)  
 
 Feb 2014
 : Custom 3D printed Implants for High Dose Rate Brachytherapy.  
 [BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/2014/) (short talk), Berkeley, CA \[[**Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
 
 Fall 2011
-: Lectured on Linear Programming, *Introduction to IEOR(Seminar)* \(IEOR 24\)  
+: Lecture on Linear Programming, *Introduction to IEOR* \(IEOR 24\)  
   *University of California, Berkeley*
 
 Sept 2011
@@ -113,15 +114,15 @@ Sept 2011
 ---
  
 ###### Teaching
-[IEOR-170](http://www.ieor.berkeley.edu/~ieor170/)
+[IEOR 170](http://www.ieor.berkeley.edu/~ieor170/)
 : **Industrial Design and Human Factors**, TA (*Sp-15*)   
   [Ken Goldberg][kg], *University of California, Berkeley*
 
-[IEOR-115](http://www.ieor.berkeley.edu/~ieor115/)
+[IEOR 115](http://www.ieor.berkeley.edu/~ieor115/)
 : **Industrial and Commercial Data Systems**, TA (*F-11, F-13, F-14, Sp-13*)  
   [Ken Goldberg][kg], *University of California, Berkeley*
 
-IEOR 191
+[IEOR 191](http://www2.ieor.berkeley.edu/courses/ieor-191)
 : **Technology Entrepreneurship**, TA (*F-12*)  
   [Ron Lesniak](http://ronlesniak.com/), *University of California, Berkeley*
 
@@ -133,7 +134,7 @@ IEOR 191
 
 ###### Student Mentoring
 
-Undergraduate
+UG  
 : Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
 Nikitha Singh (2013-14) -- Palantir  
 Zach Mulder (2013-14) -- Grad School (Berkeley)
@@ -146,18 +147,22 @@ Rashmi Ramtani (2013-14)
 ---
 
 ###### Service
+<!-- Ongoing
+: Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), CASE \[2013, [2014](http://www.case2014.org/), [2015](http://case2015.org/)\], IROS [2015](http://www.iros2015.org/), ICRA [2014](http://www.icra2014.com/), [APES 2014](http://www.springer.com/biomed/journal/13246) -->
 Ongoing
-: Reviewer for CASE 2013-2015, IROS 2015, ICRA 2014, [APES 2014](http://www.springer.com/biomed/journal/13246)
+: Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), [CASE](http://www.ieee-ras.org/conferences-workshops), [IROS](http://www.ieee-ras.org/conferences-workshops), [ICRA](http://www.ieee-ras.org/conferences-workshops), [APES](http://www.springer.com/biomed/journal/13246)
+
+2013 -- 15
+: Organizer Automation Sciences Lab Annual [Open House @ Cal Day](http://calday.berkeley.edu/index.php)
 
 2014 
-: Volunteer for INFORMS 2014 local organization.  
-Volunteer for RSS 2014 local organization
+: Volunteer for local organization: [RSS 2014](http://rll.berkeley.edu/RSS2014/), [INFORMS 2014](http://meetings2.informs.org/sanfrancisco2014/)   
 
-2009 -- 2010
+2009 -- 10
 : [NSIT Alumni Association](http://nsitalumni.org/)  
-Founded an online alumni network and started publication of [*Reminisce*](http://nsitalumni.org/main/index.php/reminisce-2009-10.html)
+Founded an online alumni network and a magazine -[*Reminisce*](http://nsitalumni.org/main/index.php/reminisce-2009-10.html)
 
-2008 -- 2010
+2008 -- 10
 : NSIT Placement Team  
   Assisted in coordinating recruitments for the batch of 2010.  
 

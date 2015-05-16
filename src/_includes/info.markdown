@@ -6,8 +6,9 @@
 <!--![Animesh with Bay Bridge in background]({{ site.baseurl }}/images/animesh_headshot.png) -->
 <!--![Animesh with Bay Bridge in background]({{ site.baseurl }}/images/animesh-gg-sf-nov14-2.jpg)  -->
 
-<img src='{{ site.baseurl }}/images/animesh-feb15.jpg'  onmouseover="this.src='{{ site.baseurl }}/images/animesh-gg-sf-nov14-3.jpg';" onmouseout="this.src='{{ site.baseurl }}/images/animesh-feb15.jpg';" />
-
+<!-- <img src='{{ site.baseurl }}/images/animesh-feb15.jpg'  onmouseover="this.src='{{ site.baseurl }}/images/animesh-gg-sf-nov14-3.jpg';" onmouseout="this.src='{{ site.baseurl }}/images/animesh-feb15.jpg';" />
+ -->
+![Animesh Garg]({{ site.baseurl }}/images/animesh-feb15.jpg)
 
 
 Ph.D. Student  
@@ -16,18 +17,20 @@ Ph.D. Student
 [Computer Science][cs]  
 [UC, Berkeley][ucb]  
 
-Email me: [<i class="fa fa-envelope fa-lg"></i>](javascript:toggleblock('emailAdd')) 
+<!-- Email me: [<i class="fa fa-envelope fa-lg"></i>](javascript:toggleblock('emailAdd')) 
 <i id = "emailAdd"> [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu) </i>
 <script xml:space="preserve" language="JavaScript">
 			hideblock('emailAdd');
 </script>
+ -->
 <!--[<i class="fa fa-envelope fa-lg"></i>](): [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu)-->
-
+Contact me:  
+[animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu) 
 
 Find me on:  
 <!--[**Blog**](http://animesh-garg.blogspot.com/)   **&#xb7;** -->
 [<i class="fa fa-git fa-lg"></i>](https://github.com/animesh-garg) **&#xb7;** 
-[<i class="fa fa-twitter fa-lg"></i>](https://twitter.com/Animesh_Garg) **&#xb7;**
+[<i class="fa fa-twitter fa-lg"></i>](https://twitter.com/animesh_garg) **&#xb7;**
 [<i class="fa fa-linkedin fa-lg"></i>](http://www.linkedin.com/in/animeshgarg) **&#xb7;**
 [<i class="fa fa-facebook-square fa-lg"></i>](https://www.facebook.com/garganimesh)    
 

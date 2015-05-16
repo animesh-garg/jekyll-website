@@ -4,8 +4,7 @@ div_class: publications
 layout: default
 ---
 
-
-#### For an online listing please visit [Google Scholar](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
+##### For an online listing please visit [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
 
 ---
 
@@ -33,8 +32,7 @@ Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Piet
 
 * \[C8\] **A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rehan Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
-*Under Review: CASE 2015* \[[**PDF**-soon!]({{ site.baseurl }}/publications.html)\]
-<!--\[[**PDF**]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)\]-->
+ *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2015.* \[[**PDF**]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)\]
 
 * \[C7\] **Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
@@ -52,19 +50,18 @@ Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFa
 
 * \[C4\] **Initial Experiments toward Automated Robotic Implantation of Skew-Line Needle Arrangements for HDR Brachytherapy.**  
  **Animesh Garg**, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
- *IEEE Conference on Automation Science and Engineering (CASE), 2012.*
+ *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2012.*
  \[[**PDF**]({{ site.baseurl }}/files/garg-brachy-case-2012.pdf)\] \[[**Video**](https://youtu.be/Kk_wHiu8nGg)\] \[[**Talk**](https://youtu.be/TGEIRpbuS_I)\]   
  **<font color="red">Best Application Paper Award.</font>**
 
 * \[C3\] **Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer.**  
-  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur. Advanced Materials Research 403 (2012): 3884-3891. (Also in IEEE Intl Conf. of Cybernetics, Robotics and Controls, 2011) \[[**PDF**](http://www.scientific.net/AMR.403-408.4727)\]
+  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur. *Advanced Materials Research 2012* (Also, Int'l Conf. of Cybernetics, Robotics and Controls, 2011) \[[**PDF**](http://www.scientific.net/AMR.403-408.4727)\]
 
 * \[C2\] **The Autotrix: Design and Implementation of an Autonomous Urban Driving System.**  
-  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  Advanced Materials Research 403 (2012): 4727-4734. (Also in IEEE Intl Conf. of Cybernetics, Robotics and Controls, 2011.) \[[**PDF**](http://www.scientific.net/AMR.403-408.3884)\]
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. *Advanced Materials Research, 2012* (Also, Int'l Conf. of Cybernetics, Robotics and Controls, 2011.) \[[**PDF**](http://www.scientific.net/AMR.403-408.3884)\]
 
 * \[C1\] **Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System.**  
-  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  
-  IEEE International Conference of Machine Vision, 2010. 
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  *International Conference of Machine Vision, 2010.*
   <!-- \[[**PDF**](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] -->
 
 ---  
