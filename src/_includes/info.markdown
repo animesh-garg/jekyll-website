@@ -25,7 +25,7 @@ Ph.D. Student
  -->
 <!--[<i class="fa fa-envelope fa-lg"></i>](): [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu)-->
 Contact me:  
-[animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu) 
+[<span style="font-size: 90%">animesh**&#xb7;**garg@berkeley**&#xb7;**edu </span>](mailto:animesh.garg@berkeley.edu)
 
 Find me on:  
 <!--[**Blog**](http://animesh-garg.blogspot.com/)   **&#xb7;** -->

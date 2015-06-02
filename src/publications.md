@@ -37,7 +37,7 @@ Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rehan Kapadia, Adithyavairavan
 * \[C7\] **Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
 *IEEE Int'l Conference on Robotics and Automation (ICRA), 2015.* \[[**PDF**]({{ site.baseurl }}/files/murali-LBO-2015.pdf)\] \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]  
-**<font color="red">Best Paper Award Finalist.</font>**
+**<font color="red">Best Medical Robotics Paper Award Finalist.</font>**
 
 * \[C6\] **Exact Reachability Analysis for Planning Skew-Line Needle Arrangements for Automated Brachytherapy.**  
   **Animesh Garg**, Timmy Siauw, Guang Yang, Sachin Patil, J. Adam M. Cunha, I-Chow Hsu, Jean Pouliot, Alper Atamturk, Ken Goldberg.  
@@ -93,7 +93,8 @@ Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kall
 
 * \[W2\] **Preliminary Report on the Design of a Palpation Probe for Robot-Assisted Minimally Invasive Surgery**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rehan Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.   
-*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*
+*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*  
+**<font color="red">Best Poster/Demo Award.</font>**
 
 * \[W1\] **Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   

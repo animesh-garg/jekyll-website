@@ -39,8 +39,9 @@ Exp. 2015
 
 ###### Honors and Awards
 2015
-:  IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/contribute/call-for-participation-phd-forum)  
-  IEEE ICRA 2015 [Best Medical Robotics Paper Award Finalist](http://icra2015.org/conference/awards#medical)
+:  IEEE ICRA Medical Robotics Workshop 2015 [Best Poster/Demo Award](http://research.intusurg.com/workshops/icra-2015/)
+   IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/conference/forums/11-conference/57-ph-d-forum)  
+   IEEE ICRA 2015 [Best Medical Robotics Paper Award Finalist](http://icra2015.org/conference/awards#medical)  
 
 2014
 :  UC Berkeley Dept. of IEOR Summer Research Grant
@@ -55,10 +56,10 @@ Exp. 2015
   Dept. of IEOR Graduate Fellowship
 
 2010
-:  Erasmus Mundus Fellowship at TU Munich (full tuition and stipend)
+:  Erasmus Mundus Fellowship at TU Munich (full tuition & stipend)
 
 2007 -- 10 
-: NSIT Academic Merit Scholarship Award (full tuition waiver)
+: NSIT Academic Merit Scholarship Award (full tuition)
 
 2004 -- 10
 : State Bank of India Meritorious Student Scholarship (stipend)
