@@ -4,7 +4,8 @@ div_class: publications
 layout: default
 ---
 
-##### For an online listing please visit [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
+<!-- #### [Journals](#journal-publications) | [Conferences](#conference-publications) | [Short Papers](#peer-reviewed-short-papers--demonstrations) | [Workshops](#workshop-papers) | [Patents]({{ site.baseurl }}/publications/#patents) -->
+For an online listing please visit [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).  
 
 ---
 
@@ -31,7 +32,7 @@ Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Piet
 *Under Review.* \[[**PDF**-soon!]({{ site.baseurl }}/publications.html)\]
 
 * \[C8\] **A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery**  
-Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rehan Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
+Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
  *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2015.* \[[**PDF**]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)\]
 
 * \[C7\] **Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms**  
@@ -66,39 +67,45 @@ Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFa
 
 ---  
 
-###### Peer Reviewed Short Papers & Demonstrations
-* \[S4\] **Customized Needle Guides for Inserting Non-Parallel Needle Arrangements in Prostate HDR Brachytherapy: A Phantom Study.**  
+###### Peer Reviewed Short Papers 
+* \[S3\] **Customized Needle Guides for Inserting Non-Parallel Needle Arrangements in Prostate HDR Brachytherapy: A Phantom Study.**  
 Siauw, Timmy, J. Adam M. Cunha, **Animesh Garg**, Ken Goldberg, I. Hsu, and Jean Pouliot.  *Brachytherapy 13 (2014): S126-S126.* \[[**Link**](http://www.sciencedirect.com/science/article/pii/S1538472114004863)\]
 
-* \[S3\] **Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis**  
+* \[S2\] **Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis**  
  JAM. Cunha, T. Siauw, **A. Garg**, N. Zhang, K. Goldberg, D. Stoianovici, M. Roach III, I-C. Hsu, J. Pouliot.  
  *Medical Physics, vol. 39, p.3931, 2012.* \[[**Med Phys**](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)\] \[[**AAPM**](http://www.aapm.org/meetings/2012am/PRAbs.asp?mid=68&aid=17884)\]
 
-* \[S2\] **Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture**  
+* \[S1\] **Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture**  
  JAM. Cunha, **A. Garg**, T. Siauw, N. Zhang, Y. Zuo, K. Goldberg, D. Stoianovici, M. Roach III, J. Pouliot.  
- *J. of Radiotherapy and Oncology, vol.103,p.S45-S46, May 2012.* \[[**Link**](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)\]
+ *J. of Radiotherapy and Oncology, vol.103, p.S45-S46, May 2012.* \[[**Link**](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)\]
 
-* \[S1\] **A Robotic System for Needle Steering**  
-Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura.  
-*IEEE IROS 2011 Demonstrations.* \[[**Link**](http://www.iros2011.org/demos)\]
 <!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulations, path planners, controllers, and integration with medical imaging. -->
 
 ---
 
-###### Workshop Papers
+###### Workshop Papers & Demonstrations
 
-* \[W3\] **Learning, Optimization & Design for Healthcare Systems.**  
+* \[W5\] **Autonomous Tumor Localization and Extraction**  
+Stephen McKinley, Siddarth Sen, **Animesh Garg**, Yiming Jen, David Gealy, W. Douglas Boyd, Pieter Abbeel, Ken Goldberg.   
+*Surgical Robot Challenge, Hamlyn Symposium, 2015.* \[[**Link**](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015)\]  
+**<font color="red">Best Video Award.</font>**
+
+* \[W4\] **Learning, Optimization & Design for Healthcare Systems.**  
 **Animesh Garg**, Ken Goldberg.   
 *Ph.D. Forum at ICRA 2015.*  \[[**PDF**]({{ site.baseurl }}/files/garg-ICRA15-phdForum.pdf)\]
 
-* \[W2\] **Preliminary Report on the Design of a Palpation Probe for Robot-Assisted Minimally Invasive Surgery**  
-Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rehan Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.   
-*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*  
+* \[W3\] **Preliminary Report on the Design of a Palpation Probe for Robot-Assisted Minimally Invasive Surgery**  
+Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.   
+*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research* \[[**Link**](http://research.intusurg.com/workshops/icra-2015/)\]   
 **<font color="red">Best Poster/Demo Award.</font>**
 
-* \[W1\] **Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation**  
+* \[W2\] **Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
-*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*
+*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*. \[[**Link**](http://research.intusurg.com/workshops/icra-2015/)\]   
+
+* \[W1\] **A Robotic System for Needle Steering**  
+Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura.  
+*IEEE IROS 2011 Demonstrations.* \[[**Link**](http://www.iros2011.org/demos)\]
 
 ---
 

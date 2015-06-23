@@ -39,9 +39,10 @@ Exp. 2015
 
 ###### Honors and Awards
 2015
-:  IEEE ICRA Medical Robotics Workshop 2015 [Best Poster/Demo Award](http://research.intusurg.com/workshops/icra-2015/)
-   IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/conference/forums/11-conference/57-ph-d-forum)  
+:  Hamlyn Surgical Robotics Challenge 2015 [Best Video Award](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015)  
+   IEEE ICRA Medical Robotics Workshop 2015 [Best Poster/Demo Award](http://research.intusurg.com/workshops/icra-2015/)
    IEEE ICRA 2015 [Best Medical Robotics Paper Award Finalist](http://icra2015.org/conference/awards#medical)  
+   <!-- IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/conference/forums/11-conference/57-ph-d-forum)   -->
 
 2014
 :  UC Berkeley Dept. of IEOR Summer Research Grant
