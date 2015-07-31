@@ -7,7 +7,7 @@ div_class: people
 ### **Collaborators**
 ---
 
-|![ken]({{ site.baseurl }}/people/images/ken-goldberg.jpg) | ![alper]({{ site.baseurl }}/people/images/alper-atamturk.jpg) | ![pieter]({{ site.baseurl }}/people/images/pieter-abbeel.jpg) |
+|![ken]({{ site.baseurl }}/people/images/ken-goldberg.jpg) | ![alper]({{ site.baseurl }}/people/images/alper-atamturk.jpg) | ![pieter]({{ site.baseurl }}/people/images/pieter-abbeel.jpg) | 
 | [Ken Goldberg][kg]  | [Alper Atamturk][alper] | [Pieter Abbeel][pa] |
 
 |![laurent]({{ site.baseurl }}/people/images/LEG.jpg)  | ![timmy]({{ site.baseurl }}/people/images/timmy-siauw.png) | ![sachin]({{ site.baseurl }}/people/images/sachin-patil.png) |

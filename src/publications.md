@@ -29,7 +29,7 @@ Katherine Mellis, Timmy Siauw, Atchar Sudhyadhom, Rajni Sethi, I-Chow Hsu, Jean 
 
 * \[C9\] **Unsupervised Surgical Task Segmentation with Milestone Learning**  
 Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)  
-*Under Review.* \[[**PDF**-soon!]({{ site.baseurl }}/publications.html)\]
+*International Symposium on Robotics Research (ISRR), 2015* \[[**PDF** (draft)](http://goldberg.berkeley.edu/pubs/2015_isrr_milestoneLearning-submitted.pdf)\]
 
 * \[C8\] **A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  

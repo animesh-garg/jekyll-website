@@ -1,7 +1,7 @@
 ---
 layout: default
 wide: false
-title: DaVinci Palpation at CASE
+title: DaVinci Palpation Paper accepted at CASE 2015
 comments: false
 ---
 
