@@ -10,5 +10,7 @@ comments: false
 Our submission on **Autonomous Tumor Localization and Extraction** to the  
 [Surgical Robotics Challenge](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015) at the **Hamlyn Symposium 2015** has been awarded the  <span style="color:red">Best Video </span> Submission Award.
 
-Stay tuned for official video release!
+---
+
+{% youtube YiPq9t0tR3U %}  
 

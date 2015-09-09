@@ -40,7 +40,7 @@ Exp. 2015
 ###### Honors and Awards
 2015
 :  Hamlyn Surgical Robotics Challenge 2015 [Best Video Award](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015)  
-   IEEE ICRA Medical Robotics Workshop 2015 [Best Poster/Demo Award](http://research.intusurg.com/workshops/icra-2015/)
+   IEEE ICRA Medical Robotics Workshop 2015 [Best Poster/Demo Award](http://research.intusurg.com/workshops/icra-2015/)  
    IEEE ICRA 2015 [Best Medical Robotics Paper Award Finalist](http://icra2015.org/conference/awards#medical)  
    <!-- IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/conference/forums/11-conference/57-ph-d-forum)   -->
 
@@ -94,6 +94,10 @@ Exp. 2015
 
 ###### Invited Talks
 
+Fall 2015
+: Lecture on Algorithms and Methods in Cancer Treatment, *Introduction to IEOR* \(IEOR 24\)  
+  *University of California, Berkeley*
+
 Feb 2015
 : Learning by Observation for Surgical Subtasks  
 [BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/) (short talk), Berkeley, CA \[[**Talk**](https://youtu.be/Eye92IXOkxE)\]
@@ -139,7 +143,10 @@ Sept 2011
 UG  
 : Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
 Nikitha Singh (2013-14) -- Palantir  
-Zach Mulder (2013-14) -- Grad School (Berkeley)
+Zach Mulder (2013-14) -- Grad School (Berkeley)  
+Adithyavairavan Murali (2014-) --  
+Siddarth Sen (2014-) --   
+Yiming Jen (2015-) -- 
 
 M.Eng
 : Anwaar El-Zireeni (2013-14) -- Startup   

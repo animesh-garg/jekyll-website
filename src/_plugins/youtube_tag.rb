@@ -17,8 +17,8 @@ module Jekyll
     def initialize(tag_name, markup, tokens)
       if markup =~ /(?:(?:https?:\/\/)?(?:www.youtube.com\/(?:embed\/|watch\?v=)|youtu.be\/)?(\S+)(?:\?rel=\d)?)(?:\s+(\d+)\s(\d+))?/i
         @videoid = $1
-        @width = $2 || "480"        
-        @height = $3 || "360"
+        @width = $2 || "600"        
+        @height = $3 || "450"
       end
       super
     end
@@ -32,7 +32,8 @@ module Jekyll
         # remove/comment the next line and adjust the class name on the following line if you already have CSS for responsive video      
         video = "<style>.video-container iframe{display:block; margin-right:auto; margin-left:auto},.video-container object,.video-container embed{position:absolute;top:0;left:0;width:100%;height:auto;margin-top:0}</style>\n"        
         #height:100%;
-        video += %Q{<div class="video-container" style="position:relative;padding-bottom:#{padding_bottom};padding-top:30px;height:0;overflow:hidden"><iframe width="#{@width}" height="#{@height}" src="http://www.youtube.com/embed/#{@videoid}?rel=0&showinfo=0" frameborder="0" allowfullscreen> </iframe></div>}      
+        # video += %Q{<div class="video-container" style="position:relative;padding-bottom:#{padding_bottom};padding-top:30px;height:0;overflow:hidden"><iframe width="#{@width}" height="#{@height}" src="http://www.youtube.com/embed/#{@videoid}?rel=0&showinfo=0autoplay=0&controls=2" frameborder="0" allowfullscreen> </iframe></div>}      
+        video += %Q{<div class="video-container" style="position:relative;padding-bottom:#{padding_bottom};padding-top:30px;height:0;overflow:hidden"><p align="center"><iframe width="#{@width}" height="#{@height}" src="http://www.youtube.com/embed/#{@videoid}?rel=0&showinfo=0&autoplay=0&controls=1" frameborder="0" allowfullscreen> </iframe></p></div>}      
       else
         "Error processing input, expected syntax: {% youtube video_id [width height] %}"
       end
