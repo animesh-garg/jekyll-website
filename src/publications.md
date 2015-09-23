@@ -27,6 +27,17 @@ Katherine Mellis, Timmy Siauw, Atchar Sudhyadhom, Rajni Sethi, I-Chow Hsu, Jean 
 
 ###### Conference Publications
 
+* \[C12\] **TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning**   
+Adithyavairavan Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* denotes equal contribution). *Under Review, ICRA 2016* \[[**Project Page**](http://berkeleyautomation.github.io/tsc-dl/)\]
+
+* \[C11\] **Autonomous Multiple-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Optimization based Needle Planning**  
+Siddarth Sen\*, **Animesh Garg**\*, David V. Gealy, Stephen McKinley, Yiming Jen, Ken Goldberg (\* denotes equal contribution). *Under Review, ICRA 2016*
+\[[**Project Page**](http://berkeleyautomation.github.io/amts/)\]
+
+* \[C10\] **Autonomous Multilateral Surgical Tumor Resection with Interchangeable Instrument Mounts and Fluid Injection Device**  
+Stephen McKinley, **Animesh Garg**, Siddarth Sen, David V. Gealy, Jonathan P. McKinley, Yiming Jen, Ken Goldberg. *Under Review, ICRA 2016*
+\[[**Project Page**](http://berkeleyautomation.github.io/surgical-tools/)\]
+
 * \[C9\] **Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning**  
 Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg (\* denotes equal contribution)  
 *International Symposium on Robotics Research (ISRR), 2015* \[[**PDF**]({{ site.baseurl }}/files/isrr2015_krishnan-Garg_TSC.pdf)\]
@@ -54,11 +65,11 @@ Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFa
  *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2012.*  
  \[[**PDF**]({{ site.baseurl }}/files/garg-brachy-case-2012.pdf)\] \[[**Video**](https://youtu.be/Kk_wHiu8nGg)\] \[[**Talk**](https://youtu.be/TGEIRpbuS_I)\] **<font color="red">Best Application Paper Award.</font>**
 
-* \[C3\] **Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer.**  
-  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur. *Advanced Materials Research 2012* (Also, Int'l Conf. of Cybernetics, Robotics and Controls, 2011) \[[**PDF**](http://www.scientific.net/AMR.403-408.4727)\]
-
-* \[C2\] **The Autotrix: Design and Implementation of an Autonomous Urban Driving System.**  
+* \[C3\] **The Autotrix: Design and Implementation of an Autonomous Urban Driving System.**  
   **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. *Advanced Materials Research, 2012* (Also, Int'l Conf. of Cybernetics, Robotics and Controls, 2011.) \[[**PDF**](http://www.scientific.net/AMR.403-408.3884)\]
+
+* \[C2\] **Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer.**  
+  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur. *Advanced Materials Research 2012* (Also, Int'l Conf. of Cybernetics, Robotics and Controls, 2011) \[[**PDF**](http://www.scientific.net/AMR.403-408.4727)\]
 
 * \[C1\] **Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System.**  
   **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  *International Conference of Machine Vision, 2010.*
@@ -109,10 +120,14 @@ Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kall
 ---
 
 ###### Patents
+* \[P2\] **Single-use Palpation Probe For Robotic Minimally-invasive Surgery.**  
+Stephen McKinley, Ken Goldberg, **Animesh Garg**, Sachin Patil, Kirk Nichols, Allison Okamura, Doug Boyd. *Provisional Patent*
+
+
 * \[P1\] **Patient-Specific Temporary Implants For Accurately Guiding Local Means of Tumor Control Along Patient-Specific Internal Channels to Treat Cancers.**  
 Jean Pouliot, Ken Goldberg, I-Chow Hsu, J. Adam Cunha, **Animesh Garg**, Sachin Patil, Pieter
 Abbeel, Timmy Siauw.   
-*U.S. Provisional. PCT International Application No.: PCT/US2014/048488 filed July 28, 2014.* <!-- Patent Application No.: 61/859,687-->
+*U.S. Provisional. PCT International Application No.: [PCT/US2014/048488 filed July 28, 2014](https://www.google.com/patents/WO2015013716A1).* <!-- Patent Application No.: 61/859,687-->
 
 ---
 
