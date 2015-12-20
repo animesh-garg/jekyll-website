@@ -19,18 +19,17 @@ Currently, robot-assisted minimally invasive surgery (RMIS) devices are controll
 ![Palpation Probe]({{ site.baseurl }}/research/images/tsc-teaser.png)
 : **TSC: Unsupervised Task Segmentation**  
 We proposed an unsupervised algorithm for recovering structure from demonstration data and autonomously perform semantic segmentation.  
-\[[**ISRR2015**]({{ site.baseurl }}/files/isrr2015_krishnan-Garg_TSC.pdf)\] \[[**ICRA16**]({{ site.baseurl }}/publications.html)-*under review*\]
+\[[**ISRR2015**]({{ site.baseurl }}/files/isrr2015_krishnan-Garg_TSC.pdf)\] \[[**ICRA16**]({{ site.baseurl }}/publications.html)-*under review*\] \[[**Video**](https://www.youtube.com/watch?v=L561cJh7DLE)\] 
 
 ![surgical-tools]({{ site.baseurl }}/research/images/surgical-tools.jpg)
-: **Modular Tools for Surgical Automation**  
-We proposed an unsupervised algorithm for recovering structure from demonstration data and autonomously perform semantic segmentation.  
-\[[**Video**](https://www.youtube.com/watch?v=YiPq9t0tR3U)\] \[[**ICRA16-Tumor**]({{ site.baseurl }}/publications.html)\] \[[**ICRA16-Suturing**]({{ site.baseurl }}/publications.html)\]
+: **Surgical Automation: Suturing & Tumor Resection**  
+We design for automation with optimization based algorithms working in tandem with uncertainty reducing hardware.
+\[[**ICRA16-Tumor**]({{ site.baseurl }}/publications.html)\] \[[**Tumor-Video**](https://www.youtube.com/watch?v=YiPq9t0tR3U)\] | \[[**ICRA16-Suturing**]({{ site.baseurl }}/publications.html)\] \[[**Suturing-Video**](https://www.youtube.com/watch?v=z1ehShXFToc)\] 
 
 ![Palpation Probe]({{ site.baseurl }}/research/images/ProbeSkinDVRK-01.jpg)
 : **Disposable Sensors for Minimally Invasive Surgery**  
 We proposed a Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery.  
 \[[**CASE15**]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)\]
-<!--\[[**PDF**]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)\]-->
 
 ![DVRK]({{ site.baseurl }}/research/images/tasks-dvrk-v2.jpg)
 : **Learning by Observation for Surgical Subtasks**  

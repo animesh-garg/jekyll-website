@@ -40,7 +40,7 @@ Stephen McKinley, **Animesh Garg**, Siddarth Sen, David V. Gealy, Jonathan P. Mc
 
 * \[C9\] **Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning**  
 Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg (\* denotes equal contribution)  
-*International Symposium on Robotics Research (ISRR), 2015* \[[**PDF**]({{ site.baseurl }}/files/isrr2015_krishnan-Garg_TSC.pdf)\]
+*International Symposium on Robotics Research (ISRR), 2015* \[[**PDF**]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)\]
 
 * \[C8\] **A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
@@ -77,23 +77,28 @@ Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFa
 
 ---  
 
-###### Peer Reviewed Short Papers 
-* \[S3\] **Customized Needle Guides for Inserting Non-Parallel Needle Arrangements in Prostate HDR Brachytherapy: A Phantom Study.**  
+###### Peer Reviewed Short Papers & Demonstrations
+* \[S4\] **Customized Needle Guides for Inserting Non-Parallel Needle Arrangements in Prostate HDR Brachytherapy: A Phantom Study.**  
 Timmy Siauw, J. Adam M. Cunha, **Animesh Garg**, Ken Goldberg, I. Hsu, and Jean Pouliot.  *Brachytherapy 13 (2014): S126-S126.* \[[**Link**](http://www.sciencedirect.com/science/article/pii/S1538472114004863)\]
 
-* \[S2\] **Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis**  
+* \[S3\] **Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis**  
  J. Adam M. Cunha, Timmy Siauw, **Animesh Garg**, Neil Zhang, Ken Goldberg, Dan Stoianovici, Mark Roach III, I-Chow Hsu, Jean Pouliot.  
  *Medical Physics, vol. 39, p.3931, 2012.* \[[**Med Phys**](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)\] \[[**AAPM**](http://www.aapm.org/meetings/2012am/PRAbs.asp?mid=68&aid=17884)\]
 
-* \[S1\] **Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture**  
+* \[S2\] **Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture**  
  J. Adam M. Cunha, **Animesh Garg**, Timmy Siauw, Neil Zhang, Yihe Zuo, Ken Goldberg, Dan Stoianovici, Mark Roach III, Jean Pouliot.  
  *J. of Radiotherapy and Oncology, vol.103, p.S45-S46, May 2012.* \[[**Link**](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)\]
 
+* \[S1\] **A Robotic System for Needle Steering**  
+Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura. *IEEE IROS 2011 Demonstrations.* \[[**Link**](http://www.iros2011.org/demos)\]
 <!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulations, path planners, controllers, and integration with medical imaging. -->
 
 ---
 
-###### Refereed Workshops & Demonstrations
+###### Refereed Workshops 
+* \[W6\] **On Visual Feature Representations for Transition State Learning in Robotic Task Demonstrations.** 
+**Animesh Garg**\*, Sanjay Krishnan\*, Adithyavairavan Murali, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* denotes equal contribution). 
+NIPS 2015 Workshop on Feature Extraction.
 
 * \[W6\] **Automated Delivery Instrument for Stem Cell Treatment using the da Vinci Robotic Surgical System.**  
 Stephen McKinley, **Animesh Garg**, Susan Lim, Sachin Patil, Ken Goldberg. 13th Annual Meeting of the International Society for Stem Cell Research. Stockholm, Sweden. June 2015. \[[**Poster**]({{ site.baseurl }}/files/Stem-Cell-Delivery-Instrument-Poster-06-2015.pdf)\]
@@ -113,9 +118,6 @@ Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan
 * \[W2\] **Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
 *ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*. \[[**Link**](http://research.intusurg.com/workshops/icra-2015/)\]   
-
-* \[W1\] **A Robotic System for Needle Steering**  
-Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura. *IEEE IROS 2011 Demonstrations.* \[[**Link**](http://www.iros2011.org/demos)\]
 
 ---
 

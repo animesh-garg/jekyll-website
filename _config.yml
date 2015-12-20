@@ -2,8 +2,8 @@
 
 # Where things are
 source: ./src
-plugins:     ./src/_plugins
-layouts:     ./src/_layouts
+plugins_dir:     ./src/_plugins
+layouts_dir:     ./src/_layouts
 destination: ./_site
 #auto:       true
 #collections: null
