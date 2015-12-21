@@ -5,11 +5,32 @@ script: home.js
 pagination: true
 ---
 {% include short_bio.md %}
+---  
+{% include short_job.md %}
+---  
 
----
+### Recent [**News**]({{ site.baseurl }}/news/)
+<ul class="inset">
+{% for post in site.categories.news limit:4 %}
+  <li>
+    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
+  </li>
+{% endfor %}
+</ul>
+---  
 
-### Recent [Research]({{ site.baseurl }}/research/)
-{% include recent_projects.md %}
+### Recent [**Research**]({{ site.baseurl }}/research/)  
+{% include recent_projects.md %}  
+---  
+
+### Recent [**Blog**]({{ site.baseurl }}/articles/)
+<ul class="inset">
+{% for post in site.categories.articles limit:2 %}
+  <li>
+    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
+  </li>
+{% endfor %}
+</ul>
 <!--
 * [**Customized Treatment methods for HDR Brachytherapy**]({{ site.baseurl}}/research/Brachytherapy.html)  
 
@@ -33,27 +54,6 @@ pagination: true
 </ul>
 -->  
 
----
-
-### Recent [News]({{ site.baseurl }}/news/)
-<ul class="inset">
-{% for post in site.categories.news limit:4 %}
-  <li>
-    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
-  </li>
-{% endfor %}
-</ul>
-
----
-
-### Recent [Blog]({{ site.baseurl }}/articles/)
-<ul class="inset">
-{% for post in site.categories.articles limit:2 %}
-  <li>
-    <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
-  </li>
-{% endfor %}
-</ul>
 
 
 

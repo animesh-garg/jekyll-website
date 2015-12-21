@@ -3,16 +3,29 @@ title: Resume
 layout: default
 div_class: vita
 ---
+<!-- {% capture stuff %}
+![Palpation Probe]({{ site.baseurl }}/images/burlingame-school-may15.jpg)
+{% include peoples_urls.md %}
+{% endcapture %} -->
 
-I was born in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior), studied Manufacturing & Automation at [University of Delhi][du] and moved to the US in 2010 for graduate study. 
+#### **[Curriculum Vitae in PDF]({{ site.baseurl }}/files/jobs/garg-CV.pdf)**  
+<div class="figure">
+<img src="{{ site.baseurl }}/images/burlingame-school-may15.jpg" width="70%" align="center">
+</div>
 
-I am interested in problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
+My research spans *Operations Research*, *Machine Learning*, *Robotics* and *Design*, combining theory with experiments. 
+I study the interaction of data-driven *Learning for Autonomy* and *Design for Automation* for human skill-augmentation and decision support. I am interested in enabling autonomous systems to learn from imprecise information for performing a range of tasks with independence and flexibility.  My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
 
-During my Ph.D., I have studied algorithmically grounded solutions for:  
+<!-- I am interested in problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
+ -->
+
+I grew up in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior). I received a B.E. in Manufacturing & Automation from [University of Delhi][du] and an M.S. in IE from [Georgia Tech](http://www.isye.gatech.edu/).  
+During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded solutions for:  
 - [Learning & Automation in Surgical Subtasks]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
 - [Radiation Therapy for Cancer: Planning and Delivery]({{ site.baseurl }}/research/#radiation-therapy-for-cancer-planning-and-delivery)  
 
-Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.  
+<!-- Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.    -->
+
 
 ---  
 
@@ -23,7 +36,7 @@ Exp. 2016  *Committee*
   [Ken Goldberg][kg], [Alper Atamturk][alper], [Pieter Abbeel][pa], [Laurent El Ghaoui][leg], [Jean Pouliot][jp]   
   <!--*Coursework*: Linear and Non Linear Optimization, Stochastic Modeling, Network Algorithms and Graph Theory, Statistical Learning, Controls, Robotics.-->
 
-Exp. 2015 
+Exp. 2016 
 : **M.S. Computer Science** &#xb7; [University of California, Berkeley][cs]  
   *Advisors*: [Ken Goldberg][kg] and [Pieter Abbeel][pa] 
 
@@ -32,7 +45,7 @@ Exp. 2015
 
 2010 
 : **Bachelor in Engineering, Manufacturing Processes & Automation**  
-[Netaji Subhas Institute of Technology](http://nsit.ac.in/department/mpa.php), [University of Delhi][du] (India)  
+[Netaji Subhas Institute of Technology](http://nsit.ac.in), [University of Delhi][du] (India)  
   *Advisors*: Pradeep Khanna, Sachin Maheshwari and Satish Chand
 
 ---  
@@ -66,6 +79,47 @@ Exp. 2015
 : State Bank of India Meritorious Student Scholarship (stipend)
 
 ---
+ 
+###### Teaching
+[IEOR 131](http://www.ieor.berkeley.edu/~ieor131/)
+: **Discrete Event Simulation**, TA (*Sp-16*)   
+  [Lee Schruben](http://www.ieor.berkeley.edu/~schruben/), *University of California, Berkeley*
+
+[IEOR 170](http://www.ieor.berkeley.edu/~ieor170/)
+: **Industrial Design & Human Factors**, TA (*Sp-15*)   
+  [Ken Goldberg][kg], *University of California, Berkeley*
+
+[IEOR 115](http://www.ieor.berkeley.edu/~ieor115/)
+: **Industrial & Commercial Data Systems**, TA (*F-11, F-13, F-14, Sp-13*)  
+  [Ken Goldberg][kg], *University of California, Berkeley*
+
+[IEOR 191](http://www2.ieor.berkeley.edu/courses/ieor-191)
+: **Technology Entrepreneurship**, TA (*F-12*)  
+  [Ron Lesniak](http://ronlesniak.com/), *University of California, Berkeley*
+
+[CS 3451](http://www.cc.gatech.edu/graphics/courses.html)
+: **Computer Graphics**, Reader (*Sp-11*)   
+  [Greg Turk](http://www.cc.gatech.edu/~turk/), *Georgia Institute of Technology*
+
+---
+
+###### Student Mentoring
+
+UG  
+: Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
+Nikitha Singh (2013-14) -- Palantir  
+Zach Mulder (2013-14) -- Grad School (Berkeley)  
+Siddarth Sen (2014-) --  Grad School (Berkeley)  
+Adithyavairavan Murali (2014-) --   
+Yiming Jen (2015-) --  
+Richard Liaw (2015-) -- 
+
+M.Eng
+: Anwaar El-Zireeni (2013-14) -- Startup   
+  Jennifer Wong (2013-14) -- ZS Associates  
+  Rashmi Ramtani (2013-14)  
+
+---
 
 ###### Employment
 
@@ -92,74 +146,14 @@ Exp. 2015
    
 ---
 
-###### Invited Talks
-
-Fall 2015
-: Lecture on Algorithms and Methods in Cancer Treatment, *Introduction to IEOR* \(IEOR 24\)  
-  *University of California, Berkeley*
-
-Feb 2015
-: Learning by Observation for Surgical Subtasks  
-[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/) (short talk), Berkeley, CA \[[**Talk**](https://youtu.be/Eye92IXOkxE)\]
-
-Oct 2014
-: Custom 3D printed Implants for High Dose Rate Brachytherapy.  
-Poster & Demo at [Stanford Berkeley Robotics Symposium](http://asl.stanford.edu/SBRS2014/)  
-
-Feb 2014
-: Custom 3D printed Implants for High Dose Rate Brachytherapy.  
-[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/2014/) (short talk), Berkeley, CA \[[**Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
-
-Fall 2011
-: Lecture on Linear Programming, *Introduction to IEOR* \(IEOR 24\)  
-  *University of California, Berkeley*
-
-Sept 2011
-: A Robotic System for Needle Steering, *IEEE IROS 2011* Demonstrations
-
----
- 
-###### Teaching
-[IEOR 170](http://www.ieor.berkeley.edu/~ieor170/)
-: **Industrial Design and Human Factors**, TA (*Sp-15*)   
-  [Ken Goldberg][kg], *University of California, Berkeley*
-
-[IEOR 115](http://www.ieor.berkeley.edu/~ieor115/)
-: **Industrial and Commercial Data Systems**, TA (*F-11, F-13, F-14, Sp-13*)  
-  [Ken Goldberg][kg], *University of California, Berkeley*
-
-[IEOR 191](http://www2.ieor.berkeley.edu/courses/ieor-191)
-: **Technology Entrepreneurship**, TA (*F-12*)  
-  [Ron Lesniak](http://ronlesniak.com/), *University of California, Berkeley*
-
-[CS 3451](http://www.cc.gatech.edu/graphics/courses.html)
-: **Computer Graphics**, Reader (*Sp-11*)   
-  [Greg Turk](http://www.cc.gatech.edu/~turk/), *Georgia Institute of Technology*
-
----
-
-###### Student Mentoring
-
-UG  
-: Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
-Nikitha Singh (2013-14) -- Palantir  
-Zach Mulder (2013-14) -- Grad School (Berkeley)  
-Adithyavairavan Murali (2014-) --  
-Siddarth Sen (2014-) --   
-Yiming Jen (2015-) -- 
-
-M.Eng
-: Anwaar El-Zireeni (2013-14) -- Startup   
- Jennifer Wong (2013-14) -- ZS Associates  
-Rashmi Ramtani (2013-14)  
-
----
-
 ###### Service
 <!-- Ongoing
 : Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), CASE \[2013, [2014](http://www.case2014.org/), [2015](http://case2015.org/)\], IROS [2015](http://www.iros2015.org/), ICRA [2014](http://www.icra2014.com/), [APES 2014](http://www.springer.com/biomed/journal/13246) -->
 Ongoing
 : Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), [CASE](http://www.ieee-ras.org/conferences-workshops), [IROS](http://www.ieee-ras.org/conferences-workshops), [ICRA](http://www.ieee-ras.org/conferences-workshops), [APES](http://www.springer.com/biomed/journal/13246)
+
+2015
+: Organized Lab Tour for Society of Women Engineers Mini University Event
 
 2013 -- 15
 : Organizer Automation Sciences Lab Annual [Open House @ Cal Day](http://calday.berkeley.edu/index.php)
@@ -178,6 +172,44 @@ Founded an online alumni network and a magazine -[*Reminisce*](http://nsitalumni
 {% include peoples_urls.md %}
 ---
 
+###### Invited Talks
+
+Nov 2015
+: Unsupervised Task Segmentation For Learning from Demonstrations 
+  **[Algorithms for HRI Workshop](http://citris-uc.org/people-and-robots-events/algshri/)**
+
+Nov 2015
+: Algorithms for 3D Printed Implants for Brachytherapy in Intracavitary Tumors 
+*[INFORMS 2015](http://meetings2.informs.org/wordpress/philadelphia/)*
+
+Oct 2015
+: Transition State Clustering for Unsupervised Task Segmentation  
+*[Bay Area Robotics Symposium](http://rll.berkeley.edu/BARS2015/index.html)*
+
+Sept 2015
+: Lecture on Algorithms in Cancer Treatment, *Intro to IEOR* \(IEOR 24\)  
+  *University of California, Berkeley*
+
+Feb 2015
+: [Learning by Observation for Surgical Subtasks](https://youtu.be/Eye92IXOkxE)  
+[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/) (short talk), Berkeley, CA \[[**Video Talk**](https://youtu.be/Eye92IXOkxE)\]
+
+Oct 2014
+: Custom 3D printed Implants for High Dose Rate Brachytherapy.  
+[Stanford Berkeley Robotics Symposium](http://asl.stanford.edu/SBRS2014/)  
+
+Feb 2014
+: [Custom 3D printed Implants for High Dose Rate Brachytherapy](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS).  
+[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/2014/) (short talk), Berkeley, CA \[[**Video Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
+
+Sept 2011
+: Lecture on Linear Programming, *Introduction to IEOR* \(IEOR 24\)  
+  *University of California, Berkeley*
+
+Sept 2011
+: A Robotic System for Needle Steering, *IEEE IROS 2011* Demonstrations
+
+---
 <!--
 ###### Publications
 

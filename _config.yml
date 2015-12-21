@@ -33,7 +33,7 @@ baseurl:   /~animesh.garg
 #linux
 #baseurl:   /home/animesh/work/jekyll-website/_site
 #Mac
-#baseurl:	/Users/animesh/work/jekyll-website/_site
+# baseurl:	/Users/animesh/work/jekyll-website/_site
 
 # Plugins
 whitelist: []
