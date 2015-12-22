@@ -175,7 +175,7 @@ Founded an online alumni network and a magazine -[*Reminisce*](http://nsitalumni
 ###### Invited Talks
 
 Nov 2015
-: Unsupervised Task Segmentation For Learning from Demonstrations 
+: Unsupervised Task Segmentation For Learning from Demonstrations  
   **[Algorithms for HRI Workshop](http://citris-uc.org/people-and-robots-events/algshri/)**
 
 Nov 2015

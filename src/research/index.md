@@ -4,7 +4,7 @@ div_class: projects
 layout: default
 ---
 
-<br>I am interested in problems at the intersection of optimization, machine learning and robotics design. I study the interaction of data-driven **Learning for autonomy** and **Design for automation** for human skill-augmentation and decision support. 
+I am interested in problems at the intersection of optimization, machine learning and robotics design. I study the interaction of data-driven **Learning for autonomy** and **Design for automation** for human skill-augmentation and decision support. 
 
 I work on enabling autonomous systems to learn from imprecise information for performing a range of tasks with independence and flexibility. My work employs and contributes to techniques in *non-convex, discrete optimization*, *design* and *deep representation learning*.  
 

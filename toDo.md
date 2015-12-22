@@ -8,3 +8,17 @@ Links: http://mark.reid.name/blog/kith.html
 - [ ]  update the HOWTO video using micsrosoft office mix
 - [ ]  use jekyll-scholar for bib, and abstract listing on pubs page
 - [ ]  Add a collection of press coverage
+- [ ] Automate pub list numbering
+/* publications styling for continued numbers*/
+.publications ol:first-of-type { 
+    counter-reset: mycounter; 
+}
+.publications ol.start li, .publications ol.continue li {
+    /*list-style: decimal inside;*/
+    list-style: none;
+}
+.publications ol.start li:before, .publications ol.continue li:before { 
+    /*counter-increment: mycounter;*/
+    content: counter(mycounter) ". "; 
+    counter-increment: mycounter;
+}
