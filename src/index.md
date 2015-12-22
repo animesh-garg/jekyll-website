@@ -4,7 +4,19 @@ title: Home
 script: home.js
 pagination: true
 ---
+
 {% include short_bio.md %}
+<span class="hide-on-desktop">
+	Contact me:
+		<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#097;&#110;&#105;&#109;&#101;&#115;&#104;&#046;&#103;&#097;&#114;&#103;&#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;"><span style="font-size: 98%">animesh<strong>·</strong>garg@berkeley<strong>·</strong>edu </span></a>
+	<br>
+	Find me on:
+		<a href="https://github.com/animesh-garg"><i class="fa fa-git fa-lg"></i></a> <strong>·</strong> 
+		<a href="https://twitter.com/animesh_garg"><i class="fa fa-twitter fa-lg"></i></a> <strong>·</strong>
+		<a href="http://www.linkedin.com/in/animeshgarg"><i class="fa fa-linkedin fa-lg"></i></a> <strong>·</strong>
+		<a href="https://www.facebook.com/garganimesh"><i class="fa fa-facebook-square fa-lg"></i></a>      
+</span>
+
 ---  
 {% include short_job.md %}
 ---  

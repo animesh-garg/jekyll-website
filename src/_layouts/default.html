@@ -2,26 +2,32 @@
 layout: base
 ---
 
-<div class="container_12 topmargin">
-  <div class="grid_3" id="sidebar">
-    <div class="grid_3" id="info">
-      {% include info.markdown %}
-    </div>
+<div class="grid-container topmargin">
+  <div class="grid-20" id="sidebar">
+    <span class="hide-on-mobile hide-on-tablet">
+      <div id="info">
+        {% include info.markdown %}
+      </div>
+    </span>
   </div>
-  
-  <div class="grid_9">
-    <div class="grid_9 alpha omega" id="navbar">
-      {% include navbar.html %}
+
+  <div class="grid-80 mobile-grid-100">
+    <div class="grid-80" id="navbar">
+      <span class="hide-on-mobile hide-on-tablet">        
+        <script type="text/javascript" media="screen and (min-width: 768px)" src="{{ site.baseurl }}/js/nav.js"></script>    
+        {% include navbar.html %}
+      </span>
+      <span class="hide-on-desktop">
+          <script type="text/javascript" media="screen and (max-width: 767px)" src="{{ site.baseurl }}/js/nav_mobile.js"></script>            
+          {% include navbar_mobile.html %}
+      </span>
     </div>
-    <!-- <br><!-- Added space to allo for sliding navigation bar-->
-    <!-- <br> -->
     <br>
-    <div class="grid_9 alpha omega">
+    <div class="grid-80">      
       <div class="{{ page.div_class }}">
         <div id="page-content">
           {{ content }}
         </div>
-
       </div>
 
       {% if page.comments %}

@@ -1,10 +1,15 @@
 @font-face {
   font-family: "Museo300" ;
-  src: url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular.otf");
+  /*src: url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular.otf");
   src: url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.eot?iefix") format("embedded-opentype"),
   url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.woff") format("woff"),
   url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.ttf") format("truetype"),
-  url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.svg#webfontBsA9EFUC") format("svg");
+  url("/~animesh.garg/css/type/museo_300_macroman/Museo300-Regular-webfont.svg#webfontBsA9EFUC") format("svg");*/
+  src: url("./type/museo_300_macroman/Museo300-Regular.otf");
+  src: url("./type/museo_300_macroman/Museo300-Regular-webfont.eot?iefix") format("embedded-opentype"),
+  url("./type/museo_300_macroman/Museo300-Regular-webfont.woff") format("woff"),
+  url("./type/museo_300_macroman/Museo300-Regular-webfont.ttf") format("truetype"),
+  url("./type/museo_300_macroman/Museo300-Regular-webfont.svg#webfontBsA9EFUC") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -13,7 +18,7 @@
   margin-top: 25px;
 }
 
-/*#sidebar {
+/*#info {
    position:fixed;
 }*/
 
@@ -134,7 +139,8 @@ div.figure {
 
 .projects dt {
   float:left;
-  width:240px;
+  /*width:240px;*/
+  width:30%;
   padding: 0px 5px;
   margin-left: -19px;
   margin-right: 19px;
@@ -159,7 +165,8 @@ div.figure {
 
 .projects dd {
   float: right;
-  width: 440px;
+  /*width: 440px;*/
+  width:65%;
   margin-bottom: 19px;
 }
 
@@ -172,11 +179,6 @@ div.figure {
 }
 
 /* publications styling */
-.publications ol {
-  list-style: decimal;
-  margin-left: -30px;
-}
-
 .publications ul {
   list-style: none;
   margin-left: -30px;
@@ -187,6 +189,11 @@ div.figure {
   padding-left: 19px;
   border-radius: 3px;
   margin-bottom: 19px;
+}
+
+.publications ol {
+  list-style: decimal inside;
+  margin-left: -30px;
 }
 
 
@@ -212,12 +219,14 @@ ul.inset {
 
 /* vita styling */
 .vita p {
-  width:680px;
+  /*width:680px;*/
+  width:100%;
 }
 
 .vita dt {
   float:left;
-  width:100px;
+  /*width:100px;*/
+  width:15%;
   padding: 0px;
   margin-left: -19px;
   margin-right: 19px;
@@ -228,7 +237,8 @@ ul.inset {
 
 .vita dd {
   float: left;
-  width: 580px;
+  /*width: 580px;*/
+  width:85%;
   margin-bottom: 19px;
 }
 
@@ -247,7 +257,8 @@ ul.inset {
 }
 
 .vita h6 {
-  margin-left: 100px;
+  /*margin-left: 100px;*/
+  margin-left: 15%;
 }
 
 p {
@@ -324,7 +335,8 @@ h5 {
 
 h6 { /* h6 is special... */  
   font-size: 1.3em;
-  line-height: 7px;
+  /*line-height: 7px;*/
+  line-height: 100%;
   font-weight: normal;
   font-variant: small-caps;
   /*text-transform: uppercase;*/
