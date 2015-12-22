@@ -39,8 +39,6 @@ baseurl:   /~animesh.garg
 whitelist: []
 gems:      []
 
-
-
 #markdown
 markdown:    kramdown
 highlighter: rouge
