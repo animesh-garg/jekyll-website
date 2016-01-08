@@ -27,8 +27,8 @@ permalink:  none
 detach:  false
 port:    4000
 host:    127.0.0.1
-#baseurl:  http://www.eecs.berkeley.edu/~animesh.garg
 baseurl:   /~animesh.garg
+
 #debug
 #linux
 #baseurl:   /home/animesh/work/jekyll-website/_site
