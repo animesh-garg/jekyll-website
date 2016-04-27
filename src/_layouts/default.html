@@ -14,11 +14,12 @@ layout: base
   <div class="grid-80 mobile-grid-100">
     <div class="grid-80" id="navbar">
       <span class="hide-on-mobile hide-on-tablet">        
-        <script type="text/javascript" media="screen and (min-width: 768px)" src="{{ site.baseurl }}/js/nav.js"></script>    
+        <script type="text/javascript" media="screen and (min-width: 1024px)" src="{{ site.baseurl }}/js/nav.js"></script>            
         {% include navbar.html %}
       </span>
       <span class="hide-on-desktop">
-          <script type="text/javascript" media="screen and (max-width: 767px)" src="{{ site.baseurl }}/js/nav_mobile.js"></script>            
+          <!--Change the max-wdith to 767 if not useful -->
+          <script type="text/javascript" media="screen and (max-width: 1023px)" src="{{ site.baseurl }}/js/nav_mobile.js"></script>            
           {% include navbar_mobile.html %}
       </span>
     </div>

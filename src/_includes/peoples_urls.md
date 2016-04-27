@@ -21,3 +21,4 @@
 [wdb]: https://www.ucdmc.ucdavis.edu/publish/providerbio/search/1274
 [ucb]: http://www.berkeley.edu
 [ucsf]: http://radonc.ucsf.edu/
+[bair]: http://bair.berkeley.edu

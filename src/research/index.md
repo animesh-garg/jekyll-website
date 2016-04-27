@@ -55,7 +55,7 @@ We proposed a Disposable Haptic Palpation Probe for Locating Subcutaneous Blood 
 : **[Learning by Observation for Surgical Subtasks]({{ site.baseurl }}/files/murali-LBO-2015.pdf)**  
 We proposed a Learning by Observation algorithm for surgical subtasks demosttrated with multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms.  
 \[[**ICRA15**]({{ site.baseurl }}/files/murali-LBO-2015.pdf)\] \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\] \[[**Short Talk**](https://youtu.be/Eye92IXOkxE)\]  
-**<font color="red">Best Medical Robotics Paper Award Finalist</font>**
+**<font color="red">Best Medical Robotics Paper Award Finalist</font>**  
 
 ---
 

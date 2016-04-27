@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-script: home.js
 pagination: true
 ---
 
@@ -29,6 +28,9 @@ pagination: true
   </li>
 {% endfor %}
 </ul>
+
+###### Research in [**Media/Press**]({{ site.baseurl }}/news/#research-coverage-in-media-and-press)
+
 ---  
 
 ### Recent [**Research**]({{ site.baseurl }}/research/)  

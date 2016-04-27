@@ -1,14 +1,16 @@
 ---
 layout: default
 wide: false
-title: Three ICRA Papers Submitted
+title: Three new preprints posted!
 comments: false
 ---
 
-### **Three ICRA 2016 Papers Submitted**
+### **Three New Preprints**
 
 I led *3 Papers* this summer working with a great set of undergrads and grads.  
-**Please refer to project pages for paper draft and videos.**
+Refer to [Publications]({{ site.baseurl }}/publications) Page for the list.
+
+Please refer to project pages for paper draft and videos.
 
 - **TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning** 
 Adithyavairavan Murali\*, Animesh Garg\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* denotes equal contribution)

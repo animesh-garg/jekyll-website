@@ -38,6 +38,9 @@ $(document).ready(function(){
   else if (pathname.match("/people/")) {
     $("a#people").replaceWith("People");
   }
+  else if (pathname.match("/news/")) {
+    $("a#news").replaceWith("News");
+  }
   /*else if (pathname.match("/fun/")) {
     $("a#fun").replaceWith("Fun");
   }

@@ -12,6 +12,7 @@
 [![Animesh Garg]({{ site.baseurl }}/images/animesh-philly-nov15.jpg)]({{ site.baseurl }}/)
 
 Ph.D. Student  
+[Berkeley AI Research Lab][bair]  
 [Automation Lab][autolab]  
 [Operations Research][ieor]   
 [Computer Science][cs]  

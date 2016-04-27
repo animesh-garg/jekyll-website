@@ -79,7 +79,49 @@ Exp. 2016
 : State Bank of India Meritorious Student Scholarship (stipend)
 
 ---
- 
+
+###### Invited Talks
+Feb 2016
+: Unsupervised Segmentation of Surgical Subtasks  
+  *[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/#), Berkeley, CA*
+
+Nov 2015
+: Unsupervised Task Segmentation For Learning from Demonstrations  
+  *[Algorithms for HRI Workshop](http://citris-uc.org/people-and-robots-events/algshri/)*
+
+Nov 2015
+: Algorithms for 3D Printed Implants for Brachytherapy in Intracavitary Tumors 
+*[INFORMS 2015](http://meetings2.informs.org/wordpress/philadelphia/)*
+
+Oct 2015
+: Transition State Clustering for Unsupervised Task Segmentation  
+*[Bay Area Robotics Symposium](http://rll.berkeley.edu/BARS2015/index.html), Berkeley, CA*
+
+Sept 2015
+: Lecture on Algorithms in Cancer Treatment, *Intro to IEOR* \(IEOR 24\)  
+  *University of California, Berkeley*
+
+Feb 2015
+: [Learning by Observation for Surgical Subtasks](https://youtu.be/Eye92IXOkxE)  
+*[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/2015/), Berkeley, CA* \[[**Video Talk**](https://youtu.be/Eye92IXOkxE)\]
+
+Oct 2014
+: Custom 3D printed Implants for High Dose Rate Brachytherapy.  
+[Stanford Berkeley Robotics Symposium](http://asl.stanford.edu/SBRS2014/)  
+
+Feb 2014
+: [Custom 3D printed Implants for High Dose Rate Brachytherapy](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS).  
+[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/2014/), Berkeley, CA \[[**Video Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
+
+Sept 2011
+: Lecture on Linear Programming, *Introduction to IEOR* \(IEOR 24\)  
+  *University of California, Berkeley*
+
+Sept 2011
+: A Robotic System for Needle Steering, *IEEE IROS 2011* Demonstrations
+
+---
+
 ###### Teaching
 [IEOR 131](http://www.ieor.berkeley.edu/~ieor131/)
 : **Discrete Event Simulation**, TA (*Sp-16*)   
@@ -100,24 +142,6 @@ Exp. 2016
 [CS 3451](http://www.cc.gatech.edu/graphics/courses.html)
 : **Computer Graphics**, Reader (*Sp-11*)   
   [Greg Turk](http://www.cc.gatech.edu/~turk/), *Georgia Institute of Technology*
-
----
-
-###### Student Mentoring
-
-UG  
-: Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
-Nikitha Singh (2013-14) -- Palantir  
-Zach Mulder (2013-14) -- Grad School (Berkeley)  
-Siddarth Sen (2014-) --  Grad School (Berkeley)  
-Adithyavairavan Murali (2014-) --   
-Yiming Jen (2015-) --  
-Richard Liaw (2015-) -- 
-
-M.Eng
-: Anwaar El-Zireeni (2013-14) -- Startup   
-  Jennifer Wong (2013-14) -- ZS Associates  
-  Rashmi Ramtani (2013-14)  
 
 ---
 
@@ -146,6 +170,24 @@ M.Eng
    
 ---
 
+###### Student Mentoring
+
+UG  
+: Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
+Nikitha Singh (2013-14) -- Palantir  
+Zach Mulder (2013-14) -- Grad School (Berkeley)  
+Siddarth Sen (2014-) --  Grad School (Berkeley)  
+Adithyavairavan Murali (2014-) --   
+Yiming Jen (2015-) --  
+Richard Liaw (2015-) -- 
+
+M.Eng
+: Anwaar El-Zireeni (2013-14) -- Startup   
+  Jennifer Wong (2013-14) -- ZS Associates  
+  Rashmi Ramtani (2013-14)  
+
+---
+
 ###### Service
 <!-- Ongoing
 : Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), CASE \[2013, [2014](http://www.case2014.org/), [2015](http://case2015.org/)\], IROS [2015](http://www.iros2015.org/), ICRA [2014](http://www.icra2014.com/), [APES 2014](http://www.springer.com/biomed/journal/13246) -->
@@ -170,44 +212,6 @@ Founded an online alumni network and a magazine -[*Reminisce*](http://nsitalumni
   Assisted in coordinating recruitments for the batch of 2010.  
 
 {% include peoples_urls.md %}
----
-
-###### Invited Talks
-
-Nov 2015
-: Unsupervised Task Segmentation For Learning from Demonstrations  
-  **[Algorithms for HRI Workshop](http://citris-uc.org/people-and-robots-events/algshri/)**
-
-Nov 2015
-: Algorithms for 3D Printed Implants for Brachytherapy in Intracavitary Tumors 
-*[INFORMS 2015](http://meetings2.informs.org/wordpress/philadelphia/)*
-
-Oct 2015
-: Transition State Clustering for Unsupervised Task Segmentation  
-*[Bay Area Robotics Symposium](http://rll.berkeley.edu/BARS2015/index.html)*
-
-Sept 2015
-: Lecture on Algorithms in Cancer Treatment, *Intro to IEOR* \(IEOR 24\)  
-  *University of California, Berkeley*
-
-Feb 2015
-: [Learning by Observation for Surgical Subtasks](https://youtu.be/Eye92IXOkxE)  
-[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/) (short talk), Berkeley, CA \[[**Video Talk**](https://youtu.be/Eye92IXOkxE)\]
-
-Oct 2014
-: Custom 3D printed Implants for High Dose Rate Brachytherapy.  
-[Stanford Berkeley Robotics Symposium](http://asl.stanford.edu/SBRS2014/)  
-
-Feb 2014
-: [Custom 3D printed Implants for High Dose Rate Brachytherapy](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS).  
-[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/2014/) (short talk), Berkeley, CA \[[**Video Talk**](https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS)\] \[[**Slides**](http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx)\]
-
-Sept 2011
-: Lecture on Linear Programming, *Introduction to IEOR* \(IEOR 24\)  
-  *University of California, Berkeley*
-
-Sept 2011
-: A Robotic System for Needle Steering, *IEEE IROS 2011* Demonstrations
 
 ---
 <!--
