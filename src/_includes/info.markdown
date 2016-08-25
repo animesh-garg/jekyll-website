@@ -11,12 +11,11 @@
 <!-- ![Animesh Garg]({{ site.baseurl }}/images/animesh-feb15.jpg) -->
 [![Animesh Garg]({{ site.baseurl }}/images/animesh-philly-nov15.jpg)]({{ site.baseurl }}/)
 
-Ph.D. Student  
-[Berkeley AI Research Lab][bair]  
-[Automation Lab][autolab]  
-[Operations Research][ieor]   
-[Computer Science][cs]  
-[UC, Berkeley][ucb]  
+Postdocoral Researcher  
+[Vision Lab][visionlab]  
+[Stanford AI Lab][sail]  
+[Computer Science][cs-stan]  
+[Stanford University][stanford]  
 
 <!-- Email me: [<i class="fa fa-envelope fa-lg"></i>](javascript:toggleblock('emailAdd')) 
 <i id = "emailAdd"> [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu) </i>
@@ -26,7 +25,7 @@ Ph.D. Student
  -->
 <!--[<i class="fa fa-envelope fa-lg"></i>](): [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu)-->
 Contact me:  
-[<span style="font-size: 98%">animesh**&#xb7;**garg@berkeley**&#xb7;**edu </span>](mailto:animesh.garg@berkeley.edu)
+[<span style="font-size: 98%">garg@cs**&#xb7;**stanford**&#xb7;**edu </span>](mailto:garg@cs.stanford.edu)
 
 Find me on:  
 <!--[**Blog**](http://animesh-garg.blogspot.com/)   **&#xb7;** -->

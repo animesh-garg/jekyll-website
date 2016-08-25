@@ -22,3 +22,11 @@
 [ucb]: http://www.berkeley.edu
 [ucsf]: http://radonc.ucsf.edu/
 [bair]: http://bair.berkeley.edu
+[ffl]: vision.stanford.edu/feifeili/
+[silvio]: http://cvgl.stanford.edu/silvio/
+[visionlab]:http://vision.stanford.edu/
+[cvgl]: http://cvgl.stanford.edu/index.html
+[marco]: http://web.stanford.edu/~pavone/
+[sail]: http://ai.stanford.edu/
+[cs-stan]: http://cs.stanford.edu/
+[stanford]: http://www.stanford.edu/

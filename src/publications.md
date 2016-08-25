@@ -11,33 +11,47 @@ layout: default
 
 ###### Preprints
 
+* [**SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards**](http://goldberg.berkeley.edu/pubs/SWIRL-WAFR16-Submitted.pdf). Sanjay Krishnan, Animesh Garg, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, and Ken Goldberg. Submitted to the Workshop on Algorithmic Foundations of Robotics (WAFR). July 2016. 
+
+* [**Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning**](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf). Sanjay Krishnan, Animesh Garg, Sachin Patil, Colin Lea, Gregory Hager, Pieter Abbeel, Ken Goldberg. Submitted to The International Journal of Robotics Research. May 2016.
+
 * **Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.**  
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*
-
-* **[An Interchangeable Surgical Instrument System with Application to Supervised Automation of Multilateral Tumor Resection](http://berkeleyautomation.github.io/surgical-tools/)**  
-Stephen McKinley, Animesh Garg, Siddarth Sen, David V. Gealy, Jonathan P. McKinley, Yiming Jen, Mengluo Guo, Doug Boyd, Ken Goldberg. *Under Review at [IEEE CASE 2016](http://case2016.org/)*  
-
-*  [**Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling**](http://berkeleyautomation.github.io/gpas/) 
-Animesh Garg, Siddhart Sen, Rishi Kapadia, Yiming Jen, Stephen McKinley, Lauren Miller, Ken Goldberg. *Under Review at [IEEE CASE 2016](http://case2016.org/)*
 
 * [**HIRL: Hierarchical Inverse Reinforcement Learning for Long-Horizon Tasks with Delayed Rewards**](http://arxiv.org/abs/1604.06508)  
 Sanjay Krishnan, Animesh Garg, Richard Liaw, Lauren Miller, Florian T. Pokorny, Ken Goldberg. [*arXiv*](http://arxiv.org/abs/1604.06508)
 
 ---
 
+###### Theses
+
+* **PhD Thesis**: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks]({{ site.baseurl }}/files/garg-phdthesis-2016.pdf)
+
+* **MS Thesis**: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
+
+---
+
 ###### Journal Publications 
 
-* \[25\] **[Material Evaluation of PC-ISO for Customized, 3D Printed, Gynecologic 192Ir HDR Brachytherapy Applicators.]({{ site.baseurl }}/files/JACMP-published-version.pdf)**  
+* \[27\] **[Material Evaluation of PC-ISO for Customized, 3D Printed, Gynecologic 192Ir HDR Brachytherapy Applicators.]({{ site.baseurl }}/files/JACMP-published-version.pdf)**  
 Katherine Mellis, Timmy Siauw, Atchar Sudhyadhom, Rajni Sethi, I-Chow Hsu, Jean Pouliot, **Animesh Garg**, Ken Goldberg, J. Adam Cunha.  
 *Journal of Applied Clinical Medical Physics (JACMP) 2014.* 
 
-* \[24\] **[Open-Loop Robot-Guided Insertion of Optimized Skew-Line Needle Arrangements for High Dose Rate Brachytherapy.]({{ site.baseurl }}/files/garg-brachy-tase-2013.pdf)**  
+* \[26\] **[Open-Loop Robot-Guided Insertion of Optimized Skew-Line Needle Arrangements for High Dose Rate Brachytherapy.]({{ site.baseurl }}/files/garg-brachy-tase-2013.pdf)**  
 **Animesh Garg**, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
  *IEEE Transactions on Automation Science and Engineering, 2013.*
 
 ---
 
 ###### Conference Publications
+
+* \[25\] [**Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling**](http://berkeleyautomation.github.io/gpas/) 
+Animesh Garg, Siddhart Sen, Rishi Kapadia, Yiming Jen, Stephen McKinley, Lauren Miller, Ken Goldberg.  
+*IEEE Int'l Conference on Automation Science and Engineering (CASE), 2016.* 
+
+* \[24\] **[An Interchangeable Surgical Instrument System with Application to Supervised Automation of Multilateral Tumor Resection](http://berkeleyautomation.github.io/surgical-tools/)**  
+Stephen McKinley, Animesh Garg, Siddarth Sen, David V. Gealy, Jonathan P. McKinley, Yiming Jen, Mengluo Guo, Doug Boyd, Ken Goldberg.  
+*IEEE Int'l Conference on Automation Science and Engineering (CASE), 2016.* 
 
 * \[23\] **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**   
 Adithya Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* denotes equal contribution).  

@@ -31,14 +31,16 @@ During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded sol
 
 ###### Education
 
-Exp. 2016  *Committee*
+2016  *Committee*
 : **Ph.D. Operations Research** &#xb7; [University of California, Berkeley][ieor]  
-  [Ken Goldberg][kg], [Alper Atamturk][alper], [Pieter Abbeel][pa], [Laurent El Ghaoui][leg], [Jean Pouliot][jp]   
+  [Ken Goldberg][kg], [Alper Atamturk][alper], [Pieter Abbeel][pa], [Laurent El Ghaoui][leg], [Jean Pouliot][jp]  
+  Thesis: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks](({{ site.baseurl }}/files/garg-phdthesis-2016.pdf))
   <!--*Coursework*: Linear and Non Linear Optimization, Stochastic Modeling, Network Algorithms and Graph Theory, Statistical Learning, Controls, Robotics.-->
 
-Exp. 2016 
+2016 
 : **M.S. Computer Science** &#xb7; [University of California, Berkeley][cs]  
-  *Advisors*: [Ken Goldberg][kg] and [Pieter Abbeel][pa] 
+  *Advisors*: [Ken Goldberg][kg] and [Pieter Abbeel][pa]  
+  Thesis: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
 
 2011   
 : **M.S. Industrial Engineering** &#xb7; [Georgia Institute of Technology](http://www.isye.gatech.edu/), Atlanta  
@@ -146,9 +148,12 @@ Sept 2011
 ---
 
 ###### Employment
+2016 -- *Present*
+: **Stanford University**, Post-doctoral Researcher
+  Machine Learning Algorithms for Perception and Control in Robotics
 
-2011 -- *Present*
-: **UC Berkeley** , Graduate Student Researcher    
+2011 -- 2016
+: **UC Berkeley**, Graduate Student Researcher    
   Learning algorithms for greater autonomy in surgical tasks.  
   Implement autonomy in clinical brachytherapy.
 
@@ -173,13 +178,14 @@ Sept 2011
 ###### Student Mentoring
 
 UG  
-: Heimdall Siao (2011-12) -- Grad School (Georgia Tech)  
-Nikitha Singh (2013-14) -- Palantir  
-Zach Mulder (2013-14) -- Grad School (Berkeley)  
-Siddarth Sen (2014-) --  Grad School (Berkeley)  
-Adithyavairavan Murali (2014-) --   
-Yiming Jen (2015-) --  
-Richard Liaw (2015-) -- 
+: Heimdall Siao (2011-12) -- Grad School (Georgia Tech), Qualcomm  
+Nikitha Singh (2013-14) -- Grad School (MIT)  
+Zach Mulder (2013-14) -- Grad School (Berkeley)   
+Siddarth Sen (2014-16) --  Grad School (Berkeley), Intuitive Surgical  
+Adithyavairavan Murali (2014-15) --  Grad School (CMU)  
+Yiming Jen (2015-16) --  Rising Senior (Berkeley)  
+Richard Liaw (2015-) --   Rising Senior (Berkeley)  
+Brijen Thananjeyan (2016-) -- Rising Junior (Berkeley)
 
 M.Eng
 : Anwaar El-Zireeni (2013-14) -- Startup   
