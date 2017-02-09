@@ -26,7 +26,6 @@ During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded sol
 
 <!-- Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.    -->
 
-
 ---  
 
 ###### Education
@@ -58,24 +57,27 @@ During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded sol
    IEEE ICRA Medical Robotics Workshop 2015 [Best Poster/Demo Award](http://research.intusurg.com/workshops/icra-2015/)  
    IEEE ICRA 2015 [Best Medical Robotics Paper Award Finalist](http://icra2015.org/conference/awards#medical)  
    <!-- IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/conference/forums/11-conference/57-ph-d-forum)   -->
+   UC Berkeley Ira Abraham Fellowship
 
 2014
-:  UC Berkeley Dept. of IEOR Summer Research Grant
+:  UC Regents Fellowship (Summer)
 
 2013
 :  NSF Travel Support for IEEE CASE 2013  
-   UC Berkeley Dept. of IEOR Summer Research Grant
+   S. Tashiera Fellowship, UC Berkeley (Summer)
 
 2012
 : IEEE CASE 2012 [Best Application Paper Award](http://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/81-ieee-case-best-application-paper-award-sponsored-by-qsi)  
   Berkeley International Office Tuition Award  
-  Dept. of IEOR Graduate Fellowship
+
+2012 -- 13 
+:  Earl C. Anthony Graduate Fellowship, UC Berkeley
 
 2010
 :  Erasmus Mundus Fellowship at TU Munich (full tuition & stipend)
 
 2007 -- 10 
-: NSIT Academic Merit Scholarship Award (full tuition)
+: University of Delhi Academic Merit Scholarship Award (full tuition)
 
 2004 -- 10
 : State Bank of India Meritorious Student Scholarship (stipend)
@@ -83,6 +85,17 @@ During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded sol
 ---
 
 ###### Invited Talks
+
+Sept-Oct 2016
+: Closing the Visuo-Motor Loop with Deep Reinforcement Learning  
+  SAIL-Toyota AI Center Annual Review    
+  Stanford [CS 331B Representation Learning Guest Lecturer](http://web.stanford.edu/class/cs331b/)
+
+Mar-Apr 2016
+: Algorithmic Automation in Medical Robotics   
+  MIT, UC San Diego, Stanford   
+  Uber Marketplace Optimization, Amazon Research,  Baidu Research, Drive.ai 
+
 Feb 2016
 : Unsupervised Segmentation of Surgical Subtasks  
   *[BEARS Research Symposium](http://www.eecs.berkeley.edu/bears/#), Berkeley, CA*
@@ -177,15 +190,38 @@ Sept 2011
 
 ###### Student Mentoring
 
+<!-- 
+&zwnj;
+: **Stanford**
+
+MS
+: Boris Ivanovic  
+  Julian Gao  
+  Andrey  
+  Lucio  
+  Orry  
+
+PhD
+: James Harrison  
+  Kuan Fang  
+  Kaichun Mo  
+  Ajay   
+  Jim Fan   
+-->
+
+
+&zwnj;
+: **UC Berkeley** 
+
 UG  
 : Heimdall Siao (2011-12) -- Grad School (Georgia Tech), Qualcomm  
 Nikitha Singh (2013-14) -- Grad School (MIT)  
 Zach Mulder (2013-14) -- Grad School (Berkeley)   
 Siddarth Sen (2014-16) --  Grad School (Berkeley), Intuitive Surgical  
 Adithyavairavan Murali (2014-15) --  Grad School (CMU)  
-Yiming Jen (2015-16) --  Rising Senior (Berkeley)  
-Richard Liaw (2015-) --   Rising Senior (Berkeley)  
-Brijen Thananjeyan (2016-) -- Rising Junior (Berkeley)
+Yiming Jen (2015-16) --  Berkeley, Pinterest  
+Richard Liaw (2015-2016) --   Rising Senior (Berkeley)  
+Brijen Thananjeyan (2016-2016) -- Rising Junior (Berkeley)
 
 M.Eng
 : Anwaar El-Zireeni (2013-14) -- Startup   
@@ -197,8 +233,18 @@ M.Eng
 ###### Service
 <!-- Ongoing
 : Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), CASE \[2013, [2014](http://www.case2014.org/), [2015](http://case2015.org/)\], IROS [2015](http://www.iros2015.org/), ICRA [2014](http://www.icra2014.com/), [APES 2014](http://www.springer.com/biomed/journal/13246) -->
-Ongoing
-: Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), [CASE](http://www.ieee-ras.org/conferences-workshops), [IROS](http://www.ieee-ras.org/conferences-workshops), [ICRA](http://www.ieee-ras.org/conferences-workshops), [APES](http://www.springer.com/biomed/journal/13246)
+
+&zwnj;
+: **Workshop Organization**  
+
+2017
+: [C4 Surgical Robots: Compliant, Continuum, Cognitive, and Collaborative](http://bioeng.nus.edu.sg/mm/c4r.html), [ICRA](http://www.icra2017.org/)
+
+2016
+: [Understanding 3D and Visuo-Motor Learning](http://3dv.stanford.edu/visuo-motor/),  [International Conference on 3D Vision](http://3dv.stanford.edu/)
+
+Reviewer
+: [IJRR]() [T-ASE](http://www.ieee-ras.org/publications/t-ase), [CASE](http://www.ieee-ras.org/conferences-workshops), [IROS](http://www.ieee-ras.org/conferences-workshops), [ICRA](http://www.ieee-ras.org/conferences-workshops), [APES](http://www.springer.com/biomed/journal/13246), [CVIU](), [AAAI]()
 
 2015
 : Organized Lab Tour for Society of Women Engineers Mini University Event
