@@ -9,8 +9,8 @@ I am interested in problems at the intersection of optimization, machine learnin
 I work on enabling autonomous systems to learn from imprecise information for performing a range of tasks with independence and flexibility. My work employs and contributes to techniques in *non-convex, discrete optimization*, *design* and *deep representation learning*.  
 
 My Ph.D. focuses on autonomy in two healthcare applications:  
-- [Surgical Robotics]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
-- [Radiation Therapy]({{ site.baseurl }}/research/#radiation-therapy-for-cancer-planning-and-delivery)
+-[Surgical Robotics]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
+-[Radiation Therapy]({{ site.baseurl }}/research/#radiation-therapy-for-cancer-planning-and-delivery)
 
 <!-- My research spans \textbf{Operations Research}, \textbf{Computer Science} and \textbf{Design}, combining theory with experiments.
  The goal of my work is analysis of decision and design problems in human-machine collaboration and skill-augmentation, with a focus on healthcare.

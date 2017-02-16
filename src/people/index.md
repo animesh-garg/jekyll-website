@@ -25,5 +25,51 @@ div_class: people
 | [![dmitry]({{ site.baseurl }}/people/images/dmitry-berenson.png)][db] | [![timmy]({{ site.baseurl }}/people/images/timmy-siauw.png)][ts] | [![sachin]({{ site.baseurl }}/people/images/sachin-patil.png)][scp] |
 |  [Dmitry Berenson][db]  | [Timmy Siauw][ts] | [Sachin Patil][scp] |
 
+---
 
+<!-- #### **Student Mentoring**
+
+|---------+--------------+----------+---------+---------------------|
+| *Name*  | *Affliation* | *Status* | *Years* | *After Graduation*  | 
+|:--------|:------------:|:--------:|:-------:|:--------------------|
+| Rashmi Ramtani | UC Berkeley | M.Eng. | 2013-14 | N/A |
+| Jennifer Wong | UC Berkeley | M.Eng. | 2013-14 | ZS Associates |
+| Anwaar El-Zireeni | UC Berkeley | M.Eng. | 2013-14 | Startup   |
+
+&zwnj;
+: **Stanford**
+
+PhD
+: James Harrison (2016-) --   
+  Kuan Fang  (2017-) --   
+  Danfei Xu  (2017-) --   
+  Kaichun Mo  (2017-) --   
+  Ajay Mandlekar    (2017-) --   
+  Jim Fan   (2017-) -- 
+
+MS
+: Boris Ivanovic  (2016-) --  
+  Julian Gao   (2016-) --  
+  Andrey Kurenkov  (2016-) --  
+  Lucio Dery (2016-) --   
+  Orry Despo (2016-) --  
+
+&zwnj;
+: **UC Berkeley** 
+
+UG  
+: Heimdall Siao (2011-12) -- Grad School (Georgia Tech), Qualcomm  
+Nikitha Singh (2013-14) -- Grad School (MIT)  
+Zach Mulder (2013-14) -- Grad School (Berkeley)   
+Siddarth Sen (2014-16) --  Grad School (Berkeley), Intuitive Surgical  
+Adithyavairavan Murali (2014-15) --  Grad School (CMU)  
+Yiming Jen (2015-16) --  Berkeley, Pinterest  
+Richard Liaw (2015-2016) --   Rising Senior (Berkeley)  
+Brijen Thananjeyan (2016-2016) -- Rising Junior (Berkeley)
+
+M.Eng
+: Anwaar El-Zireeni (2013-14) -- Startup   
+  Jennifer Wong (2013-14) -- ZS Associates  
+  Rashmi Ramtani (2013-14)  
+ -->
 {% include peoples_urls.md %}

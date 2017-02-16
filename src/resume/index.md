@@ -190,25 +190,27 @@ Sept 2011
 
 ###### Student Mentoring
 
-<!-- 
+ 
 &zwnj;
 : **Stanford**
 
-MS
-: Boris Ivanovic  
-  Julian Gao  
-  Andrey  
-  Lucio  
-  Orry  
-
 PhD
-: James Harrison  
-  Kuan Fang  
-  Kaichun Mo  
-  Ajay   
-  Jim Fan   
--->
+: James Harrison (2016-) --   
+  Kuan Fang  (2017-) --   
+  Danfei Xu  (2017-) --   
+  Kaichun Mo  (2017-) --   
+  Ajay Mandlekar    (2017-) --   
+  Jim Fan   (2017-) -- 
 
+MS
+: Boris Ivanovic  (2016-) --  
+  Julian Gao   (2016-) --  
+  Andrey Kurenkov  (2016-) --  
+  Lucio Dery (2016-) --   
+  Orry Despo (2016-) --  
+
+&zwnj;
+: ---  
 
 &zwnj;
 : **UC Berkeley** 

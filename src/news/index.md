@@ -5,7 +5,8 @@ layout: default
 
 ## Research Coverage in Media and Press
 
-<ul class="inset">
+{% include press_coverage.md %}  
+<!-- <ul class="inset">
   <li>
     <a href="http://spectrum.ieee.org/robotics/medical-robots/would-you-trust-a-robot-surgeon-to-operate-on-you"><img src="{{ site.baseurl }}/news/press/ieee-spectrum-logo.jpg" alt="IEEE Spectrum" width="200" height="50" /></a>
   </li>
@@ -35,10 +36,10 @@ layout: default
   </li>
 
 </ul>
-
+ -->
 ---
 
-## News
+## News Archive
 
 <ul class="inset">
 {% for post in site.categories.news %}

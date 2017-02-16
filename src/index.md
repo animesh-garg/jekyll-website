@@ -27,13 +27,15 @@ pagination: true
 {% endfor %}
 </ul>
 
-###### Research in [**Media/Press**]({{ site.baseurl }}/news/#research-coverage-in-media-and-press)
-
 ---  
 
 ### Recent [**Research**]({{ site.baseurl }}/research/)  
 {% include recent_projects.md %}  
 ---  
+
+### Coverage in [**Media/Press**]({{ site.baseurl }}/news/#research-coverage-in-media-and-press)
+{% include press_coverage.md %}  
+---
 
 ### Recent [**Blog**]({{ site.baseurl }}/articles/)
 <ul class="inset">
