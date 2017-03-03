@@ -11,6 +11,11 @@ layout: default
 
 ###### Preprints
 
+* \[4\] **[Adversarially Robust Policy Learning through Active
+      Construction of Physically-Plausible Perturbations]()**  
+Ajay Mandlekar\*, Yuke Zhu\*, Animesh Garg\*, Li Fei-Fei, Silvio Savarese. (\* equal contribution) *preprint under review*.
+
+
 * \[3\] **[Weakly Supervised Generative Adversarial Networks for 3D Reconstruction.]()**  
 JunYoung Gwak, Chris Choy, **Animesh Garg**, Manmohan Chandraker, Silvio Savarese. *preprint under review*.
 
