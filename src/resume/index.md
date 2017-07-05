@@ -20,10 +20,11 @@ I study the interaction of data-driven *Learning for Autonomy* and *Design for A
  -->
 
 I grew up in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior). I received a B.E. in Manufacturing & Automation from [University of Delhi][du] and an M.S. in IE from [Georgia Tech](http://www.isye.gatech.edu/).  
-During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded solutions for:  
+
+<!-- During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded solutions for:  
 - [Learning & Automation in Surgical Subtasks]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
 - [Radiation Therapy for Cancer: Planning and Delivery]({{ site.baseurl }}/research/#radiation-therapy-for-cancer-planning-and-delivery)  
-
+ -->
 <!-- Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.    -->
 
 ---  
@@ -190,7 +191,6 @@ Sept 2011
 
 ###### Student Mentoring
 
- 
 &zwnj;
 : **Stanford**
 
@@ -198,16 +198,15 @@ PhD
 : James Harrison (2016-) --   
   Kuan Fang  (2017-) --   
   Danfei Xu  (2017-) --   
-  Kaichun Mo  (2017-) --   
+  De-An Huan  (2017-) --   
   Ajay Mandlekar    (2017-) --   
-  Jim Fan   (2017-) -- 
 
 MS
-: Boris Ivanovic  (2016-) --  
+: Andrey Kurenkov  (2016-) --  
+  Boris Ivanovic  (2016-) --  
   Julian Gao   (2016-) --  
-  Andrey Kurenkov  (2016-) --  
   Lucio Dery (2016-) --   
-  Orry Despo (2016-) --  
+  Orry Despo (2016-17)   
 
 &zwnj;
 : ---  

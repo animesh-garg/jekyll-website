@@ -11,8 +11,8 @@
 <!-- ![Animesh Garg]({{ site.baseurl }}/images/animesh-feb15.jpg) -->
 [![Animesh Garg]({{ site.baseurl }}/images/animesh-philly-nov15.jpg)]({{ site.baseurl }}/)
 
-Postdocoral Researcher  
-[Vision Lab][visionlab]  
+Postdoc Researcher  
+[Stanford Vision &amp; Learning][visionlab]  
 [Stanford AI Lab][sail]  
 [Computer Science][cs-stan]  
 [Stanford University][stanford]  

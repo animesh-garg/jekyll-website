@@ -11,33 +11,33 @@ layout: default
 
 ###### Preprints 
 
-![RAMIL]({{ 'comingSoon.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems]()**  
+    James Harrison\*, **Animesh Garg**\*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone (\* equal contribution).  
+    *Under Review at ISRR 2017*  \[[arXiv coming soon!]()\]   
+
+![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Weakly Supervised Generative Adversarial Networks for 3D Reconstruction](https://arxiv.org/abs/1705.10904)**  
+    JunYoung Gwak\*, Christopher B. Choy\*, **Animesh Garg**, Manmohan Chandraker, Silvio Savarese. (\* equal contribution).  
+    \[[arXiv 1705.10904](https://arxiv.org/abs/1705.10904)\]   
+
+![RAMIL]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Anonymous]()**  
     De-An Huang, Shyamal Buch, Lucio Dery, **Animesh Garg**, Li Fei-Fei, Juan Carlos Niebles.  
     *Under Review at NIPS 2017*
     <!-- :   **[Weakly-Supervised Visual Grounding in Video with Reference-Aware Multiple Instance Learning]()**   -->
 
-![NTP]({{ 'comingSoon.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+![NTP]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Anonymous]()**  
     Danfei Xu\*, Yuke Zhu\*, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
     *Under Review at NIPS 2017*  [ArXiv coming soon!]()
     <!-- :   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks]()**   -->
 
-![Deformnet]({{ 'comingSoon.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+![Deformnet]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Anonymous]()**  
     Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
     *Under Review at NIPS 2017*  [ArXiv coming soon!]()
     <!-- :   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]()**   -->
-
-![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems]()**  
-    James Harrison\*, **Animesh Garg**\*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone (\* equal contribution).  
-    *Under Review at ISRR 2017* [ArXiv coming soon!]()   
-
-![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Weakly Supervised Generative Adversarial Networks for 3D Reconstruction](https://arxiv.org/abs/1705.10904)**  
-    JunYoung Gwak\*, Christopher B. Choy\*, **Animesh Garg**, Manmohan Chandraker, Silvio Savarese. (\* equal contribution).  
-    [ArXiv 1705.10904](https://arxiv.org/abs/1705.10904)   
 
 ![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 : **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
@@ -52,6 +52,7 @@ Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzal
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*
  -->
 
+
 --- 
 
 ###### Pulications
@@ -63,7 +64,7 @@ Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow
 
 ![TSC-ijrr]({{ 'tsc-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 : **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
-Sanjay Krishnan, **Animesh Garg**\*, Sachin Patil, Colin Lea, Gregory Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution).   
+Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Gregory Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution).   
 International Journal of Robotics Research (IJRR) *accepted 2017*.
 
 ![Cutting]({{ 'cutting-icra17.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
@@ -89,15 +90,15 @@ International Journal of Robotics Research (IJRR) *accepted 2017*.
     Stephen McKinley, **Animesh Garg**, Siddarth Sen, David V. Gealy, Jonathan P. McKinley, Yiming Jen, Mengluo Guo, Doug Boyd, Ken Goldberg.  
     *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2016.* 
 
-![TSC-DL]({{ 'tscdl-icra16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**   
-    Adithya Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* equal contribution).  
-    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* 
-
 ![AMTS]({{ 'suturing-icra16.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Autonomous Multiple-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Optimization based Needle Planning](http://berkeleyautomation.github.io/amts/)**  
     Siddarth Sen\*, **Animesh Garg**\*, David V. Gealy, Stephen McKinley, Yiming Jen, Ken Goldberg (\* equal contribution).  
     *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.*  
+
+![TSC-DL]({{ 'tscdl-icra16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**   
+    Adithya Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* equal contribution).  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* 
 
 ![TSC]({{ 'tsc-isrr15.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)**  
@@ -113,7 +114,7 @@ Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan
 :   **[Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms]({{ site.baseurl }}/files/murali-LBO-2015.pdf)**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
 *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2015.*  
-**<font color="red">Best Medical Robotics Paper Award Finalist</font>** \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]  
+**🏆 <font color="red">Best Medical Robotics Paper Award Finalist</font>** \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]  
 
 ![PC-ISO]({{ 'matEval-jacmp.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Material Evaluation of PC-ISO for Customized, 3D Printed, Gynecologic 192Ir HDR Brachytherapy Applicators.]({{ site.baseurl }}/files/JACMP-published-version.pdf)**  
@@ -143,7 +144,7 @@ Timmy Siauw, J. Adam M. Cunha, **Animesh Garg**, Ken Goldberg, I. Hsu, and Jean 
 :   **[Initial Experiments toward Automated Robotic Implantation of Skew-Line Needle Arrangements for HDR Brachytherapy]({{ site.baseurl }}/files/garg-brachy-case-2012.pdf)**  
  **Animesh Garg**, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
  *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2012.*  
- **<font color="red">Best Application Paper Award.</font>** \[[**Video**](https://youtu.be/Kk_wHiu8nGg)\] \[[**Talk**](https://youtu.be/TGEIRpbuS_I)\]
+ **🏆 <font color="red">Best Application Paper Award.</font>** \[[**Video**](https://youtu.be/Kk_wHiu8nGg)\] \[[**Talk**](https://youtu.be/TGEIRpbuS_I)\]
 
 ![robot-brachy-mp]({{ 'robimp-mp12.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)**  
@@ -199,7 +200,7 @@ Stephen McKinley, **Animesh Garg**, Susan Lim, Sachin Patil, Ken Goldberg. 13th 
 
 * \[5\] **[Autonomous Tumor Localization and Extraction](https://www.youtube.com/watch?v=YiPq9t0tR3U)**  
 Stephen McKinley, Siddarth Sen, **Animesh Garg**, Yiming Jen, David Gealy, W. Douglas Boyd, Pieter Abbeel, Ken Goldberg. *[Surgical Robot Challenge, Hamlyn Symposium, 2015](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015).*   
-**<font color="red">Best Video Award.</font>**
+**🏆 <font color="red">Best Video Award.</font>**
 <!-- \[[Watch Here](https://www.youtube.com/watch?v=YiPq9t0tR3U)\] -->
 
 * \[4\] **[Learning, Optimization & Design for Healthcare Systems]({{ site.baseurl }}/files/garg-ICRA15-phdForum.pdf)**  
@@ -208,7 +209,7 @@ Stephen McKinley, Siddarth Sen, **Animesh Garg**, Yiming Jen, David Gealy, W. Do
 * \[3\] **[Preliminary Report on the Design of a Palpation Probe for Robot-Assisted Minimally Invasive Surgery](http://research.intusurg.com/workshops/icra-2015/)**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.   
 *ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*  
-**<font color="red">Best Poster/Demo Award.</font>**
+**🏆 <font color="red">Best Poster/Demo Award.</font>**
 
 * \[2\] **[Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation](http://research.intusurg.com/workshops/icra-2015/)**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   

@@ -35,16 +35,18 @@ pagination: true
 
 ### Coverage in [**Media/Press**]({{ site.baseurl }}/news/#research-coverage-in-media-and-press)
 {% include press_coverage.md %}  
+
 ---
 
-### Recent [**Blog**]({{ site.baseurl }}/articles/)
+<!-- ### Recent [**Blog**]({{ site.baseurl }}/articles/)
 <ul class="inset">
 {% for post in site.categories.articles limit:2 %}
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
   </li>
 {% endfor %}
-</ul>
+</ul> -->
+
 <!--
 * [**Customized Treatment methods for HDR Brachytherapy**]({{ site.baseurl}}/research/Brachytherapy.html)  
 
