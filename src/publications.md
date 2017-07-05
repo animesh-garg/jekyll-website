@@ -9,127 +9,153 @@ layout: default
 
 --- 
 
-###### Preprints
+###### Preprints 
 
-* \[4\] **[Adversarially Robust Policy Learning through Active
-      Construction of Physically-Plausible Perturbations]()**  
-Ajay Mandlekar\*, Yuke Zhu\*, Animesh Garg\*, Li Fei-Fei, Silvio Savarese. (\* equal contribution) *preprint under review*.
+![RAMIL]({{ 'comingSoon.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Anonymous]()**  
+    De-An Huang, Shyamal Buch, Lucio Dery, **Animesh Garg**, Li Fei-Fei, Juan Carlos Niebles.  
+    *Under Review at NIPS 2017*
+    <!-- :   **[Weakly-Supervised Visual Grounding in Video with Reference-Aware Multiple Instance Learning]()**   -->
 
+![NTP]({{ 'comingSoon.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Anonymous]()**  
+    Danfei Xu\*, Yuke Zhu\*, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
+    *Under Review at NIPS 2017*  [ArXiv coming soon!]()
+    <!-- :   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks]()**   -->
 
-* \[3\] **[Weakly Supervised Generative Adversarial Networks for 3D Reconstruction.]()**  
-JunYoung Gwak, Chris Choy, **Animesh Garg**, Manmohan Chandraker, Silvio Savarese. *preprint under review*.
+![Deformnet]({{ 'comingSoon.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Anonymous]()**  
+    Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
+    *Under Review at NIPS 2017*  [ArXiv coming soon!]()
+    <!-- :   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]()**   -->
 
-* \[2\] **[Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning.]()**  
-Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzalez , Ken Goldberg. *preprint under review*.
+![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems]()**  
+    James Harrison\*, **Animesh Garg**\*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone (\* equal contribution).  
+    *Under Review at ISRR 2017* [ArXiv coming soon!]()   
 
-* \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
+![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Weakly Supervised Generative Adversarial Networks for 3D Reconstruction](https://arxiv.org/abs/1705.10904)**  
+    JunYoung Gwak\*, Christopher B. Choy\*, **Animesh Garg**, Manmohan Chandraker, Silvio Savarese. (\* equal contribution).  
+    [ArXiv 1705.10904](https://arxiv.org/abs/1705.10904)   
+
+![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+: **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
+Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
+*International Journal of Robotics Research (IJRR), under review*.
+
+![metaRL]({{ 'metarl.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning.]()**  
+Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzalez , Ken Goldberg. *preprint*.
+
+<!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*
+ -->
 
----
+--- 
 
-###### Theses
+###### Pulications
 
-* **PhD Thesis**: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks]({{ site.baseurl }}/files/garg-phdthesis-2016.pdf)
+![ARPL]({{ 'arpl-iros17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations]()**  
+    Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese. (\* equal contribution).  
+    Int'l Conf. on Intelligent Robots and Systems (IROS), 2017.  \[[**Video**]()\]  
 
-* **MS Thesis**: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
+![TSC-ijrr]({{ 'tsc-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+: **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
+Sanjay Krishnan, **Animesh Garg**\*, Sachin Patil, Colin Lea, Gregory Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution).   
+International Journal of Robotics Research (IJRR) *accepted 2017*.
 
----
+![Cutting]({{ 'cutting-icra17.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning]({{ site.baseurl }}/files/cutting-icra17.pdf)**  
+    Brijen Thananjeyan, **Animesh Garg**, Sanjay Krishnan, Carolyn Chen, Lauren Miller, Ken Goldberg.  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2017.* \[[**Video**](https://www.youtube.com/watch?v=l6gQg2VbGcc)\]  
 
-###### Journal Publications 
+![SWIRL]({{ 'swirl-wafr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://www.wafr.org/papers/WAFR_2016_paper_40.pdf)**  
+    Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
+    *Workshop on Algorithmic Foundations in Robotics (WAFR), 2016.*  
+    Earlier Version appeared as HIRL on [*arXiv*](http://arxiv.org/abs/1604.06508). \[[**Talk Video**](https://www.youtube.com/watch?v=r0RzS2DWb8M&index=4&list=PLYTiwx6hV33siv3qb--lW1Sw5BEMgGtR1)\]       
+    <!-- * [**HIRL: Hierarchical Inverse Reinforcement Learning for Long-Horizon Tasks with Delayed Rewards**](http://arxiv.org/abs/1604.06508)  
+    Sanjay Krishnan, Animesh Garg, Richard Liaw, Lauren Miller, Florian T. Pokorny, Ken Goldberg. [*arXiv*](http://arxiv.org/abs/1604.06508) -->
 
-* \[3\] **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
-Sanjay Krishnan, **Animesh Garg**\*, Sachin Patil, Colin Lea, Gregory Hager, Pieter Abbeel, Ken Goldberg (\* denotes equal contribution).   
-International Journal of Robotics Research *accepted 2017*.
+![GPAS]({{ 'gpas-case16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](http://berkeleyautomation.github.io/gpas/)**  
+    **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Yiming Jen, Stephen McKinley, Lauren Miller, Ken Goldberg.  
+    *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2016.* 
 
-* \[2\] **[Material Evaluation of PC-ISO for Customized, 3D Printed, Gynecologic 192Ir HDR Brachytherapy Applicators.]({{ site.baseurl }}/files/JACMP-published-version.pdf)**  
+![PIDA]({{ 'pida-case16.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[An Interchangeable Surgical Instrument System with Application to Supervised Automation of Multilateral Tumor Resection](http://berkeleyautomation.github.io/surgical-tools/)**  
+    Stephen McKinley, **Animesh Garg**, Siddarth Sen, David V. Gealy, Jonathan P. McKinley, Yiming Jen, Mengluo Guo, Doug Boyd, Ken Goldberg.  
+    *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2016.* 
+
+![TSC-DL]({{ 'tscdl-icra16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**   
+    Adithya Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* equal contribution).  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* 
+
+![AMTS]({{ 'suturing-icra16.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Autonomous Multiple-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Optimization based Needle Planning](http://berkeleyautomation.github.io/amts/)**  
+    Siddarth Sen\*, **Animesh Garg**\*, David V. Gealy, Stephen McKinley, Yiming Jen, Ken Goldberg (\* equal contribution).  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.*  
+
+![TSC]({{ 'tsc-isrr15.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)**  
+    Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution)  
+    *International Symposium on Robotics Research (ISRR), 2015*  
+
+![PALP]({{ 'palp-case15.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)**  
+Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
+ *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2015.* 
+
+![lbo]({{ 'lbo-icra15.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms]({{ site.baseurl }}/files/murali-LBO-2015.pdf)**  
+Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
+*IEEE Int'l Conf. on Robotics and Automation (ICRA), 2015.*  
+**<font color="red">Best Medical Robotics Paper Award Finalist</font>** \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]  
+
+![PC-ISO]({{ 'matEval-jacmp.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Material Evaluation of PC-ISO for Customized, 3D Printed, Gynecologic 192Ir HDR Brachytherapy Applicators.]({{ site.baseurl }}/files/JACMP-published-version.pdf)**  
 Katherine Mellis, Timmy Siauw, Atchar Sudhyadhom, Rajni Sethi, I-Chow Hsu, Jean Pouliot, **Animesh Garg**, Ken Goldberg, J. Adam Cunha.  
 *Journal of Applied Clinical Medical Physics (JACMP) 2014.* 
 
-* \[1\] **[Open-Loop Robot-Guided Insertion of Optimized Skew-Line Needle Arrangements for High Dose Rate Brachytherapy.]({{ site.baseurl }}/files/garg-brachy-tase-2013.pdf)**  
+![Reach]({{ 'reach-case14.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Exact Reachability Analysis for Planning Skew-Line Needle Arrangements for Automated Brachytherapy]({{ site.baseurl }}/files/garg-exact-case-2014.pdf)**  
+  **Animesh Garg**, Timmy Siauw, Guang Yang, Sachin Patil, J. Adam M. Cunha, I-Chow Hsu, Jean Pouliot, Alper Atamturk, Ken Goldberg.  
+  *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2014.*
+
+![3dp-Imp]({{ '3DP-ExternalTemplate-1-small.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Customized Needle Guides for Inserting Non-Parallel Needle Arrangements in Prostate HDR Brachytherapy: A Phantom Study](http://www.sciencedirect.com/science/article/pii/S1538472114004863)**  
+Timmy Siauw, J. Adam M. Cunha, **Animesh Garg**, Ken Goldberg, I. Hsu, and Jean Pouliot.  *Brachytherapy 13 (2014): S126-S126.* 
+
+![Rob-Imp]({{ 'research-AcubotPlusImplant.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+: **[Open-Loop Robot-Guided Insertion of Optimized Skew-Line Needle Arrangements for High Dose Rate Brachytherapy.]({{ site.baseurl }}/files/garg-brachy-tase-2013.pdf)**  
 **Animesh Garg**, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, Ken Goldberg.  
  *IEEE Transactions on Automation Science and Engineering, 2013.*
 
----
-
-###### Conference Publications
-
-* \[16\] **[Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning]({{ site.baseurl }}/files/swirl-wafr16.pdf)**  
-Brijen Thananjeyan, **Animesh Garg**, Sanjay Krishnan, Carolyn Chen, Lauren Miller, Ken Goldberg.  
-*IEEE Int'l Conference on Robotics and Automation (ICRA) 2017.* \[[**Video**](https://www.youtube.com/watch?v=l6gQg2VbGcc)\]  
-
-* \[15\] **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://www.wafr.org/papers/WAFR_2016_paper_40.pdf)**  
-Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
-*Workshop on Algorithmic Foundations in Robotics (WAFR), 2016.*  
-Earlier Version appeared as HIRL on [*arXiv*](http://arxiv.org/abs/1604.06508). \[[**Talk Video**](https://www.youtube.com/watch?v=r0RzS2DWb8M&index=4&list=PLYTiwx6hV33siv3qb--lW1Sw5BEMgGtR1)\]  
-
-<!-- * [**HIRL: Hierarchical Inverse Reinforcement Learning for Long-Horizon Tasks with Delayed Rewards**](http://arxiv.org/abs/1604.06508)  
-Sanjay Krishnan, Animesh Garg, Richard Liaw, Lauren Miller, Florian T. Pokorny, Ken Goldberg. [*arXiv*](http://arxiv.org/abs/1604.06508) -->
-
-* \[14\] **[Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](http://berkeleyautomation.github.io/gpas/)** 
-Animesh Garg, Siddarth Sen, Rishi Kapadia, Yiming Jen, Stephen McKinley, Lauren Miller, Ken Goldberg.  
-*IEEE Int'l Conference on Automation Science and Engineering (CASE), 2016.* 
-
-* \[14\] **[An Interchangeable Surgical Instrument System with Application to Supervised Automation of Multilateral Tumor Resection](http://berkeleyautomation.github.io/surgical-tools/)**  
-Stephen McKinley, Animesh Garg, Siddarth Sen, David V. Gealy, Jonathan P. McKinley, Yiming Jen, Mengluo Guo, Doug Boyd, Ken Goldberg.  
-*IEEE Int'l Conference on Automation Science and Engineering (CASE), 2016.* 
-
-* \[13\] **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**   
-Adithya Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* denotes equal contribution).  
-*IEEE Int'l Conference on Robotics and Automation (ICRA), 2016.* 
-
-* \[12\] **[Autonomous Multiple-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Optimization based Needle Planning](http://berkeleyautomation.github.io/amts/)**  
-Siddarth Sen\*, **Animesh Garg**\*, David V. Gealy, Stephen McKinley, Yiming Jen, Ken Goldberg (\* denotes equal contribution).  
-*IEEE Int'l Conference on Robotics and Automation (ICRA), 2016.*  
-
-* \[11\] **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)**  
-Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg (\* denotes equal contribution)  
-*International Symposium on Robotics Research (ISRR), 2015* 
-
-* \[10\] **[A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)**  
-Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
- *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2015.* 
-
-* \[9\] **[Learning by Observation for Surgical Subtasks: Multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms]({{ site.baseurl }}/files/murali-LBO-2015.pdf)**  
-Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
-*IEEE Int'l Conference on Robotics and Automation (ICRA), 2015.*  
-**<font color="red">Best Medical Robotics Paper Award Finalist</font>** \[[**Video**](http://www.youtube.com/watch?v=beVWB6NtAaA)\]  
-
-* \[8\] **[Exact Reachability Analysis for Planning Skew-Line Needle Arrangements for Automated Brachytherapy]({{ site.baseurl }}/files/garg-exact-case-2014.pdf)**  
-  **Animesh Garg**, Timmy Siauw, Guang Yang, Sachin Patil, J. Adam M. Cunha, I-Chow Hsu, Jean Pouliot, Alper Atamturk, Ken Goldberg.  
-  *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2014.*
-
-* \[8\] **[Customized Needle Guides for Inserting Non-Parallel Needle Arrangements in Prostate HDR Brachytherapy: A Phantom Study](http://www.sciencedirect.com/science/article/pii/S1538472114004863)**  
-Timmy Siauw, J. Adam M. Cunha, **Animesh Garg**, Ken Goldberg, I. Hsu, and Jean Pouliot.  *Brachytherapy 13 (2014): S126-S126.* 
-
-* \[7\] **[An Algorithm for Computing Customized 3D Printed Implants with Curvature Constrained Channels for Enhancing Intracavitary Brachytherapy Radiation Delivery]({{ site.baseurl }}/files/garg-3dpImplant-case-2013.pdf)**  
+![3dp-gyn]({{ 'research-anatomy-implant.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[An Algorithm for Computing Customized 3D Printed Implants with Curvature Constrained Channels for Enhancing Intracavitary Brachytherapy Radiation Delivery]({{ site.baseurl }}/files/garg-3dpImplant-case-2013.pdf)**  
   **Animesh Garg**, Sachin Patil, Timmy Siauw, J. Adam M. Cunha, I-Chow Hsu, Pieter Abbeel, Jean Pouliot, and Ken Goldberg.  
-  *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2013.*
+  *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2013.*
 
-* \[6\] **[Initial Experiments toward Automated Robotic Implantation of Skew-Line Needle Arrangements for HDR Brachytherapy]({{ site.baseurl }}/files/garg-brachy-case-2012.pdf)**  
+![robot-brachy]({{ 'AcubotAndHand.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Initial Experiments toward Automated Robotic Implantation of Skew-Line Needle Arrangements for HDR Brachytherapy]({{ site.baseurl }}/files/garg-brachy-case-2012.pdf)**  
  **Animesh Garg**, Timmy Siauw, Dmitry Berenson, Adam Cunha, I-Chow Hsu, Jean Pouliot, Dan Stoianovici, and Ken Goldberg.  
- *IEEE Int'l Conference on Automation Science and Engineering (CASE), 2012.*  
- **<font color="red">Best Application Paper Award.</font>** \[[**Video**](https://youtu.be/Kk_wHiu8nGg)\] \[[**Talk**](https://youtu.be/TGEIRpbuS_I)\] 
+ *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2012.*  
+ **<font color="red">Best Application Paper Award.</font>** \[[**Video**](https://youtu.be/Kk_wHiu8nGg)\] \[[**Talk**](https://youtu.be/TGEIRpbuS_I)\]
 
+![robot-brachy-mp]({{ 'robimp-mp12.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)**  
+J. Adam M. Cunha, Timmy Siauw, **Animesh Garg**, Neil Zhang, Ken Goldberg, Dan Stoianovici, Mark Roach III, I-Chow Hsu, Jean Pouliot.  
+*Medical Physics, vol. 39, p.3931, 2012.* \[[**Med Phys**](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)\] \[[**AAPM**](http://www.aapm.org/meetings/2012am/PRAbs.asp?mid=68&aid=17884)\]
 
-* \[5\] **[Robotic Brachytherapy Demonstration: Implant of HDR Brachytherapy Needle Configuration Computer-Optimized to Avoid Critical Structures Near the Bulb of the Penis](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)**  
- J. Adam M. Cunha, Timmy Siauw, **Animesh Garg**, Neil Zhang, Ken Goldberg, Dan Stoianovici, Mark Roach III, I-Chow Hsu, Jean Pouliot.  
- *Medical Physics, vol. 39, p.3931, 2012.* \[[**Med Phys**](http://scitation.aip.org/content/aapm/journal/medphys/39/6/10.1118/1.4736042)\] \[[**AAPM**](http://www.aapm.org/meetings/2012am/PRAbs.asp?mid=68&aid=17884)\]
-
-* \[4\] **[Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)**  
+![robot-brachy-jro]({{ 'robimp-case12.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)**  
  J. Adam M. Cunha, **Animesh Garg**, Timmy Siauw, Neil Zhang, Yihe Zuo, Ken Goldberg, Dan Stoianovici, Mark Roach III, Jean Pouliot.  
  *J. of Radiotherapy and Oncology, vol.103, p.S45-S46, May 2012.* 
 
-* \[3\] **[The Autotrix: Design and Implementation of an Autonomous Urban Driving System](http://www.scientific.net/AMR.403-408.3884)**  
-  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. *Advanced Materials Research, 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011.)
-
-* \[2\] **[Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer](http://www.scientific.net/AMR.403-408.4727)**  
-  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur. *Advanced Materials Research 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011)
-
-* \[1\] **[Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System]({{ site.baseurl }}/publications.html#conference-publications)**  
-  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  *International Conference of Machine Vision, 2010.*
-  <!-- \[[**PDF**](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] -->
-
----  
+--- 
 
 <!-- ###### Peer Reviewed Short Papers
 ###### Peer Reviewed Short Papers & Demonstrations 
@@ -151,6 +177,14 @@ Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kall
  -->
 
 ###### Peer Reviewed Workshops 
+
+* \[10\] **[Hierarchical Task Generalization with Neural Programs ]({{ site.baseurl }}/files/ntp-rss17-ws.pdf)**  
+Danfei Xu, Yuke Zhu, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese. 
+*R:SS 2017 [New Frontiers for Deep Learning in Robotics](http://juxi.net/workshop/deep-learning-rss-2017/)*.
+
+* \[9\] **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations](http://www.princeton.edu/~ndaw/RLDM17ExtendedAbstracts.pdf#section*.69)**  
+Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese. (\* equal contribution).  
+*[Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)](rldm.org/rldm2017/), 2017*.
 
 * \[8\] **[HIRL: Hierarchical Inverse Reinforcement Learning for Long-Horizon Tasks with Delayed Rewards](http://arxiv.org/abs/1604.06508)**  
 Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Lauren Miller, Florian T. Pokorny, Ken Goldberg. 
@@ -183,7 +217,30 @@ Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFa
 * \[1\] **[A Robotic System for Needle Steering](http://www.iros2011.org/demos)**  
 Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura. *IEEE IROS 2011 Demonstrations.* 
 <!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulations, path planners, controllers, and integration with medical imaging. -->
+
 ---
+
+###### Before Grad School
+
+* **[The Autotrix: Design and Implementation of an Autonomous Urban Driving System](http://www.scientific.net/AMR.403-408.3884)**  
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. *Advanced Materials Research, 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011.)
+
+* **[Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer](http://www.scientific.net/AMR.403-408.4727)**  
+  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur. *Advanced Materials Research 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011)
+
+* **[Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System]({{ site.baseurl }}/publications.html#conference-publications)**  
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  *International Conference of Machine Vision, 2010.*
+  <!-- \[[**PDF**](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] -->
+
+---
+
+###### Theses
+
+* **PhD Thesis**: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks]({{ site.baseurl }}/files/garg-phdthesis-2016.pdf)
+
+* **MS Thesis**: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
+
+--- 
 
 ###### Patents
 

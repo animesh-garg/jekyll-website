@@ -196,6 +196,39 @@ div.figure {
   margin-left: -30px;
 }
 
+.publications dt {
+  float:left;
+  /*width:240px;*/
+  width:20%;
+  padding: 0px 5px;
+  margin-left: -19px;
+  margin-right: 19px;
+  clear:both;
+  position:relative;
+  text-align: justify;  
+}
+
+.publications dt img {
+  width: 100%;
+  font-size:1em;
+  float:none;  
+  margin-bottom:0.3em;
+  margin-left:1em;
+  margin-right:1em;
+  margin-top:0.3em;
+  /*border: 1px solid #0787E3;*/
+  box-shadow: 0 0 7px 0px #AAA; 
+  border-radius: 8px;
+  border: 3px solid #FFF;  
+}
+
+.publications dd {
+  float: right;
+  /*width: 440px;*/
+  width:75%;
+  margin-bottom: 19px;
+}
+
 
 .vision_lunch li {
   list-style: bullet;
