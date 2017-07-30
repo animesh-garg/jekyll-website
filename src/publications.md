@@ -8,13 +8,29 @@ layout: default
 <br>For an online listing please see: [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en) | [**Semantic Scholar**](https://www.semanticscholar.org/author/Animesh-Garg/3124707).  
 
 --- 
+###### Theses
+---  
+<!-- * **PhD Thesis**: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks]({{ site.baseurl }}/files/garg-phdthesis-2016.pdf)
 
+* **MS Thesis**: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
+ -->
+
+![phdthesis]({{ 'phdthesis16-2.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks](http://escholarship.org/uc/item/89k6f68d)**   
+    PhD Thesis, IEOR Department, University of California, Berkeley, 2016.
+
+![mscs]({{ 'msthesis16.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)**  
+    MS Thesis, EECS Department, University of California, Berkeley, 2016.
+
+--- 
 ###### Preprints 
+---  
 
 ![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems]()**  
+:   **[AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)**  
     James Harrison\*, **Animesh Garg**\*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone (\* equal contribution).  
-    *Under Review at ISRR 2017*  \[[arXiv coming soon!]()\]   
+    *Under Review at ISRR 2017*  \[[arXiv 1707.04674](https://arxiv.org/abs/1707.04674)\]   
 
 ![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Weakly Supervised Generative Adversarial Networks for 3D Reconstruction](https://arxiv.org/abs/1705.10904)**  
@@ -31,36 +47,33 @@ layout: default
 :   **[Anonymous]()**  
     Danfei Xu\*, Yuke Zhu\*, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
     *Under Review at NIPS 2017*  [ArXiv coming soon!]()
-    <!-- :   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks]()**   -->
+    <!--  :   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks]()**  -->
 
 ![Deformnet]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Anonymous]()**  
     Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
     *Under Review at NIPS 2017*  [ArXiv coming soon!]()
-    <!-- :   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]()**   -->
+    <!-- :   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]()** -->
 
 ![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 : **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
 Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
 *International Journal of Robotics Research (IJRR), under review*.
+<!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
+Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*-->
 
 ![metaRL]({{ 'metarl.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning.]()**  
 Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzalez , Ken Goldberg. *preprint*.
 
-<!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
-Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*
- -->
-
-
 --- 
+###### Publications
+---  
 
-###### Pulications
-
-![ARPL]({{ 'arpl-iros17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations]()**  
-    Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese. (\* equal contribution).  
-    Int'l Conf. on Intelligent Robots and Systems (IROS), 2017.  \[[**Video**]()\]  
+![ARPL]({{ 'arpl-iros17.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:  **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations]()**  
+  Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
+  Int'l Conf. on Intelligent Robots and Systems (IROS), 2017.  \[[**Video**]()\]  
 
 ![TSC-ijrr]({{ 'tsc-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 : **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
@@ -100,13 +113,13 @@ International Journal of Robotics Research (IJRR) *accepted 2017*.
     Adithya Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* equal contribution).  
     *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* 
 
-![TSC]({{ 'tsc-isrr15.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
+![TSC]({{ 'tsc-isrr15.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)**  
     Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution)  
     *International Symposium on Robotics Research (ISRR), 2015*  
 
 ![PALP]({{ 'palp-case15.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[A Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)**  
+:   **[A Single-use Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
  *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2015.* 
 
@@ -154,9 +167,43 @@ J. Adam M. Cunha, Timmy Siauw, **Animesh Garg**, Neil Zhang, Ken Goldberg, Dan S
 ![robot-brachy-jro]({{ 'robimp-case12.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Robot-Guided delivery of Brachytherapy needles along Non-Parallel paths to avoid Penile Bulb puncture](http://www.thegreenjournal.com/article/S0167-8140(12)72081-9/abstract)**  
  J. Adam M. Cunha, **Animesh Garg**, Timmy Siauw, Neil Zhang, Yihe Zuo, Ken Goldberg, Dan Stoianovici, Mark Roach III, Jean Pouliot.  
- *J. of Radiotherapy and Oncology, vol.103, p.S45-S46, May 2012.* 
+ *J. of Radiotherapy and Oncology, vol.103, p.S45-S46, May 2012.*   
 
+![autotrix-iccrc11]({{ 'autotrix-iccrc11.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[The Autotrix: Design and Implementation of an Autonomous Urban Driving System](http://www.scientific.net/AMR.403-408.3884)**  
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  
+  IEEE Int'l Conf. of Cybernetics, Robotics & Controls, 2011. (*AMR, 2012*)
+  <!-- (*Advanced Materials Research, 2012*)   -->
+
+![dtmf-iccrc11]({{ 'dtmf-iccrc11.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer](http://www.scientific.net/AMR.403-408.4727)**  
+  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur.  
+  IEEE Int'l Conf. of Cybernetics, Robotics & Controls, 2011. (*AMR, 2012*)
+  <!-- (*Advanced Materials Research, 2012*)   -->
+
+
+![autotrix2-icmv]({{ 'autotrix2-icmv.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System]({{ site.baseurl }}/publications.html#conference-publications)**  
+    **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.   
+    *Int'l Conf. of Machine Vision, 2010.*
+
+<!-- 
 --- 
+###### Before Grad School
+---  
+
+* **[The Autotrix: Design and Implementation of an Autonomous Urban Driving System](http://www.scientific.net/AMR.403-408.3884)**  
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  
+  *Advanced Materials Research, 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011.)
+
+* **[Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer](http://www.scientific.net/AMR.403-408.4727)**  
+  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur.  
+  *Advanced Materials Research 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011)
+
+* **[Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System]({{ site.baseurl }}/publications.html#conference-publications)**  
+  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.   
+  *Int'ernationa'l Conf. of Machine Vision, 2010.*
+  <!-- \[[**PDF**](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] --> -->
 
 <!-- ###### Peer Reviewed Short Papers
 ###### Peer Reviewed Short Papers & Demonstrations 
@@ -177,84 +224,66 @@ Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kall
 ---
  -->
 
+--- 
 ###### Peer Reviewed Workshops 
+---  
 
-* \[10\] **[Hierarchical Task Generalization with Neural Programs ]({{ site.baseurl }}/files/ntp-rss17-ws.pdf)**  
-Danfei Xu, Yuke Zhu, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese. 
+* **[Hierarchical Task Generalization with Neural Programs ]({{ site.baseurl }}/files/ntp-rss17-ws.pdf)**  
+Danfei Xu, Yuke Zhu, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese.   
 *R:SS 2017 [New Frontiers for Deep Learning in Robotics](http://juxi.net/workshop/deep-learning-rss-2017/)*.
 
-* \[9\] **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations](http://www.princeton.edu/~ndaw/RLDM17ExtendedAbstracts.pdf#section*.69)**  
+* **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations](http://www.princeton.edu/~ndaw/RLDM17ExtendedAbstracts.pdf#section*.69)**  
 Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese. (\* equal contribution).  
 *[Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)](rldm.org/rldm2017/), 2017*.
 
-* \[8\] **[HIRL: Hierarchical Inverse Reinforcement Learning for Long-Horizon Tasks with Delayed Rewards](http://arxiv.org/abs/1604.06508)**  
+* **[HIRL: Hierarchical Inverse Reinforcement Learning for Long-Horizon Tasks with Delayed Rewards](http://arxiv.org/abs/1604.06508)**  
 Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Lauren Miller, Florian T. Pokorny, Ken Goldberg. 
 *R:SS 2016 [Workshop on Bootstrapping Manipulation Skills](http://www.bootstrapping-manipulation.com/)*.
 
-* \[7\] **[On Visual Feature Representations for Transition State Learning in Robotic Task Demonstrations](http://berkeleyautomation.github.io/tsc-dl/)** 
+* **[On Visual Feature Representations for Transition State Learning in Robotic Task Demonstrations](http://berkeleyautomation.github.io/tsc-dl/)** 
 **Animesh Garg**\*, Sanjay Krishnan\*, Adithyavairavan Murali, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* denotes equal contribution).  
 [NIPS 2015 Workshop on Feature Extraction](http://www.feature-extraction.org/accepted-papers)
 
-* \[6\] **[Automated Delivery Instrument for Stem Cell Treatment using the da Vinci Robotic Surgical System]({{ site.baseurl }}/files/Stem-Cell-Delivery-Instrument-Poster-06-2015.pdf)**  
-Stephen McKinley, **Animesh Garg**, Susan Lim, Sachin Patil, Ken Goldberg. 13th Annual Meeting of the International Society for Stem Cell Research. Stockholm, Sweden. June 2015.
+* **[Automated Delivery Instrument for Stem Cell Treatment using the da Vinci Robotic Surgical System]({{ site.baseurl }}/files/Stem-Cell-Delivery-Instrument-Poster-06-2015.pdf)**  
+Stephen McKinley, **Animesh Garg**, Susan Lim, Sachin Patil, Ken Goldberg. 13th Annual Meeting of the [International Society for Stem Cell Research](http://www.isscr.org/home/annual-meeting/past-future-meetings/isscr2015). Stockholm, Sweden. June 2015.
 
-* \[5\] **[Autonomous Tumor Localization and Extraction](https://www.youtube.com/watch?v=YiPq9t0tR3U)**  
-Stephen McKinley, Siddarth Sen, **Animesh Garg**, Yiming Jen, David Gealy, W. Douglas Boyd, Pieter Abbeel, Ken Goldberg. *[Surgical Robot Challenge, Hamlyn Symposium, 2015](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015).*   
+* **[Autonomous Tumor Localization and Extraction](https://www.youtube.com/watch?v=YiPq9t0tR3U)**  
+Stephen McKinley, Siddarth Sen, **Animesh Garg**, Yiming Jen, David Gealy, W. Douglas Boyd, Pieter Abbeel, Ken Goldberg.  
+*[Surgical Robot Challenge, Hamlyn Symposium, 2015](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015).*   
 **🏆 <font color="red">Best Video Award.</font>**
 <!-- \[[Watch Here](https://www.youtube.com/watch?v=YiPq9t0tR3U)\] -->
 
-* \[4\] **[Learning, Optimization & Design for Healthcare Systems]({{ site.baseurl }}/files/garg-ICRA15-phdForum.pdf)**  
-**Animesh Garg**, Ken Goldberg. *Ph.D. Forum at ICRA 2015.* 
+* **[Learning, Optimization & Design for Healthcare Systems]({{ site.baseurl }}/files/garg-ICRA15-phdForum.pdf)**  
+**Animesh Garg**, Ken Goldberg. *[Ph.D. Forum at ICRA 2015](http://icra2015.org/conference/forums/11-conference/57-ph-d-forum).* 
 
-* \[3\] **[Preliminary Report on the Design of a Palpation Probe for Robot-Assisted Minimally Invasive Surgery](http://research.intusurg.com/workshops/icra-2015/)**  
+* **[Preliminary Report on the Design of a Palpation Probe for Robot-Assisted Minimally Invasive Surgery](http://research.intusurg.com/workshops/icra-2015/)**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.   
-*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*  
+*ICRA 2015 [Workshop: Shared Frameworks for Medical Robotics Research](http://research.intusurg.com/workshops/icra-2015/)*  
 **🏆 <font color="red">Best Poster/Demo Award.</font>**
 
-* \[2\] **[Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation](http://research.intusurg.com/workshops/icra-2015/)**  
+* **[Multilateral Cutting on the da Vinci Research Kit (dVRK): Surgical Subtask Automation using Learning by Observation](http://research.intusurg.com/workshops/icra-2015/)**  
 Adithyavairavan Murali\*, Siddarth Sen\*, Ben Kehoe, **Animesh Garg**, Seth McFarland, Sachin Patil, W Douglas Boyd, Susan Lim, Pieter Abbeel, Ken Goldberg.(\* denotes equal contribution)   
-*ICRA 2015 Workshop: Shared Frameworks for Medical Robotics Research*. 
+*ICRA 2015 [Workshop: Shared Frameworks for Medical Robotics Research](http://research.intusurg.com/workshops/icra-2015/)*. 
 
-* \[1\] **[A Robotic System for Needle Steering](http://www.iros2011.org/demos)**  
-Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura. *IEEE IROS 2011 Demonstrations.* 
+* **[A Robotic System for Needle Steering](http://www.iros2011.org/demos)**  
+Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kallem, Wooram Park, **Animesh Garg**, Gregory Chirikjian, Ken Goldberg, Noah Cowan, and Allison Okamura.  
+*IEEE IROS 2011 Demonstrations.* 
+
 <!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulations, path planners, controllers, and integration with medical imaging. -->
 
----
-
-###### Before Grad School
-
-* **[The Autotrix: Design and Implementation of an Autonomous Urban Driving System](http://www.scientific.net/AMR.403-408.3884)**  
-  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand. *Advanced Materials Research, 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011.)
-
-* **[Low-cost Teleoperation of Remotely Located Actuators Based on Dual Tone Multi-frequency Data Transfer](http://www.scientific.net/AMR.403-408.4727)**  
-  Sahil Thakkar, **Animesh Garg**, Adesh Midha, Prerna Gaur. *Advanced Materials Research 2012* (Int'l Conf. of Cybernetics, Robotics & Controls, 2011)
-
-* **[Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System]({{ site.baseurl }}/publications.html#conference-publications)**  
-  **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.  *International Conference of Machine Vision, 2010.*
-  <!-- \[[**PDF**](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] -->
-
----
-
-###### Theses
-
-* **PhD Thesis**: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks]({{ site.baseurl }}/files/garg-phdthesis-2016.pdf)
-
-* **MS Thesis**: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
-
 --- 
-
 ###### Patents
+---  
 
-* \[3\] **[Precision Injector/Extractor for Robot-Assisted Minimally Invasive Surgery]({{ site.baseurl }}/publications.html#Patents)**. 
-Susan M.L. Lim, Stephen McKinley, **Animesh Garg**, Sachin Patil, and Ken Goldberg.  
-*International Patent Application No. PCT/US2016/039026.*
+* **[Precision Injector/Extractor for Robot-Assisted Minimally Invasive Surgery](https://www.google.com/patents/WO2016210135A1?cl=en)**.  
+Susan M.L. Lim, Stephen McKinley, **Animesh Garg**, Sachin Patil, Ken Goldberg.  
+*U.S. Provisional. PCT International Application No.: PCT/US2016/039026 filed Jun 23, 2016.*
 
-* \[2\] **[Single-use Palpation Probe For Robotic Minimally-invasive Surgery]({{ site.baseurl }}/publications.html#Patents)**  
+* **[Single-use Palpation Probe For Robotic Minimally-invasive Surgery]({{ site.baseurl }}/publications.html#Patents)**  
 Stephen McKinley, Ken Goldberg, **Animesh Garg**, Sachin Patil, Kirk Nichols, Allison Okamura, Doug Boyd. *Provisional Patent*
 
-* \[1\] **[Patient-Specific Temporary Implants For Accurately Guiding Local Means of Tumor Control Along Patient-Specific Internal Channels to Treat Cancers](https://www.google.com/patents/WO2015013716A1)**  
-Jean Pouliot, Ken Goldberg, I-Chow Hsu, J. Adam Cunha, **Animesh Garg**, Sachin Patil, Pieter
-Abbeel, Timmy Siauw.   
+* **[Patient-Specific Temporary Implants For Accurately Guiding Local Means of Tumor Control Along Patient-Specific Internal Channels to Treat Cancers](https://www.google.com/patents/WO2015013716A1)**  
+Jean Pouliot, Ken Goldberg, I-Chow Hsu, J. Adam Cunha, **Animesh Garg**, Sachin Patil, Pieter Abbeel, Timmy Siauw.   
 *U.S. Provisional. PCT International Application No.: PCT/US2014/048488 filed July 28, 2014.* <!-- Patent Application No.: 61/859,687-->
 
 ---
