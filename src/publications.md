@@ -40,45 +40,48 @@ layout: default
 ![RAMIL]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Anonymous]()**  
     De-An Huang, Shyamal Buch, Lucio Dery, **Animesh Garg**, Li Fei-Fei, Juan Carlos Niebles.  
-    *Under Review at NIPS 2017*
+    *Under Review at NIPS 2017* \[[ArXiv coming soon!]()\]
     <!-- :   **[Weakly-Supervised Visual Grounding in Video with Reference-Aware Multiple Instance Learning]()**   -->
 
 ![NTP]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Anonymous]()**  
     Danfei Xu\*, Yuke Zhu\*, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
-    *Under Review at NIPS 2017*  [ArXiv coming soon!]()
+    *Under Review at NIPS 2017*  \[[ArXiv coming soon!]()\]
     <!--  :   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks]()**  -->
 
 ![Deformnet]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Anonymous]()**  
     Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
-    *Under Review at NIPS 2017*  [ArXiv coming soon!]()
+    *Under Review at NIPS 2017*  \[[ArXiv coming soon!]()\]
     <!-- :   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]()** -->
 
 ![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 : **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
 Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
 *International Journal of Robotics Research (IJRR), under review*.
+
+![metaRL]({{ 'metarl.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning.]({{ site.baseurl }}/files/meta-rl-liaw-2016.pdf)**  
+Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzalez , Ken Goldberg. *preprint*.
+
 <!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*-->
 
-![metaRL]({{ 'metarl.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning.]()**  
-Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzalez , Ken Goldberg. *preprint*.
 
 --- 
 ###### Publications
 ---  
 
 ![ARPL]({{ 'arpl-iros17.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:  **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations]()**  
+:  **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations]({{ site.baseurl }}/files/arpl_mzg_iros17.pdf)**  
   Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
-  Int'l Conf. on Intelligent Robots and Systems (IROS), 2017.  \[[**Video**]()\]  
+  *Int'l Conf. on Intelligent Robots and Systems (IROS), 2017.*  \[[**Video**](https://www.youtube.com/watch?v=yZ-gSsbbzh0)\] \[[**Code**](https://stanfordvl.github.io/ARPL/)\]   
+  *A shorter version appeared at [RLDM 2017](http://www.princeton.edu/~ndaw/RLDM17ExtendedAbstracts.pdf#section*.69)*
 
 ![TSC-ijrr]({{ 'tsc-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 : **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
 Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Gregory Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution).   
-International Journal of Robotics Research (IJRR) *accepted 2017*.
+International Journal of Robotics Research (IJRR) *accepted 2017*. \[[**Code**](https://github.com/BerkeleyAutomation/tsc)\]  
 
 ![Cutting]({{ 'cutting-icra17.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning]({{ site.baseurl }}/files/cutting-icra17.pdf)**  
@@ -110,13 +113,13 @@ International Journal of Robotics Research (IJRR) *accepted 2017*.
 
 ![TSC-DL]({{ 'tscdl-icra16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**   
-    Adithya Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* equal contribution).  
-    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* 
+    Adithyavairavan Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* equal contribution).  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* \[[**Code**](https://github.com/BerkeleyAutomation/tsc-dl)\]  
 
 ![TSC]({{ 'tsc-isrr15.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)**  
     Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution)  
-    *International Symposium on Robotics Research (ISRR), 2015*  
+    *International Symposium on Robotics Research (ISRR), 2015*  \[[**Code**](https://github.com/BerkeleyAutomation/tsc)\]  
 
 ![PALP]({{ 'palp-case15.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[A Single-use Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)**  
@@ -203,7 +206,7 @@ J. Adam M. Cunha, Timmy Siauw, **Animesh Garg**, Neil Zhang, Ken Goldberg, Dan S
 * **[Object Identification and Mapping using Monocular Vision in an Autonomous Urban Driving System]({{ site.baseurl }}/publications.html#conference-publications)**  
   **Animesh Garg**, Anju Toor, Sahil Thakkar, Shiwangi Goel, Sachin Maheshwari, Satish Chand.   
   *Int'ernationa'l Conf. of Machine Vision, 2010.*
-  <!-- \[[**PDF**](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] --> -->
+  <!-- \[[**PDF**](http://www.ijcte.org/icmv/icmv2010/136-icmv2010-w12016.pdf)\] --> 
 
 <!-- ###### Peer Reviewed Short Papers
 ###### Peer Reviewed Short Papers & Demonstrations 
