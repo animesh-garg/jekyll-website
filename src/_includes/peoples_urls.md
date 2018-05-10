@@ -3,7 +3,7 @@
 [ac]: http://profiles.ucsf.edu/adam.cunha
 [autolab]: http://automation.berkeley.edu/
 [cs]: http://www.eecs.berkeley.edu/Research/Areas/AI/
-[db]: http://users.wpi.edu/~dberenson/
+[db]: http://web.eecs.umich.edu/~dmitryb/
 [du]: http://www.du.ac.in/index.php?id=4
 [gh]: http://www.cs.jhu.edu/~hager/
 [hic]: http://www.hichristensen.net/
@@ -17,12 +17,13 @@
 [sd]: http://www2.isye.gatech.edu/~sdey30/
 [sk]: http://sergeykarayev.com/
 [scp]: http://rll.berkeley.edu/~sachin/
+[lmm]: http://www.lmiller.me/
 [ts]: http://www.timmysiauw.com/
 [wdb]: https://www.ucdmc.ucdavis.edu/publish/providerbio/search/1274
 [ucb]: http://www.berkeley.edu
 [ucsf]: http://radonc.ucsf.edu/
 [bair]: http://bair.berkeley.edu
-[ffl]: vision.stanford.edu/feifeili/
+[ffl]: http://vision.stanford.edu/feifeili/
 [silvio]: http://cvgl.stanford.edu/silvio/
 [visionlab]:http://vision.stanford.edu/
 [cvgl]: http://cvgl.stanford.edu/index.html

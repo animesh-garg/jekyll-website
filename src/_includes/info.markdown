@@ -8,8 +8,10 @@
 
 <!-- <img src='{{ site.baseurl }}/images/animesh-feb15.jpg'  onmouseover="this.src='{{ site.baseurl }}/images/animesh-gg-sf-nov14-3.jpg';" onmouseout="this.src='{{ site.baseurl }}/images/animesh-feb15.jpg';" />
  -->
-<!-- ![Animesh Garg]({{ site.baseurl }}/images/animesh-feb15.jpg) -->
-[![Animesh Garg]({{ site.baseurl }}/images/animesh-philly-nov15.jpg)]({{ site.baseurl }}/)
+
+<!-- [![Animesh Garg]({{ site.baseurl }}/images/animesh-philly-nov15.jpg)]({{ site.baseurl }}/)  -->
+
+![Animesh Garg]({{ site.baseurl }}/images/animesh-feb15.jpg)
 
 Postdoc Researcher  
 [Stanford Vision &amp; Learning][visionlab]  

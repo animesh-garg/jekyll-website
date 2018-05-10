@@ -32,7 +32,7 @@ baseurl:   /~garg #stanford
 
 # Plugins
 whitelist: []
-gems:      ['jekyll/scholar']
+plugins:      ['jekyll/scholar']
 
 #markdown
 markdown:    kramdown

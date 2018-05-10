@@ -8,18 +8,20 @@ div_class: vita
 {% include peoples_urls.md %}
 {% endcapture %} -->
 
-#### **[Curriculum Vitae in PDF]({{ site.baseurl }}/files/jobs/garg-CV.pdf)**  
+
+
 <div class="figure">
 <img src="{{ site.baseurl }}/images/burlingame-school-may15.jpg" width="70%" align="center">
 </div>
 
-My research spans *Operations Research*, *Machine Learning*, *Robotics* and *Design*, combining theory with experiments. 
+<!-- My research spans *Operations Research*, *Machine Learning*, *Robotics* and *Design*, combining theory with experiments. 
 I study the interaction of data-driven *Learning for Autonomy* and *Design for Automation* for human skill-augmentation and decision support. I am interested in enabling autonomous systems to learn from imprecise information for performing a range of tasks with independence and flexibility.  My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
-
+ -->
 <!-- I am interested in problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
  -->
 
 I grew up in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior). I received a B.E. in Manufacturing & Automation from [University of Delhi][du] and an M.S. in IE from [Georgia Tech](http://www.isye.gatech.edu/).  
+#### **[Curriculum Vitae in PDF]({{ site.baseurl }}/files/jobs/garg-cv.pdf)**  
 
 <!-- During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded solutions for:  
 - [Learning & Automation in Surgical Subtasks]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
@@ -139,6 +141,10 @@ Sept 2011
 ---
 
 ###### Teaching
+[CS 332](http://cs332.stanford.edu/#!index.md)
+: **Advanced Survey of Reinforcement Learning**, Co-Instructor (*F-17*)   
+  with [Emma Brunskill](http://cs.stanford.edu/people/ebrun/), *Stanford University*
+
 [IEOR 131](http://www.ieor.berkeley.edu/~ieor131/)
 : **Discrete Event Simulation**, TA (*Sp-16*)   
   [Lee Schruben](http://www.ieor.berkeley.edu/~schruben/), *University of California, Berkeley*
@@ -163,8 +169,12 @@ Sept 2011
 
 ###### Employment
 2016 -- *Present*
-: **Stanford University**, Post-doctoral Researcher
+: **Stanford University**, Post-doctoral Researcher  
   Machine Learning Algorithms for Perception and Control in Robotics
+
+2016 -- 2017
+: [**Osaro Inc.**](http://www.osaro.com/), Robotics Consultant  
+  Algorithmic Research for Robot Learning applications
 
 2011 -- 2016
 : **UC Berkeley**, Graduate Student Researcher    
@@ -191,6 +201,10 @@ Sept 2011
 
 ###### Student Mentoring
 
+&zwnj;  
+: Please see [**People Page**]({{ site.baseurl }}/people/#student-collaboration-and-advising)
+
+<!-- 
 &zwnj;
 : **Stanford**
 
@@ -227,7 +241,8 @@ Brijen Thananjeyan (2016-2016) -- Rising Junior (Berkeley)
 M.Eng
 : Anwaar El-Zireeni (2013-14) -- Startup   
   Jennifer Wong (2013-14) -- ZS Associates  
-  Rashmi Ramtani (2013-14)  
+  Rashmi Ramtani (2013-14)   
+-->
 
 ---
 
@@ -244,7 +259,7 @@ M.Eng
 2016
 : [Understanding 3D and Visuo-Motor Learning](http://3dv.stanford.edu/visuo-motor/),  [International Conference on 3D Vision](http://3dv.stanford.edu/)
 
-Reviewer
+**Reviewer**
 : [IJRR]() [T-ASE](http://www.ieee-ras.org/publications/t-ase), [CASE](http://www.ieee-ras.org/conferences-workshops), [IROS](http://www.ieee-ras.org/conferences-workshops), [ICRA](http://www.ieee-ras.org/conferences-workshops), [APES](http://www.springer.com/biomed/journal/13246), [CVIU](), [AAAI]()
 
 2015

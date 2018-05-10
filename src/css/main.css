@@ -126,16 +126,18 @@ div.figure {
   border-left: 1px solid #ccc;
   padding-left: 19px;
   border-radius: 3px;
-  margin-bottom: 19px;
+  margin-bottom: 3px;
 }
 
+/*
 .projects li::first-line{
   /*background-color: #0787E3;*/
-  /*color: #E6E6E6;  */
+  /*color: #E6E6E6;  
   line-height: 200%;
   background-color: #E6E6E6;
   color: #0787E3;   
 }
+*/
 
 .projects dt {
   float:left;
@@ -199,7 +201,7 @@ div.figure {
 .publications dt {
   float:left;
   /*width:240px;*/
-  width:20%;
+  width:18%;
   padding: 0px 5px;
   margin-left: -19px;
   margin-right: 19px;
@@ -225,7 +227,7 @@ div.figure {
 .publications dd {
   float: right;
   /*width: 440px;*/
-  width:75%;
+  width:80%;
   margin-bottom: 19px;
 }
 
@@ -467,7 +469,7 @@ figure {
   box-shadow: 0 0 7px 0px #AAA;  
 }
 .people table{
-  width: 50%;
+  width: 100%;
   border: none;
   margin-right: auto;
   margin-left: 0;

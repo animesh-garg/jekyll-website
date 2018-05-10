@@ -20,7 +20,7 @@ pagination: true
 
 ### Recent [**News**]({{ site.baseurl }}/news/)
 <ul class="inset">
-{% for post in site.categories.news limit:4 %}
+{% for post in site.categories.news limit:5 %}
   <li>
     <a href="{{ site.baseurl }}{{ post.url }}"><strong>{{ post.date | date_to_string }}</strong></a>: {{ post.title | markdownify }}
   </li>

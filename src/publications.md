@@ -5,7 +5,9 @@ layout: default
 ---
 
 <!-- #### [Journals](#journal-publications) | [Conferences](#conference-publications) | [Short Papers](#peer-reviewed-short-papers--demonstrations) | [Workshops](#workshop-papers) | [Patents]({{ site.baseurl }}/publications/#patents) -->
-<br>For an online listing please see: [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en) | [**Semantic Scholar**](https://www.semanticscholar.org/author/Animesh-Garg/3124707).  
+<br>
+For an online listing please see: [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en) | [**Semantic Scholar**](https://www.semanticscholar.org/author/Animesh-Garg/3124707).  
+#### [**Listing by Topic**]({{ site.baseurl }}/research/)  
 
 --- 
 ###### Theses
@@ -27,42 +29,16 @@ layout: default
 ###### Preprints 
 ---  
 
-![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)**  
-    James Harrison\*, **Animesh Garg**\*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone (\* equal contribution).  
-    *Under Review at ISRR 2017*  \[[arXiv 1707.04674](https://arxiv.org/abs/1707.04674)\]   
+![TGS3]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration]()**  
+    De-an Huang, Suraj Nair, Danfei Xu, Yuke Zhu, **Animesh Garg**, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles.  
+    *Under review at ECCV 2018.* 
 
-![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Weakly Supervised Generative Adversarial Networks for 3D Reconstruction](https://arxiv.org/abs/1705.10904)**  
-    JunYoung Gwak\*, Christopher B. Choy\*, **Animesh Garg**, Manmohan Chandraker, Silvio Savarese. (\* equal contribution).  
-    \[[arXiv 1705.10904](https://arxiv.org/abs/1705.10904)\]   
-
-![RAMIL]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Anonymous]()**  
-    De-An Huang, Shyamal Buch, Lucio Dery, **Animesh Garg**, Li Fei-Fei, Juan Carlos Niebles.  
-    *Under Review at NIPS 2017* \[[ArXiv coming soon!]()\]
-    <!-- :   **[Weakly-Supervised Visual Grounding in Video with Reference-Aware Multiple Instance Learning]()**   -->
-
-![NTP]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Anonymous]()**  
-    Danfei Xu\*, Yuke Zhu\*, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
-    *Under Review at NIPS 2017*  \[[ArXiv coming soon!]()\]
-    <!--  :   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks]()**  -->
-
-![Deformnet]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Anonymous]()**  
-    Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
-    *Under Review at NIPS 2017*  \[[ArXiv coming soon!]()\]
-    <!-- :   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image]()** -->
 
 ![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-: **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
+: **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards]({{ site.baseurl }}/files/garg_swirl_ijrr17.pdf)**   
 Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
 *International Journal of Robotics Research (IJRR), under review*.
-
-![metaRL]({{ 'metarl.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning.]({{ site.baseurl }}/files/meta-rl-liaw-2016.pdf)**  
-Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzalez , Ken Goldberg. *preprint*.
 
 <!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*-->
@@ -72,6 +48,41 @@ Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow
 ###### Publications
 ---  
 
+![TGS3]({{ 'tgs3.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Learning Task-Oriented Grasping for Tool Manipulation with Simulated Self-Supervision](https://sites.google.com/view/task-oriented-grasp)**  
+    Kuan Fang, Yuke Zhu, **Animesh Garg**, Viraj Mehta, Andrey Kurenkov, Li Fei-Fei, Silvio Savarese.  
+    *Robotics Systems and Science (RSS) 2018.* \[[Project Webpage](https://sites.google.com/view/task-oriented-grasp)\]
+
+
+![RAMIL]({{ 'ramil.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video]()**  
+    De-An Huang, Shyamal Buch, Lucio Dery, **Animesh Garg**, Li Fei-Fei, Juan Carlos Niebles.  
+    *IEEE Conf. on Computer Vision \& Pattern Recognition (CVPR), 2018.*  (**Oral**) 
+    <!-- \[[ArXiv coming soon!]()\] -->
+
+![NTP]({{ 'ntp-icra18.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://stanfordvl.github.io/ntp/)**  
+    Danfei Xu\*, Suraj Nair\*, Yuke Zhu, Julian Gao, **Animesh Garg**, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2018.*  
+    \[[**Video**](https://www.youtube.com/watch?v=THq7I7C5rkk&feature=youtu.be)\] \[[ArXiv 1710.01813](https://arxiv.org/abs/1710.01813)\]
+
+![Deformnet]({{ 'deformnet-animation-plane.gif' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://arxiv.org/abs/1708.04672)**  
+    Andrey Kurenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
+    *IEEE Winter Conf. on Applications of Computer Vision (WACV) 2018*  
+    \[[ArXiv 1708.04672](https://arxiv.org/abs/1708.04672)\] \[[Project Webpage](https://deformnet-site.github.io/DeformNet-website/)\]  
+    An application to grasp transfer appeared at [CoRL 2017](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)
+
+![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)**  
+    James Harrison\*, **Animesh Garg**\*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone (\* equal contribution).  
+    *Int'l Symposium on Robotics Research ([ISRR](https://parasol.tamu.edu/isrr/isrr2017/)) 2017*  \[[arXiv 1707.04674](https://arxiv.org/abs/1707.04674)\]   
+
+![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Weakly supervised 3D Reconstruction with Adversarial Constraint](https://arxiv.org/abs/1705.10904)**  
+    JunYoung Gwak\*, Christopher B. Choy\*, **Animesh Garg**, Manmohan Chandraker, Silvio Savarese. (\* equal contribution).  
+    *Int'l Conf. on 3D Vision (3DV), 2017.* \[[arXiv 1705.10904](https://arxiv.org/abs/1705.10904)\]   
+
 ![ARPL]({{ 'arpl-iros17.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :  **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations]({{ site.baseurl }}/files/arpl_mzg_iros17.pdf)**  
   Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese (\* equal contribution).  
@@ -79,17 +90,22 @@ Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow
   *A shorter version appeared at [RLDM 2017](http://www.princeton.edu/~ndaw/RLDM17ExtendedAbstracts.pdf#section*.69)*
 
 ![TSC-ijrr]({{ 'tsc-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-: **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning](http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf)**   
+: **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning]({{ site.baseurl }}/files/garg-tsc-ijrr17.pdf)**   
 Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Gregory Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution).   
-International Journal of Robotics Research (IJRR) *accepted 2017*. \[[**Code**](https://github.com/BerkeleyAutomation/tsc)\]  
+International Journal of Robotics Research (IJRR) *2017*. \[[**Code**](https://github.com/BerkeleyAutomation/tsc)\]  
 
 ![Cutting]({{ 'cutting-icra17.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Multilateral Surgical Pattern Cutting in 2D Orthotropic Gauze with Deep Reinforcement Learning Policies for Tensioning]({{ site.baseurl }}/files/cutting-icra17.pdf)**  
     Brijen Thananjeyan, **Animesh Garg**, Sanjay Krishnan, Carolyn Chen, Lauren Miller, Ken Goldberg.  
     *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2017.* \[[**Video**](https://www.youtube.com/watch?v=l6gQg2VbGcc)\]  
 
+![metaRL]({{ 'metarl.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Composing Meta-Policies for Autonomous Driving Using Hierarchical Deep Reinforcement Learning.](https://arxiv.org/abs/1711.01503)**  
+    Richard Liaw, Sanjay Krishnan, **Animesh Garg**, Dan Crankshaw, Joseph E. Gonzalez , Ken Goldberg. *preprint*.
+    \[[ArXiv 1711.01503](https://arxiv.org/abs/1711.01503)\]
+
 ![SWIRL]({{ 'swirl-wafr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards](http://www.wafr.org/papers/WAFR_2016_paper_40.pdf)**  
+:   **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards]({{ site.baseurl }}/files/swirl-wafr16.pdf)**  
     Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
     *Workshop on Algorithmic Foundations in Robotics (WAFR), 2016.*  
     Earlier Version appeared as HIRL on [*arXiv*](http://arxiv.org/abs/1604.06508). \[[**Talk Video**](https://www.youtube.com/watch?v=r0RzS2DWb8M&index=4&list=PLYTiwx6hV33siv3qb--lW1Sw5BEMgGtR1)\]       
@@ -97,32 +113,33 @@ International Journal of Robotics Research (IJRR) *accepted 2017*. \[[**Code**](
     Sanjay Krishnan, Animesh Garg, Richard Liaw, Lauren Miller, Florian T. Pokorny, Ken Goldberg. [*arXiv*](http://arxiv.org/abs/1604.06508) -->
 
 ![GPAS]({{ 'gpas-case16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](http://berkeleyautomation.github.io/gpas/)**  
+:   **[Tumor Localization using Automated Palpation with Gaussian Process Adaptive Sampling](http://berkeleyautomation.github.io/gpas/files/garg-case16-gpas.pdf)**  
     **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Yiming Jen, Stephen McKinley, Lauren Miller, Ken Goldberg.  
-    *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2016.* 
+    *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2016.* \[[**Project Page**](http://berkeleyautomation.github.io/gpas/)\]  
 
 ![PIDA]({{ 'pida-case16.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[An Interchangeable Surgical Instrument System with Application to Supervised Automation of Multilateral Tumor Resection](http://berkeleyautomation.github.io/surgical-tools/)**  
+:   **[An Interchangeable Surgical Instrument System with Application to Supervised Automation of Multilateral Tumor Resection](http://berkeleyautomation.github.io/surgical-tools/files/mckinley-interchange-2016.pdf)**  
     Stephen McKinley, **Animesh Garg**, Siddarth Sen, David V. Gealy, Jonathan P. McKinley, Yiming Jen, Mengluo Guo, Doug Boyd, Ken Goldberg.  
-    *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2016.* 
+    *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2016.* \[[**Video**](http://berkeleyautomation.github.io/surgical-tools/)\]   
 
 ![AMTS]({{ 'suturing-icra16.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Autonomous Multiple-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Optimization based Needle Planning](http://berkeleyautomation.github.io/amts/)**  
+:   **[Autonomous Multiple-Throw Multilateral Surgical Suturing with a Mechanical Needle Guide and Optimization based Needle Planning](
+http://berkeleyautomation.github.io/amts/files/sg-icra16-suturing.pdf)**  
     Siddarth Sen\*, **Animesh Garg**\*, David V. Gealy, Stephen McKinley, Yiming Jen, Ken Goldberg (\* equal contribution).  
-    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.*  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.*  \[[**Video**](http://berkeleyautomation.github.io/amts/)\]
 
 ![TSC-DL]({{ 'tscdl-icra16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**   
+:   **[TSC-DL: Unsupervised Trajectory Segmentation of Multi-Modal Surgical Demonstrations with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/files/mgk-icra16-tscdl.pdf)**  
     Adithyavairavan Murali\*, **Animesh Garg**\*, Sanjay Krishnan\*, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* equal contribution).  
-    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* \[[**Code**](https://github.com/BerkeleyAutomation/tsc-dl)\]  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA), 2016.* \[[**Project Page**](http://berkeleyautomation.github.io/tsc-dl/)\] \[[**Code**](https://github.com/BerkeleyAutomation/tsc-dl)\]  
 
 ![TSC]({{ 'tsc-isrr15.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)**  
+:   **[Transition State Clustering: Unsupervised Surgical Trajectory Segmentation For Robot Learning](http://berkeleyautomation.github.io/tsc-dl/files/ISRR2015_Krishnan-Garg_TSC.pdf)**  
     Sanjay Krishnan\*, **Animesh Garg**\*, Sachin Patil, Colin Lea, Greg Hager, Pieter Abbeel, Ken Goldberg (\* equal contribution)  
     *International Symposium on Robotics Research (ISRR), 2015*  \[[**Code**](https://github.com/BerkeleyAutomation/tsc)\]  
 
 ![PALP]({{ 'palp-case15.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[A Single-use Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery]({{ site.baseurl }}/files/mckinley-disposable-2015.pdf)**  
+:   **[A Single-use Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery](http://berkeleyautomation.github.io/surgical-tools/files/mckinley-disposable-2015.pdf)**  
 Stephen McKinley, **Animesh Garg**, Siddarth Sen, Rishi Kapadia, Adithyavairavan Murali, Kirk Nichols, Susan Lim, Sachin Patil, Pieter Abbeel, Allison M. Okamura, Ken Goldberg.  
  *IEEE Int'l Conf. on Automation Science and Engineering (CASE), 2015.* 
 
@@ -231,9 +248,17 @@ Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kall
 ###### Peer Reviewed Workshops 
 ---  
 
+* **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://arxiv.org/abs/1710.01813)**  
+Danfei Xu, Yuke Zhu, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese.  
+*Conference on Robot Learning ([CoRL](http://www.robot-learning.org/)) 2017*. \[[**Talk**](https://youtu.be/_9Ny2ghjwuY?t=7h54m)\]  
+
+* **[Towards Grasp Transfer using Shape Deformation](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)**  
+Andrey Kurenkov\*, Viraj Mehta\*, Jingwei Ji, **Animesh Garg**, Silvio Savarese (\* equal contribution).  
+*Conference on Robot Learning ([CoRL](http://www.robot-learning.org/)) 2017*. \[[**Talk**](https://youtu.be/xfyK03MEZ9Q?t=3h33m35s)\]  
+
 * **[Hierarchical Task Generalization with Neural Programs ]({{ site.baseurl }}/files/ntp-rss17-ws.pdf)**  
 Danfei Xu, Yuke Zhu, **Animesh Garg**, Julian Gao, Li Fei-Fei, Silvio Savarese.   
-*R:SS 2017 [New Frontiers for Deep Learning in Robotics](http://juxi.net/workshop/deep-learning-rss-2017/)*.
+*R:SS 2017 Workshop on [New Frontiers for Deep Learning in Robotics](http://juxi.net/workshop/deep-learning-rss-2017/)*.
 
 * **[Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations](http://www.princeton.edu/~ndaw/RLDM17ExtendedAbstracts.pdf#section*.69)**  
 Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese. (\* equal contribution).  
@@ -243,7 +268,7 @@ Ajay Mandlekar\*, Yuke Zhu\*, **Animesh Garg**\*, Li Fei-Fei, Silvio Savarese. (
 Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Lauren Miller, Florian T. Pokorny, Ken Goldberg. 
 *R:SS 2016 [Workshop on Bootstrapping Manipulation Skills](http://www.bootstrapping-manipulation.com/)*.
 
-* **[On Visual Feature Representations for Transition State Learning in Robotic Task Demonstrations](http://berkeleyautomation.github.io/tsc-dl/)** 
+* **[On Visual Feature Representations for Transition State Learning in Robotic Task Demonstrations](http://berkeleyautomation.github.io/tsc-dl/files/gkm-wk_nips15-tsc.pdf)** 
 **Animesh Garg**\*, Sanjay Krishnan\*, Adithyavairavan Murali, Florian T. Pokorny, Pieter Abbeel, Trevor Darrell, Ken Goldberg (\* denotes equal contribution).  
 [NIPS 2015 Workshop on Feature Extraction](http://www.feature-extraction.org/accepted-papers)
 
