@@ -2,7 +2,8 @@
 
 ## Welcome!  
 
-####     🌟 <font color="red"> I'm on the faculty job market in Spring 2018! </font> 🌟
+<!-- ####     🌟 <font color="red"> I'm on the faculty job market in Spring 2018! </font> 🌟 -->
+
 I am a Postdoctoral Researcher at [Stanford][cs-stan] working with [Fei-Fei Li][ffl] and [Silvio Savarese][silvio] at [Stanford AI Lab][sail]. I also collaborate closely with [Marco Pavone][marco] and his group. 
 
 My current research focuses on machine learning algorithms for perception and control in robotics. I am specifically interested in enabling efficient imitation in robot learning and human-robot interaction. 

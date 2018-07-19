@@ -29,16 +29,10 @@ For an online listing please see: [**Google Scholar**](http://scholar.google.com
 ###### Preprints 
 ---  
 
-![TGS3]({{ 'comingSoon-2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration]()**  
+![NTG]({{ 'ntg.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://arxiv.org/abs/1807.03480)**  
     De-an Huang, Suraj Nair, Danfei Xu, Yuke Zhu, **Animesh Garg**, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles.  
-    *Under review at ECCV 2018.* 
-
-
-![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-: **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards]({{ site.baseurl }}/files/garg_swirl_ijrr17.pdf)**   
-Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
-*International Journal of Robotics Research (IJRR), under review*.
+    \[[arXiv 1807.03480](https://arxiv.org/abs/1807.03480)\]
 
 <!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*-->
@@ -51,14 +45,15 @@ Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow
 ![TGS3]({{ 'tgs3.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Learning Task-Oriented Grasping for Tool Manipulation with Simulated Self-Supervision](https://sites.google.com/view/task-oriented-grasp)**  
     Kuan Fang, Yuke Zhu, **Animesh Garg**, Viraj Mehta, Andrey Kurenkov, Li Fei-Fei, Silvio Savarese.  
-    *Robotics Systems and Science (RSS) 2018.* \[[Project Webpage](https://sites.google.com/view/task-oriented-grasp)\]
+    *Robotics Systems and Science (RSS) 2018.*  
+    \[[arXiv 1806.09266](https://arxiv.org/abs/1806.09266)\] \[[Project Webpage](https://sites.google.com/view/task-oriented-grasp)\] \[[Talk Video](https://youtu.be/v0ErAR8Dwy8?t=43s)\]
 
 
 ![RAMIL]({{ 'ramil.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video]()**  
+:   **[Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.html)**  
     De-An Huang, Shyamal Buch, Lucio Dery, **Animesh Garg**, Li Fei-Fei, Juan Carlos Niebles.  
-    *IEEE Conf. on Computer Vision \& Pattern Recognition (CVPR), 2018.*  (**Oral**) 
-    <!-- \[[ArXiv coming soon!]()\] -->
+    *IEEE Conf. on Computer Vision \& Pattern Recognition (CVPR), 2018.*  (**Oral**)   
+    \[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf)\] \[[Talk Video](https://youtu.be/GBo4sFNzhtU?t=23m30s)\]
 
 ![NTP]({{ 'ntp-icra18.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Neural Task Programming: Learning to Generalize Across Hierarchical Tasks](https://stanfordvl.github.io/ntp/)**  
@@ -66,11 +61,16 @@ Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow
     *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2018.*  
     \[[**Video**](https://www.youtube.com/watch?v=THq7I7C5rkk&feature=youtu.be)\] \[[ArXiv 1710.01813](https://arxiv.org/abs/1710.01813)\]
 
+![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+: **[SWIRL: A Sequential Windowed Inverse Reinforcement Learning Algorithm for Robot Tasks With Delayed Rewards]({{ site.baseurl }}/files/garg_swirl_ijrr17.pdf)**   
+Sanjay Krishnan, **Animesh Garg**, Richard Liaw, Brijen Thananjeyan, Lauren Miller, Florian T. Pokorny, Ken Goldberg.  
+*International Journal of Robotics Research (IJRR), 2018*.
+
 ![Deformnet]({{ 'deformnet-animation-plane.gif' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://arxiv.org/abs/1708.04672)**  
     Andrey Kurenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
     *IEEE Winter Conf. on Applications of Computer Vision (WACV) 2018*  
-    \[[ArXiv 1708.04672](https://arxiv.org/abs/1708.04672)\] \[[Project Webpage](https://deformnet-site.github.io/DeformNet-website/)\]  
+    \[[ArXiv 1708.04672](https://arxiv.org/abs/1708.04672)\] \[[Project Webpage](https://deformnet-site.github.io/DeformNet-website/)\]  \[[Talk Video](https://www.youtube.com/watch?v=cKzXVL6W--8)\]  
     An application to grasp transfer appeared at [CoRL 2017](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)
 
 ![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
