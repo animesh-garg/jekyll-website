@@ -6,7 +6,7 @@ layout: default
 
 <!-- #### [Journals](#journal-publications) | [Conferences](#conference-publications) | [Short Papers](#peer-reviewed-short-papers--demonstrations) | [Workshops](#workshop-papers) | [Patents]({{ site.baseurl }}/publications/#patents) -->
 <br>
-For an online listing please see: [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en) | [**Semantic Scholar**](https://www.semanticscholar.org/author/Animesh-Garg/3124707).  
+For an online listing please see: [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en) | [**Semantic Scholar**](https://www.semanticscholar.org/author/Animesh-Garg/1873736).  
 #### [**Listing by Topic**]({{ site.baseurl }}/research/)  
 
 --- 
@@ -21,7 +21,7 @@ For an online listing please see: [**Google Scholar**](http://scholar.google.com
 :   **[Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks](http://escholarship.org/uc/item/89k6f68d)**   
     PhD Thesis, IEOR Department, University of California, Berkeley, 2016.
 
-![mscs]({{ 'msthesis16.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+![mscs]({{ 'msthesis16.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)**  
     MS Thesis, EECS Department, University of California, Berkeley, 2016.
 
@@ -29,18 +29,56 @@ For an online listing please see: [**Google Scholar**](http://scholar.google.com
 ###### Preprints 
 ---  
 
-![NTG]({{ 'ntg.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://arxiv.org/abs/1807.03480)**  
-    De-an Huang, Suraj Nair, Danfei Xu, Yuke Zhu, **Animesh Garg**, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles.  
-    \[[arXiv 1807.03480](https://arxiv.org/abs/1807.03480)\]
+![Roboturkv2]({{ 'roboturkv2.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Scaling  Robot  Supervision  to  Hundreds  of  Hours  with  RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity](http://roboturk.stanford.edu/realrobotdataset)**  
+    Ajay Mandlekar, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, **Animesh Garg**, Silvio Savarese, Li Fei-Fei.  
+    *Under review at IROS, 2019.*   
+
+![CPDDL]({{ 'cpddl.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Continuous  Relaxation  of  Symbolic  Planner  forOne-Shot  Imitation  Learning]()**  
+    De-An Huang, Danfei Xu, Yuke Zhu, **Animesh Garg**, Silvio Savarese, Li Fei-Fei, and Juan Carlos Niebles.  
+    *Under review at IROS, 2019.*   
+
+![DynImp]({{ 'dynImp.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Variable Impedance in End-Effector Space: An Action Space for Reinforcement Learning of Contact-Rich Tasks]()**  
+    Roberto Martín-Martín, Michelle A. Lee, Rachel Gardner, Jeannette Bohg, Silvio Savarese, **Animesh Garg**.   
+    *Under review at IROS, 2019.*   
+
+
+![TGS3]({{ 'tgs3-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Learning Task-Oriented Grasping for Tool Manipulation with Simulated Self-Supervision](https://sites.google.com/view/task-oriented-grasp)**  
+    Kuan Fang, Yuke Zhu, **Animesh Garg**, Viraj Mehta, Andrey Kurenkov, Li Fei-Fei, Silvio Savarese.  
+    *Under review at IJRR, 2018.*   \[[Video](https://www.youtube.com/watch?v=YI-3sf067f8)\]
 
 <!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*-->
 
-
 --- 
 ###### Publications
 ---  
+
+![NTG]({{ 'ntg.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://arxiv.org/abs/1807.03480)**  
+    De-an Huang, Suraj Nair, Danfei Xu, Yuke Zhu, **Animesh Garg**, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles.  
+    *IEEE Conf. on Computer Vision & Pattern Recognition (CVPR), 2019.* (**🏆<font color="red">Oral</font>**)  
+    \[[arXiv 1807.03480](https://arxiv.org/abs/1807.03480)\]
+
+![MSVT]({{ 'msvt.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/abs/1810.10191)**  
+    Michelle A. Lee\*, Yuke Zhu\*, Krishnan Srinivasan, Parth Shah, Silvio Savarese, Li Fei-Fei, **Animesh Garg**, Jeannette Bohg.  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2019.*    
+    \[[arXiv 1810.10191](https://arxiv.org/abs/1810.10191)\]. \[[Project Webpage](https://sites.google.com/view/visionandtouch)\] \[[Video](https://youtu.be/TjwDJ_R2204)\]
+
+![mech-search]({{ 'kurenkov-icra18-mechsearch.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Mechanical Search: Multi-Step Retrieval of a Target Object Occluded by Clutter](https://ai.stanford.edu/mech-search/)**  
+    Michael Danielczuk, Andrey Kurenkov, Ashwin Balakrishna, Matthew Matl, Roberto Martin-Martin, **Animesh Garg**, Silvio Savarese, Ken Goldberg.  
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2019.*  
+    \[[arXiv 1903.01588](https://arxiv.org/abs/1903.01588)\] \[[Project Webpage](https://ai.stanford.edu/mech-search/)\]
+
+![roboturk]({{ 'roboturk.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning through Imitation](http://roboturk.stanford.edu/)**  
+    Ajay Mandlekar, Yuke Zhu, **Animesh Garg**, Jonathan Booher, Max Spero, Albert Tung, Julian Gao, John Emmons, Anchit Gupta, Emre Orbay, Silvio Savarese, Li Fei-Fei. *Conference on Robot Learning (CoRL) 2018.*  
+    \[[Paper](http://proceedings.mlr.press/v87/mandlekar18a.html)\]\[[Project Webpage](https://roboturk.stanford.edu)\] \[[Talk Video](https://www.youtube.com/watch?v=ugCBLNLWDM8&t=24400s)\]
 
 ![TGS3]({{ 'tgs3.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Learning Task-Oriented Grasping for Tool Manipulation with Simulated Self-Supervision](https://sites.google.com/view/task-oriented-grasp)**  
@@ -48,11 +86,10 @@ Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow
     *Robotics Systems and Science (RSS) 2018.*  
     \[[arXiv 1806.09266](https://arxiv.org/abs/1806.09266)\] \[[Project Webpage](https://sites.google.com/view/task-oriented-grasp)\] \[[Talk Video](https://youtu.be/v0ErAR8Dwy8?t=43s)\]
 
-
 ![RAMIL]({{ 'ramil.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.html)**  
     De-An Huang, Shyamal Buch, Lucio Dery, **Animesh Garg**, Li Fei-Fei, Juan Carlos Niebles.  
-    *IEEE Conf. on Computer Vision \& Pattern Recognition (CVPR), 2018.*  (**Oral**)   
+    *IEEE Conf. on Computer Vision & Pattern Recognition (CVPR), 2018.*  (**🏆<font color="red">Oral</font>**)   
     \[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf)\] \[[Talk Video](https://youtu.be/GBo4sFNzhtU?t=23m30s)\]
 
 ![NTP]({{ 'ntp-icra18.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})

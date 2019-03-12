@@ -1,9 +1,11 @@
 [aa]: http://www.ieor.berkeley.edu/~atamturk/
 [alper]: http://www.ieor.berkeley.edu/~atamturk/
 [ac]: http://profiles.ucsf.edu/adam.cunha
+[anima]: http://tensorlab.cms.caltech.edu/users/anima/
 [autolab]: http://automation.berkeley.edu/
 [cs]: http://www.eecs.berkeley.edu/Research/Areas/AI/
 [db]: http://web.eecs.umich.edu/~dmitryb/
+[df]: https://homes.cs.washington.edu/~fox/
 [du]: http://www.du.ac.in/index.php?id=4
 [gh]: http://www.cs.jhu.edu/~hager/
 [hic]: http://www.hichristensen.net/
@@ -13,11 +15,11 @@
 [jr]: http://www.cc.gatech.edu/~rehg/
 [kg]: http://goldberg.berkeley.edu/
 [leg]: http://www.eecs.berkeley.edu/~elghaoui/
+[lmm]: http://www.lmiller.me/
 [pa]: http://www.cs.berkeley.edu/~pabbeel
 [sd]: http://www2.isye.gatech.edu/~sdey30/
 [sk]: http://sergeykarayev.com/
 [scp]: http://rll.berkeley.edu/~sachin/
-[lmm]: http://www.lmiller.me/
 [ts]: http://www.timmysiauw.com/
 [wdb]: https://www.ucdmc.ucdavis.edu/publish/providerbio/search/1274
 [ucb]: http://www.berkeley.edu
@@ -31,3 +33,5 @@
 [sail]: http://ai.stanford.edu/
 [cs-stan]: http://cs.stanford.edu/
 [stanford]: http://www.stanford.edu/
+[pair-svl]: http://pair.stanford.edu/
+[svl]: http://svl.stanford.edu/

@@ -7,7 +7,9 @@ div_class: people
 #### **Faculty Collaborators**
 
 |[![fei-fei]({{ site.baseurl }}/people/images/feifei-li.jpg)][ffl] | [![silvio]({{ site.baseurl }}/people/images/silvio-savarese.jpg)][silvio] | [![marco]({{ site.baseurl }}/people/images/marco-pavone.jpg)][marco] | [![ken]({{ site.baseurl }}/people/images/ken-goldberg.jpg)][kg] | [![pieter]({{ site.baseurl }}/people/images/pieter-abbeel.jpg)][pa] |  
-| [Fei-Fei Li][ffl]  | [Silvio Savarese][silvio] | [Marco Pavone][marco] | [Ken Goldberg][kg]  | [Pieter Abbeel][pa] | 
+| [Fei-Fei Li][ffl]  | [Silvio Savarese][silvio] | [Marco Pavone][marco] | [Ken Goldberg][kg]  | [Pieter Abbeel][pa] |  
+| [![dieter]({{ site.baseurl }}/people/images/dieter-fox.jpg)][df] |  [![anima]({{ site.baseurl }}/people/images/anima-anandkumar.jpg)][anima] | 
+|[Dieter Fox][df]| [Anima Anandkumar][anima] |   
 
 --- 
 
@@ -21,24 +23,18 @@ div_class: people
 |  |  |  |  | |
 | [Kuan Fang](https://www.linkedin.com/in/kuanfang/) | Stanford | PhD (CS) | 2017-Current | w\ Silvio Savarese|
 | [De-An Huang](http://ai.stanford.edu/~dahuang/) | Stanford | PhD (CS) | 2017-Current |  w\ Fei-Fei Li|
-| [James Harrison](http://web.stanford.edu/~jh2/) | Stanford | PhD (ME) | 2016-Current |  w\ Marco Pavone|
+| [Andrey Kurenkov](http://www.andreykurenkov.com/) | Stanford | PhD (CS) | 2016-Current | |
 | [Michelle Lee](https://www.linkedin.com/in/amichlee/) | Stanford | PhD (ME) | 2018-Current |  w\ Jeannette Bohg |
 | [Ajay Mandlekar](http://cvgl.stanford.edu/people.html) | Stanford | PhD (EE) | 2017-Current |  w\ Fei-Fei Li|
+| [Suraj Nair](https://surajnaircaltech.github.io/surajnair/) | Stanford | PhD (CS) | 2017-Current | |
 | [Danfei Xu](http://cs.stanford.edu/~danfei/) | Stanford | PhD (CS) | 2017-Current |  w\ Silvio Savarese|
 | [Yuke Zhu](https://web.stanford.edu/~yukez/) | Stanford | PhD (CS) | 2016-Current |  w\ Fei-Fei Li|
 |  |  |  |  | |
-| [Chaitanya Asawa](https://www.linkedin.com/in/casawa/) | Stanford | BS/MS | 2018-Current |  |
-| [Lucio Dery](https://www.linkedin.com/in/lucio-dery/) | Stanford | BS/MS | 2016-Current | |
-| [Julian Gao](http://cvgl.stanford.edu/people.html) | Stanford | MS CS | 2016-Current | |
+| [Jonathan Booher](https://web.stanford.edu/~jaustinb/) | Stanford | BS CS | 2018-Current | |
+| [Daniel Cai](https://www.linkedin.com/in/daniel-tianyi-cai/) | Stanford | BS/MS | 2018-Current | |
 | [Kaiyi (Alex) Fu](https://www.linkedin.com/in/alexander-kaiyi-fu-a743067a/) | Stanford | MS CS | 2017-Current | |
-| [Russell Kaplan](https://www.linkedin.com/in/russelljkaplan/) | Stanford | MS CS | 2018-Current | |
-| [Andrey Kurenkov](http://www.andreykurenkov.com/) | Stanford | MS CS | 2016-Current | |
-| [Viraj Mehta](https://www.linkedin.com/in/virajrmehta/) | Stanford | BS (2018) | 2017-Current |  |
-| [Suraj Nair](https://surajnaircaltech.github.io/surajnair/) | CalTech | BS (2018)| 2017-Current | |
-| [Amani Peddada](https://www.linkedin.com/in/amani-peddada-5a8322106/) | Stanford | BS/MS | 2017-Current | |
 | [Maxwell Spero](https://www.maxspero.com/) | Stanford | BS/MS | 2018-Current | |
 | [David Zhao](http://dzhao.me/) | Stanford | BS (2020) | 2017-Current |  |
-| [Jiren Zhu](https://www.linkedin.com/in/jirenz/) | Stanford | BS (2019) | 2017-Current |  |
 |  |  |  |  | |
 
 ###### **Past**  
@@ -47,6 +43,12 @@ div_class: people
 | **Name**  | **Affliation** | **Status** | **Years** | **After Graduation** |  
 |:----------------|:----------------|:----------------|:----------------|:----------------|
 |  |  |  |  | |
+| [Lucio Dery](https://www.linkedin.com/in/lucio-dery/) | Stanford | BS/MS | 2016-18 | PhD (Cornell) |
+| [Viraj Mehta](https://www.linkedin.com/in/virajrmehta/) | Stanford | BS (2018) | 2017-18 | PhD (CMU) |
+| [Chaitanya Asawa](https://www.linkedin.com/in/casawa/) | Stanford | BS/MS | 2018 |  Vicarious |
+| [Julian Gao](http://cvgl.stanford.edu/people.html) | Stanford | MS CS | 2016-18 | Dexterity |
+| [Amani Peddada](https://www.linkedin.com/in/amani-peddada-5a8322106/) | Stanford | BS/MS | 2017-18 | Tesla |
+| [James Harrison](http://web.stanford.edu/~jh2/) | Stanford | PhD (ME) | 2016-17 |  PhD (Stanford)|
 | [Boris Ivanovic](http://www.borisivanovic.com/) | Stanford | MS CS | 2016-17 | PhD (Stanford) |
 | [Orry Despo](https://www.linkedin.com/in/orion-despo-b745b393/) | Stanford | BS/MS | 2016-17 | |
 |  |  |  |  | |

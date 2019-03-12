@@ -20,8 +20,8 @@ I study the interaction of data-driven *Learning for Autonomy* and *Design for A
 <!-- I am interested in problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
  -->
 
-I grew up in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior). I received a B.E. in Manufacturing & Automation from [University of Delhi][du] and an M.S. in IE from [Georgia Tech](http://www.isye.gatech.edu/).  
-#### **[Curriculum Vitae in PDF]({{ site.baseurl }}/files/jobs/garg-cv.pdf)**  
+<!-- I grew up in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior). I received a B.E. in Manufacturing & Automation from [University of Delhi][du] and an M.S. in IE from [Georgia Tech](http://www.isye.gatech.edu/).   -->
+#### **[Curriculum Vitae in PDF]({{ site.baseurl }}/files/jobs/garg-cv-dec18.pdf)**  
 
 <!-- During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded solutions for:  
 - [Learning & Automation in Surgical Subtasks]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
@@ -168,6 +168,11 @@ Sept 2011
 ---
 
 ###### Employment
+
+2018 -- *Present*
+: **Nvidia Research**, Senior Research Scientist
+  Reinforcement Learning for Robot Manipulationw
+
 2016 -- *Present*
 : **Stanford University**, Post-doctoral Researcher  
   Machine Learning Algorithms for Perception and Control in Robotics

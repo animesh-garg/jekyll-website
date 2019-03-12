@@ -1,6 +1,19 @@
 {% capture stuff %}
 
 <ul class="inset">
+
+  <li>
+    <a href="https://www.correiobraziliense.com.br/app/noticia/tecnologia/2018/11/19/interna_tecnologia,720148/plataforma-permite-ensinar-tarefas-basicas-a-robos-por-meio-de-celular.shtml"><img src="{{ site.baseurl }}/news/press/roboturk-cartoon.jpg" alt="TechXplore" width="200" height="100" /></a>
+  </li>
+
+  <li>
+    <a href="https://news.stanford.edu/2018/10/26/robots-learn-tasks-people/"><img src="{{ site.baseurl }}/news/press/stanford-news-logo.png" alt="TechXplore" width="200" height="55" /></a>
+  </li>
+
+  <li>
+    <a href="https://techxplore.com/news/2018-11-roboturk-crowdsourcing-platform-imitation-robotics.html"><img src="{{ site.baseurl }}/news/press/techxplore-logo.png" alt="TechXplore" width="200" height="55" /></a>
+  </li>
+
   <li>
     <a href="http://spectrum.ieee.org/robotics/medical-robots/would-you-trust-a-robot-surgeon-to-operate-on-you"><img src="{{ site.baseurl }}/news/press/ieee-spectrum-logo.jpg" alt="IEEE Spectrum" width="200" height="50" /></a>
   </li>

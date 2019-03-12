@@ -14,7 +14,7 @@
 ![Animesh Garg]({{ site.baseurl }}/images/animesh-feb15.jpg)
 
 Postdoc Researcher  
-[Stanford Vision &amp; Learning][visionlab]  
+[Stanford PAIR][pair-svl]  
 [Stanford AI Lab][sail]  
 [Computer Science][cs-stan]  
 [Stanford University][stanford]  

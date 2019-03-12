@@ -5,15 +5,21 @@ layout: default
 ---
 
 <br>
-## Generalizable Imitation
+## Generalizable Autonomy
 
-My research vision is to enable robotic systems that: learn hierarchical control tasks by watching humans, seamlessly interact and collaborate with humans, and learn to improve performance and acquire new skills through self-practice. And my approach to 
-to these challenges develops algorithmic methods to enable efficient robot learning for long-term sequential tasks through [**Generalizable Imitation**]().
+My research vision is to enable robotic systems that: learn hierarchical control tasks by watching humans, seamlessly interact and collaborate with humans, and learn to improve performance and acquire new skills through self-practice. And my approach to these challenges develops algorithmic methods to enable efficient robot learning for long-term sequential tasks through **Generalizable Autonomy**.
 
-I bring together expertise from areas of optimization & control, machine learning and mechanical design. My work contributes to techniques in *deep reinforcement learning*, *video representation learning*, and *robust control* for robotics applications in medicine and manufacturing.
 
-My work can broadly be divided into three topics as follows: 
-- [Generalization in Robotics Tasks]({{ site.baseurl }}/research/#generalization-in-robotics-tasks)  
+I bring together expertise from areas of Reinforcement Learning, Optimal Control and Computer Vision.
+The principal focus of my research is to understand **representations and algorithms to enable the efficiency and generality of learning for interaction** in autonomous agents. My research combines model-based control with data-driven policy learning under unstructured perceptual inputs. 
+And my prior work also reflects on broad applications of my methods, ranging from personal to medical robotics. I am eager to continue researching fundamental questions in general-purpose intelligence for interactive robotic agents.
+
+
+<!-- My research vision is to enable robotic systems that: learn hierarchical control tasks by watching humans, seamlessly interact and collaborate with humans, and learn to improve performance and acquire new skills through self-practice.  -->
+
+My work can broadly be divided into topics as follows: 
+- [Generalizable Imitation]({{ site.baseurl }}/research/#generalizable-imitation)  
+- [Generalization Skill Learning]({{ site.baseurl }}/research/#generalizable-skill-learning)  
 - [Skill Learning in Surgical Robotics]({{ site.baseurl }}/research/#skill-learning-in-surgical-subtasks)  
 - [Personalization in Radiation Therapy]({{ site.baseurl }}/research/#radiation-therapy-for-cancer-planning-and-delivery)
 
@@ -25,52 +31,31 @@ I study integration of algorithms with hardware design for applications in medic
 
 ---
 
-###### Generalization in Robotics Tasks
+###### Generalizable Imitation
 
-A skill should be reusable across tasks and objects to avoid constant relearning.
-It is not enough to learn a door-opening skill for one particular door, and then have to re-learn that
-skill for a new door, or even to open a fridge. Consequently, generalization across task families is an
-essential aspect of effective robot learning.
+Realistic robotic solutions, in both personal or industrial applications, not only need skills but also need structured tasks with interaction planning over prolonged horizons. Consequently, these skills are ultimately only relevant if their composition achieves a higher-order objective.
+I work onimitation guided algorithms to learn policies in sequentially & hierarchically structure tasks.
+
+![roboturk]({{ 'roboturk.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning](http://roboturk.stanford.edu/)**  
+    RoboTurk is a system to scale imiation learning by the rapid crowdsourcing of high-quality demonstrations. This allows the creation of large datasets for manipulation tasks that we show improves the quality of imitation learning policies.  
+    \[[Paper](http://proceedings.mlr.press/v87/mandlekar18a.html)\]\[[Project Webpage](https://roboturk.stanford.edu)\] \[[Talk Video](https://www.youtube.com/watch?v=ugCBLNLWDM8&t=24400s)\]
+
+![NTG]({{ 'ntg.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Neural Task Graphs](https://arxiv.org/abs/1807.03480)**  
+    Neural Task Graph (NTG) Networks use task graph as the intermediate representation to modularize the representations of both the video demonstration and the derived policy. This formulation achieves strong inter-task generalization on planning tasks.  
+    \[[arXiv 1807.03480](https://arxiv.org/abs/1807.03480)\]
 
 ![NTP]({{ 'ntp-icra18.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Neural Task Programming](https://stanfordvl.github.io/ntp/)**  
     We present a method that learns to generalize across hierarchical tasks with a single example. It bridges the idea of few-shot learning from demonstration and neural program induction.  
     \[[**ICRA18**](https://stanfordvl.github.io/ntp/)\] \[[**Video**](https://www.youtube.com/watch?v=THq7I7C5rkk&feature=youtu.be)\] \[[ArXiv 1710.01813](https://arxiv.org/abs/1710.01813)\]
 
-![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)**  
-    We introduce the AdaPT algorithm that achieves provably safe and robust, dynamically-feasible zero-shot transfer of RL-policies to new domains with dynamics error. ADAPT combines the strengths of offline policy learning in a black-box source simulator with online tube-based MPC to attenuate bounded model mismatch between the source and target dynamics.  
-    \[[**ISRR17**](https://parasol.tamu.edu/isrr/isrr2017/)\] \[[arXiv 1707.04674](https://arxiv.org/abs/1707.04674)\]   
+![RAMIL]({{ 'ramil.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Finding "It": Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.html)**  
+    In this work, we tackle visual grounding in instructional videos, where only the aligned transcriptions are available. We introduce the visually grounded action graph, a structured representation capturing the latent dependency between grounding and references in video.  
+    \[[PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf)\] \[[Talk Video](https://youtu.be/GBo4sFNzhtU?t=23m30s)\], CVPR, 2018 (**Oral**)   
 
-![ARPL]({{ 'arpl-iros17.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:  **[Robust Policy Learning and Transfer]()**  
-    We investigate direct sim2real policy transfer for deformable pattern cutting. We also develop a method to leverage adversarial perturbations in policy gradient method for robustness to environment perturbations at test time.  
-    \[**[ICRA17]({{ site.baseurl }}/files/cutting-icra17.pdf)**\] \[[**Cutting-Video**](https://www.youtube.com/watch?v=l6gQg2VbGcc)\]   \[**[IROS17]({{ site.baseurl }}/files/arpl_mzg_iros17.pdf)**\] \[[**ARPL-Video**](https://www.youtube.com/watch?v=yZ-gSsbbzh0)\]
-
-![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[3D Reconstruction from Images]()**  
-    We present two different methods of shape reconstruction from images: one uses weakly supervised generative models and the other uses a deformation field prediction. The deformation method has also been used for grasp transfer in novel objects.   
-    \[[**3DV 17:arXiv**](https://arxiv.org/abs/1705.10904)\] \[[**DeformNet**](https://deformnet-site.github.io/DeformNet-website/), [**WACV18:arXiv**](https://arxiv.org/abs/1708.04672)\] \[[**CoRL17:Grasping**](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)\]  
-
-<!-- 
-![Deformnet]({{ 'deformnet-animation-plane.gif' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://arxiv.org/abs/1708.04672)**  
-    Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
-    *IEEE Winter Conf. on Applications of Computer Vision (WACV) 2018*  
-    \[[ArXiv 1708.04672](https://arxiv.org/abs/1708.04672)\] \[[Project Webpage](https://deformnet-site.github.io/DeformNet-website/)\]  
-    An application to grasp transfer appeared at [CoRL 2017](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)
- -->
-
----
-
-###### Skill Learning in Surgical Subtasks
-
-Robot Assisted Minimally Invasive Surgery (RMIS) was used in manual teleoperation mode in over *570,000* procedures worldwide in 2014 with *3000* Da Vinci systems. However, RMIS procedures are tedious and depend highly on surgeon skill. Autonomy of surgical subtasks has the potential to assist surgeons, reduce fatigue, and enhance manual telesurgery. Moreover, the growing corpus of surgical data can enable *data-driven learning for automation*. I research learning from expert demonstrations in surgery with unique challenges such as specular workspace, constrained dexterity, and highly noisy datasets.
-
-<!-- Currently, robot-assisted minimally invasive surgery (RMIS) devices are controlled by surgeons in a local tele-operation mode. Procedures often last multiple hours and highly depend on surgeon skill. Autonomy of surgical subtasks has the potential to assist surgeons, reduce fatigue, and facilitate supervised autonomy for tele-surgery.  We consider learning task representations as **milestones** from demonstrations and use multimodal sensory input for classification of success criterion. The goal of this work is semi-supervised learning of *necessary* conditions of success, eventually allowing demonstrations to be **Actor Agnostic**. -->
-
-
-<!-- #### Sub-Task Learning -->
 
 ![swirl-ijrr]({{ 'swirl-ijrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
 :   **[Sequential Windowed Inverse Reinforcement Learning]({{ site.baseurl }}/files/swirl-isrr16.pdf)**  
@@ -88,6 +73,60 @@ Robot Assisted Minimally Invasive Surgery (RMIS) was used in manual teleoperatio
 :   **[Transition State Clustering]({{ site.baseurl }}/files/garg-tsc-ijrr17.pdf)**  
 We proposed an unsupervised algorithm for recovering task structure from demonstration data and autonomously perform semantic segmentation. It works with both kinematics and video data using pre-trained CNNs.   
 \[[**ISRR 2015**]({{ site.baseurl }}/files/ISRR2015_Krishnan-Garg_TSC.pdf)\]  \[[**IJRR 2017** ]({{ site.baseurl }}/files/garg-tsc-ijrr17.pdf)\] \[[**ICRA 2016**](http://berkeleyautomation.github.io/tsc-dl/files/mgk-icra16-tscdl.pdf)\] \[[**Tutorial-Video**](https://www.youtube.com/watch?v=L561cJhs7DLE)\] 
+
+<!-- 
+![Deformnet]({{ 'deformnet-animation-plane.gif' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://arxiv.org/abs/1708.04672)**  
+    Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
+    *IEEE Winter Conf. on Applications of Computer Vision (WACV) 2018*  
+    \[[ArXiv 1708.04672](https://arxiv.org/abs/1708.04672)\] \[[Project Webpage](https://deformnet-site.github.io/DeformNet-website/)\]  
+    An application to grasp transfer appeared at [CoRL 2017](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)
+ -->
+---
+
+###### Generalizable Skill Learning
+
+A skill should be reusable across tasks and objects to avoid constant relearning.
+It is not enough to learn a door-opening skill for one particular door, and then have to re-learn that
+skill for a new door, or even to open a fridge. Consequently, generalization across task families is an
+essential aspect of effective robot learning.
+
+![MSVT]({{ 'msvt.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Self-Supervised Learning of Multimodal Representations](https://arxiv.org/abs/1810.10191)**  
+    Contact-rich manipulation tasks in unstructured environments often require both haptic and visual feedback. We use self-supervision to learn a compact and multimodal representation of our sensory inputs, which can then be used to improve the sample efficiency of our policy learning.  
+    \[[arXiv 1810.10191](https://arxiv.org/abs/1810.10191)\]. \[[Project Webpage](https://sites.google.com/view/visionandtouch)\] *Under review at ICRA 2019*
+
+![TGS3]({{ 'tgs3.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Learning Task-Oriented Grasping for Tool Manipulation](https://sites.google.com/view/task-oriented-grasp)**  
+    Tool manipulation is vital for facilitating robots to complete challenging task goals. We proposed a learning-based model for two-stage tool use. It jointly optimizes grasping robustness and suitability for the manipulation to improve task success with visual input at test time.  
+    \[[arXiv 1806.09266](https://arxiv.org/abs/1806.09266)\] \[[Project Webpage](https://sites.google.com/view/task-oriented-grasp)\] \[[Talk Video](https://youtu.be/v0ErAR8Dwy8?t=43s)\]
+
+![Adapt]({{ 'adapt-isrr17.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Adaptive Policy Transfer for Stochastic Dynamical Systems](https://arxiv.org/abs/1707.04674)**  
+    We introduce the AdaPT algorithm that achieves provably safe and robust, dynamically-feasible zero-shot transfer of RL-policies to new domains with dynamics error. ADAPT combines the strengths of offline policy learning in a black-box source simulator with online tube-based MPC to attenuate bounded model mismatch between the source and target dynamics.  
+    \[[**ISRR17**](https://parasol.tamu.edu/isrr/isrr2017/)\] \[[arXiv 1707.04674](https://arxiv.org/abs/1707.04674)\]   
+
+![ARPL]({{ 'arpl-iros17.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:  **[Robust Policy Learning and Transfer]()**  
+    We investigate direct sim2real policy transfer for deformable pattern cutting. We also develop a method to leverage adversarial perturbations in policy gradient method for robustness to environment perturbations at test time.  
+    \[**[ICRA17]({{ site.baseurl }}/files/cutting-icra17.pdf)**\] \[[**Cutting-Video**](https://www.youtube.com/watch?v=l6gQg2VbGcc)\]   \[**[IROS17]({{ site.baseurl }}/files/arpl_mzg_iros17.pdf)**\] \[[**ARPL-Video**](https://www.youtube.com/watch?v=yZ-gSsbbzh0)\]
+
+![WSGAN]({{ 'wsgan-iccv17-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[3D Reconstruction from Images]()**  
+    We present two different methods of shape reconstruction from images: one uses weakly supervised generative models and the other uses a deformation field prediction. The deformation method has also been used for grasp transfer in novel objects.   
+    \[[**3DV 17:arXiv**](https://arxiv.org/abs/1705.10904)\] \[[**DeformNet**](https://deformnet-site.github.io/DeformNet-website/), [**WACV18:arXiv**](https://arxiv.org/abs/1708.04672)\] \[[**CoRL17:Grasping**](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)\]  
+
+
+---
+
+###### Skill Learning in Surgical Subtasks
+
+Robot Assisted Minimally Invasive Surgery (RMIS) was used in manual teleoperation mode in over *570,000* procedures worldwide in 2014 with *3000* Da Vinci systems. However, RMIS procedures are tedious and depend highly on surgeon skill. Autonomy of surgical subtasks has the potential to assist surgeons, reduce fatigue, and enhance manual telesurgery. Moreover, the growing corpus of surgical data can enable *data-driven learning for automation*. I research learning from expert demonstrations in surgery with unique challenges such as specular workspace, constrained dexterity, and highly noisy datasets.
+
+<!-- Currently, robot-assisted minimally invasive surgery (RMIS) devices are controlled by surgeons in a local tele-operation mode. Procedures often last multiple hours and highly depend on surgeon skill. Autonomy of surgical subtasks has the potential to assist surgeons, reduce fatigue, and facilitate supervised autonomy for tele-surgery.  We consider learning task representations as **milestones** from demonstrations and use multimodal sensory input for classification of success criterion. The goal of this work is semi-supervised learning of *necessary* conditions of success, eventually allowing demonstrations to be **Actor Agnostic**. -->
+
+
+<!-- #### Sub-Task Learning -->
 
 ![GPAS]({{ 'gpas-case16.png' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Tumor Localization using Automated Palpation](http://berkeleyautomation.github.io/gpas/files/garg-case16-gpas.pdf)**  
