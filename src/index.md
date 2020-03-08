@@ -18,6 +18,17 @@ pagination: true
 
 --- 
 
+### Prospective [Applicants]()
+
+🌟 I am accepting new students at all levels. Thanks for your interest in my group. However, kindly do not contact me directly with regard to MS or PhD admissions. Please read this before contacting me and apply accordingly:  
+
+- UofT PhD and Postdocs: Please send me a brief [email](mailto:garg@cs.toronto.edu) about collaboration or advising.
+- [UofT Undergraduate/Masters](https://forms.gle/BtFqLGV33kC5FXAu9)
+- External [Postdoc and Research Scientist](https://forms.gle/TWJr36iDucTmDWQX7)  
+- External [Visiting Scholar](https://forms.gle/ouy1RR8mtC3GNXki7)
+
+---
+
 ### Recent [**News**]({{ site.baseurl }}/news/)
 <ul class="inset">
 {% for post in site.categories.news limit:5 %}
@@ -59,6 +70,8 @@ pagination: true
 <div align="center">
 <img src="{{ site.baseurl}}/research/images/circleProcess.jpg" alt="dvrk-lbo" style="width: 80%" align="middle" />
 </div>  
+-->  
+
 <!--
 <ul class="inset">
 {% for post in site.categories.research limit:3  %}

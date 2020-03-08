@@ -35,3 +35,9 @@
 [stanford]: http://www.stanford.edu/
 [pair-svl]: http://pair.stanford.edu/
 [svl]: http://svl.stanford.edu/
+[pair-tor]: http://pair.toronto.edu/
+[dcs]: https://web.cs.toronto.edu
+[uoft]: https://www.utoronto.ca/
+[vector]: https://vectorinstitute.ai/
+[mie]: https://mie.utoronto.ca
+[utri]: https://robotics.utoronto.ca/

@@ -1,0 +1,34 @@
+I"8
+<h3 id="learning-from-expert-demonstrations-for-surgical-robotics">Learning from Expert Demonstrations for Surgical Robotics</h3>
+
+<hr />
+
+<p>Surgical tasks, whether robotic or manual, are hard and often tedious. 
+Automating repetitive surgical subtasks such as suturing, cutting and debridement can reduce surgeon fatigue and procedure times and facilitate supervised tele-surgery. 
+Programming is difficult because human tissue is deformable and highly specular. 
+Delegation of lower level control to intelligent systems can potentially make the human-computer nexus outperform the current capabilities of either.</p>
+
+<div align="center">
+<img src="/~garg/research/images/tasks-dvrk.jpg" alt="dvrk-lbo" style="width: 480px" align="middle" />
+</div>
+
+<style>.video-container iframe{display:block; margin-right:auto; margin-left:auto},.video-container object,.video-container embed{position:absolute;top:0;left:0;width:100%;height:auto;margin-top:0}</style>
+
+<div class="video-container" style="position:relative;padding-bottom:75.00%;padding-top:30px;height:0;overflow:hidden"><p align="center"><iframe width="600" height="450" src="http://www.youtube.com/embed/beVWB6NtAaA?rel=0&amp;showinfo=0&amp;autoplay=0&amp;controls=1" frameborder="0" allowfullscreen=""> </iframe></p></div>
+<p><br /></p>
+
+<p>In the recent study using the da Vinci Research Kit (DVRK) robotic surgical assistant, we explore a “Learning By Observation” (LBO) approach where we identify, segment, and parameterize sub-trajectories (“surgemes”) and sensor conditions to build a finite state machine (FSM) for each subtask. The robot then executes the FSM repeatedly to tune parameters and if necessary update the FSM structure.</p>
+
+<p>We evaluate the approach on two surgical subtasks: debridement of 3D Viscoelastic Tissue Phantoms (3d-DVTP), in which small target fragments are removed from a 3D viscoelastic tissue phantom, and Pattern Cutting of 2D Orthotropic Tissue Phantoms (2d-PCOTP), a step in the standard Fundamentals of Laparoscopic Surgery training suite, in which a specified circular area must be cut from a sheet of orthotropic tissue phantom.</p>
+
+<hr />
+
+<div align="center">
+<img src="/~garg/research/images/research-heli-example.png" alt="heli-example" style="width: 60%" align="middle" />
+</div>
+
+<p>I am currently studying semi-supervised optimization frameworks for identification of these motions, and performing robust reconstruction of the required trajectories in a new environment.
+<br />
+The same techniques would in principle be applicable to other high skill tasks like cooking autonomous control.</p>
+
+:ET

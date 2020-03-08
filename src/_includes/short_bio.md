@@ -5,9 +5,14 @@
 <!-- ####     🌟 <font color="red"> I'm on the faculty job market in Spring 2018! </font> 🌟 -->
 
 
-I am currently a senior scientist at [Nvidia Research](https://www.nvidia.com/en-us/research/) with [Dieter Fox][df].  
-I am also a postdoc at [Stanford AI Lab][sail] working with [Fei-Fei Li][ffl] and [Silvio Savarese][silvio] at [Stanford AI Lab][sail].   
-I lead the [Stanford People, AI and Robotics (PAIR)][pair-svl] research in the [Vision & Learning][svl] group.
+I am a Assistant Professor of [Computer Science][dcs] at [University of Toronto][uoft] and a Faculty Member at the [Vector Institute][vector]. I lead the [Toronto People, AI and Robotics (PAIR)][pair-tor] research group.
+
+I am affiliated with [Mechanical and Industrial Engineering][mie] (courtesy) and [Toronto Robotics Institute][utri].   
+I also share time as a senior research scientist at [Nvidia](https://www.nvidia.com/en-us/research/) in ML and Robotics.
+
+Prior to this, I was a postdoc at [Stanford AI Lab][sail] working with [Fei-Fei Li][ffl] and [Silvio Savarese][silvio]. I received MS in [Computer Science][cs] and Ph.D. in [Operations Research][ieor] from the [UC, Berkeley][ucb] in 2016.  I was advised by [Ken Goldberg][kg] in the [Automation Lab][autolab] as a part of the [Berkeley AI Research Lab (BAIR)][bair]. I also worked closely with [Pieter Abbeel][pa], [Alper Atamturk][alper] and [UCSF](ucsf) Radiation Oncology. 
+
+<!-- I am also a postdoc at [Stanford AI Lab][sail] working with [Fei-Fei Li][ffl] and [Silvio Savarese][silvio] at [Stanford AI Lab][sail]. I lead the [Stanford People, AI and Robotics (PAIR)][pair-svl] research in the [Vision & Learning][svl] group. -->
 <!-- I also collaborate closely with [Marco Pavone][marco] and his group.  -->
 
 My current research focuses on machine learning algorithms for perception and control in robotics. 
@@ -18,7 +23,6 @@ algorithms to enable the efficiency and generality of learning for interaction i
 **Research Interests**: Robotics, Reinforcement Learning, Computer Vision and Optimal Control. I work on
 applications of autonomous manipulation in surgical, personal and warehouse robotics.
 
-I received MS in [Computer Science][cs] and Ph.D. in [Operations Research][ieor] from the [UC, Berkeley][ucb] in 2016.  I was advised by [Ken Goldberg][kg] in the [Automation Lab][autolab] as a part of the [Berkeley AI Research Lab (BAIR)][bair]. I also worked closely with [Pieter Abbeel][pa], [Alper Atamturk][alper] and [UCSF](ucsf) Radiation Oncology. 
 
 
 <!-- My thesis work was on algorithms at the intersection of Optimization and Design for Automation.  I studied the interaction of data-driven *Learning for Autonomy* and *Design for Automation* for human skill-augmentation and decision support. -->

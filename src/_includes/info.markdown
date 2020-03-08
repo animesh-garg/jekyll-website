@@ -13,11 +13,11 @@
 
 ![Animesh Garg]({{ site.baseurl }}/images/animesh-feb15.jpg)
 
-Postdoc Researcher  
-[Stanford PAIR][pair-svl]  
-[Stanford AI Lab][sail]  
-[Computer Science][cs-stan]  
-[Stanford University][stanford]  
+Assistant Professor  
+[Computer Science][dcs],  
+[Mech. & Ind. Engg][mie] (courtesy)    
+[University of Toronto][uoft]  
+[Vector Institute][vector]  
 
 <!-- Email me: [<i class="fa fa-envelope fa-lg"></i>](javascript:toggleblock('emailAdd')) 
 <i id = "emailAdd"> [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu) </i>
@@ -26,8 +26,8 @@ Postdoc Researcher
 </script>
  -->
 <!--[<i class="fa fa-envelope fa-lg"></i>](): [animesh**&#xb7;**garg@berkeley**&#xb7;**edu](mailto:animesh.garg@berkeley.edu)-->
-Contact me:  
-[<span style="font-size: 98%">garg@cs**&#xb7;**stanford**&#xb7;**edu </span>](mailto:garg@cs.stanford.edu)
+Email me:  
+[<span style="font-size: 98%">garg@cs**&#xb7;**toronto**&#xb7;**edu </span>](mailto:garg@cs.toronto.edu)
 
 Find me on:  
 <!--[**Blog**](http://animesh-garg.blogspot.com/)   **&#xb7;** -->
@@ -35,6 +35,22 @@ Find me on:
 [<i class="fa fa-twitter fa-lg"></i>](https://twitter.com/animesh_garg) **&#xb7;**
 [<i class="fa fa-linkedin fa-lg"></i>](http://www.linkedin.com/in/animeshgarg) **&#xb7;**
 [<i class="fa fa-facebook-square fa-lg"></i>](https://www.facebook.com/garganimesh)    
+
+Contact me:    
+
+**UTM Campus**:  
+MCS, UT Mississauga  
+Deerfield Hall, Ofiice 3068   
+3359 Mississauga Road  
+Mississauga, ON, L5L 1C6  
+
+**St George Campus**:  
+DCS, University of Toronto  
+D.L. Pratt Building, Office 283E  
+6 King's College Road  
+Toronto, ON, M5S 3H5
+
+
 
 <!--
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/Animesh_Garg" data-widget-id="536483931428618240">Tweets by @Animesh_Garg</a>

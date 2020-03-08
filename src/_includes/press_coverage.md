@@ -1,5 +1,18 @@
 {% capture stuff %}
 
+<!-- <div class="projects">
+
+<dl>
+  <dt><img src="/~garg/research/images/rl-teaser.png" alt="RL" /></dt>
+  <dd><a href="/~garg/research/#generalization-in-robotics-tasks"><strong>Rethinking Generalization in Robot Learning</strong></a><br />
+At Stanford, I am leading the effort in <em>Rethinking Generalization in Robot Learning</em>. It is a multi-proged effort in developing hierarcical Deep RL abstractions along with learning from video demonstrations. 
+<a href="/~garg/research/#generalization-in-robotics-tasks"><em>Read More</em></a>…</dd>
+</dl>
+
+</div>
+ -->
+
+
 <ul class="inset">
 
   <li>

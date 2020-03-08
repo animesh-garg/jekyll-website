@@ -1,0 +1,192 @@
+I"�X<p><br /></p>
+<h2 id="generalizable-autonomy">Generalizable Autonomy</h2>
+
+<p>My research vision is to enable robotic systems that: learn hierarchical control tasks by watching humans, seamlessly interact and collaborate with humans, and learn to improve performance and acquire new skills through self-practice. And my approach to these challenges develops algorithmic methods to enable efficient robot learning for long-term sequential tasks through <strong>Generalizable Autonomy</strong>.</p>
+
+<p>I bring together expertise from areas of Reinforcement Learning, Optimal Control and Computer Vision.
+The principal focus of my research is to understand <strong>representations and algorithms to enable the efficiency and generality of learning for interaction</strong> in autonomous agents. My research combines model-based control with data-driven policy learning under unstructured perceptual inputs. 
+And my prior work also reflects on broad applications of my methods, ranging from personal to medical robotics. I am eager to continue researching fundamental questions in general-purpose intelligence for interactive robotic agents.</p>
+
+<!-- My research vision is to enable robotic systems that: learn hierarchical control tasks by watching humans, seamlessly interact and collaborate with humans, and learn to improve performance and acquire new skills through self-practice.  -->
+
+<p>My work can broadly be divided into topics as follows:</p>
+<ul>
+  <li><a href="/~garg/research/#generalizable-imitation">Generalizable Imitation</a></li>
+  <li><a href="/~garg/research/#generalizable-skill-learning">Generalization Skill Learning</a></li>
+  <li><a href="/~garg/research/#skill-learning-in-surgical-subtasks">Skill Learning in Surgical Robotics</a></li>
+  <li><a href="/~garg/research/#radiation-therapy-for-cancer-planning-and-delivery">Personalization in Radiation Therapy</a></li>
+</ul>
+
+<!-- My research spans \textbf{Operations Research}, \textbf{Computer Science} and \textbf{Design}, combining theory with experiments.
+ The goal of my work is analysis of decision and design problems in human-machine collaboration and skill-augmentation, with a focus on healthcare.
+I study integration of algorithms with hardware design for applications in medical robotics and healthcare.   -->
+
+<!-- Specifically, I have studied algorithmically grounded solutions for integration of autonomy in internal radiotherapy for cancer and subtask automation in Robot-assisted minimally invasive surgery (RMIS).  -->
+
+<hr />
+
+<h6 id="generalizable-imitation">Generalizable Imitation</h6>
+
+<p>Realistic robotic solutions, in both personal or industrial applications, not only need skills but also need structured tasks with interaction planning over prolonged horizons. Consequently, these skills are ultimately only relevant if their composition achieves a higher-order objective.
+I work onimitation guided algorithms to learn policies in sequentially &amp; hierarchically structure tasks.</p>
+
+<dl>
+  <dt><img src="/~garg/research/images/roboturk.jpg" alt="roboturk" /></dt>
+  <dd><strong><a href="http://roboturk.stanford.edu/">RoboTurk: A Crowdsourcing Platform for Robotic Skill Learning</a></strong><br />
+RoboTurk is a system to scale imiation learning by the rapid crowdsourcing of high-quality demonstrations. This allows the creation of large datasets for manipulation tasks that we show improves the quality of imitation learning policies.<br />
+[<a href="http://proceedings.mlr.press/v87/mandlekar18a.html">Paper</a>][<a href="https://roboturk.stanford.edu">Project Webpage</a>] [<a href="https://www.youtube.com/watch?v=ugCBLNLWDM8&amp;t=24400s">Talk Video</a>]</dd>
+  <dt><img src="/~garg/research/images/ntg.jpg" alt="NTG" /></dt>
+  <dd><strong><a href="https://arxiv.org/abs/1807.03480">Neural Task Graphs</a></strong><br />
+Neural Task Graph (NTG) Networks use task graph as the intermediate representation to modularize the representations of both the video demonstration and the derived policy. This formulation achieves strong inter-task generalization on planning tasks.<br />
+[<a href="https://arxiv.org/abs/1807.03480">arXiv 1807.03480</a>]</dd>
+  <dt><img src="/~garg/research/images/ntp-icra18.jpg" alt="NTP" /></dt>
+  <dd><strong><a href="https://stanfordvl.github.io/ntp/">Neural Task Programming</a></strong><br />
+We present a method that learns to generalize across hierarchical tasks with a single example. It bridges the idea of few-shot learning from demonstration and neural program induction.<br />
+[<a href="https://stanfordvl.github.io/ntp/"><strong>ICRA18</strong></a>] [<a href="https://www.youtube.com/watch?v=THq7I7C5rkk&amp;feature=youtu.be"><strong>Video</strong></a>] [<a href="https://arxiv.org/abs/1710.01813">ArXiv 1710.01813</a>]</dd>
+  <dt><img src="/~garg/research/images/ramil.jpg" alt="RAMIL" /></dt>
+  <dd><strong><a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.html">Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video</a></strong><br />
+In this work, we tackle visual grounding in instructional videos, where only the aligned transcriptions are available. We introduce the visually grounded action graph, a structured representation capturing the latent dependency between grounding and references in video.<br />
+[<a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf">PDF</a>] [<a href="https://youtu.be/GBo4sFNzhtU?t=23m30s">Talk Video</a>], CVPR, 2018 (<strong>Oral</strong>)</dd>
+  <dt><img src="/~garg/research/images/swirl-ijrr17.png" alt="swirl-ijrr" /></dt>
+  <dd><strong><a href="/~garg/files/swirl-isrr16.pdf">Sequential Windowed Inverse Reinforcement Learning</a></strong><br />
+This work extends the idea of task structure learning to policy learning. This work evaluates policy learning on both simulated and physical benchmark tasks.<br />
+[<a href="/~garg/files/swirl-isrr16.pdf"><strong>WAFR 2016</strong></a>] [<a href="http://goldberg.berkeley.edu/pubs/krishnan-ijrr-submission-final.pdf"><strong>IJRR 2018</strong></a>]
+[<a href="https://www.youtube.com/watch?v=r0RzS2DWb8M&amp;index=4&amp;list=PLYTiwx6hV33siv3qb--lW1Sw5BEMgGtR1"><strong>Talk Video</strong></a>]</dd>
+</dl>
+
+<!-- 
+[![TSC-DL](/~garg/research/images/tsc-teaser.png)](http://berkeleyautomation.github.io/tsc-dl/files/mgk-icra16-tscdl.pdf)
+: **[TSC-DL: Segmentation with Deep Learning](http://berkeleyautomation.github.io/tsc-dl/)**  
+ A new unsupervised algorithm that leverages video & kinematic data for task-level segmentation using pretrained CNNs to identify spatio-temporal task segmentation.  
+\[[**ICRA 2016**](http://berkeleyautomation.github.io/tsc-dl/files/mgk-icra16-tscdl.pdf)\] \[[**Tutorial-Video**](https://www.youtube.com/watch?v=L561cJhs7DLE)\]  -->
+
+<dl>
+  <dt><img src="/~garg/research/images/tsc-isrr15.png" alt="TSC" /></dt>
+  <dd><strong><a href="/~garg/files/garg-tsc-ijrr17.pdf">Transition State Clustering</a></strong><br />
+We proposed an unsupervised algorithm for recovering task structure from demonstration data and autonomously perform semantic segmentation. It works with both kinematics and video data using pre-trained CNNs. <br />
+[<a href="/~garg/files/ISRR2015_Krishnan-Garg_TSC.pdf"><strong>ISRR 2015</strong></a>]  [<a href="/~garg/files/garg-tsc-ijrr17.pdf"><strong>IJRR 2017</strong> </a>] [<a href="http://berkeleyautomation.github.io/tsc-dl/files/mgk-icra16-tscdl.pdf"><strong>ICRA 2016</strong></a>] [<a href="https://www.youtube.com/watch?v=L561cJhs7DLE"><strong>Tutorial-Video</strong></a>]</dd>
+</dl>
+
+<!-- 
+![Deformnet](/~garg/research/images/deformnet-animation-plane.gif)
+:   **[DeformNet: Free-Form Deformation Network for 3D Shape Reconstruction from a Single Image](https://arxiv.org/abs/1708.04672)**  
+    Andrey Kuryenkov\*, Jingwei Ji\*, **Animesh Garg**, Viraj Mehta, JunYoung Gwak, Chris Choy, Silvio Savarese (\* equal contribution).  
+    *IEEE Winter Conf. on Applications of Computer Vision (WACV) 2018*  
+    \[[ArXiv 1708.04672](https://arxiv.org/abs/1708.04672)\] \[[Project Webpage](https://deformnet-site.github.io/DeformNet-website/)\]  
+    An application to grasp transfer appeared at [CoRL 2017](https://deformnet-site.github.io/DeformNet-website/files/corl.pdf)
+ -->
+<hr />
+
+<h6 id="generalizable-skill-learning">Generalizable Skill Learning</h6>
+
+<p>A skill should be reusable across tasks and objects to avoid constant relearning.
+It is not enough to learn a door-opening skill for one particular door, and then have to re-learn that
+skill for a new door, or even to open a fridge. Consequently, generalization across task families is an
+essential aspect of effective robot learning.</p>
+
+<dl>
+  <dt><img src="/~garg/research/images/msvt.jpg" alt="MSVT" /></dt>
+  <dd><strong><a href="https://arxiv.org/abs/1810.10191">Self-Supervised Learning of Multimodal Representations</a></strong><br />
+Contact-rich manipulation tasks in unstructured environments often require both haptic and visual feedback. We use self-supervision to learn a compact and multimodal representation of our sensory inputs, which can then be used to improve the sample efficiency of our policy learning.<br />
+[<a href="https://arxiv.org/abs/1810.10191">arXiv 1810.10191</a>]. [<a href="https://sites.google.com/view/visionandtouch">Project Webpage</a>] <em>Under review at ICRA 2019</em></dd>
+  <dt><img src="/~garg/research/images/tgs3.png" alt="TGS3" /></dt>
+  <dd><strong><a href="https://sites.google.com/view/task-oriented-grasp">Learning Task-Oriented Grasping for Tool Manipulation</a></strong><br />
+Tool manipulation is vital for facilitating robots to complete challenging task goals. We proposed a learning-based model for two-stage tool use. It jointly optimizes grasping robustness and suitability for the manipulation to improve task success with visual input at test time.<br />
+[<a href="https://arxiv.org/abs/1806.09266">arXiv 1806.09266</a>] [<a href="https://sites.google.com/view/task-oriented-grasp">Project Webpage</a>] [<a href="https://youtu.be/v0ErAR8Dwy8?t=43s">Talk Video</a>]</dd>
+  <dt><img src="/~garg/research/images/adapt-isrr17.png" alt="Adapt" /></dt>
+  <dd><strong><a href="https://arxiv.org/abs/1707.04674">Adaptive Policy Transfer for Stochastic Dynamical Systems</a></strong><br />
+We introduce the AdaPT algorithm that achieves provably safe and robust, dynamically-feasible zero-shot transfer of RL-policies to new domains with dynamics error. ADAPT combines the strengths of offline policy learning in a black-box source simulator with online tube-based MPC to attenuate bounded model mismatch between the source and target dynamics.<br />
+[<a href="https://parasol.tamu.edu/isrr/isrr2017/"><strong>ISRR17</strong></a>] [<a href="https://arxiv.org/abs/1707.04674">arXiv 1707.04674</a>]</dd>
+  <dt><img src="/~garg/research/images/arpl-iros17.png" alt="ARPL" /></dt>
+  <dd><strong><a href="">Robust Policy Learning and Transfer</a></strong><br />
+ We investigate direct sim2real policy transfer for deformable pattern cutting. We also develop a method to leverage adversarial perturbations in policy gradient method for robustness to environment perturbations at test time.<br />
+ [<strong><a href="/~garg/files/cutting-icra17.pdf">ICRA17</a></strong>] [<a href="https://www.youtube.com/watch?v=l6gQg2VbGcc"><strong>Cutting-Video</strong></a>]   [<strong><a href="/~garg/files/arpl_mzg_iros17.pdf">IROS17</a></strong>] [<a href="https://www.youtube.com/watch?v=yZ-gSsbbzh0"><strong>ARPL-Video</strong></a>]</dd>
+  <dt><img src="/~garg/research/images/wsgan-iccv17-v2.png" alt="WSGAN" /></dt>
+  <dd><strong><a href="">3D Reconstruction from Images</a></strong><br />
+We present two different methods of shape reconstruction from images: one uses weakly supervised generative models and the other uses a deformation field prediction. The deformation method has also been used for grasp transfer in novel objects. <br />
+[<a href="https://arxiv.org/abs/1705.10904"><strong>3DV 17:arXiv</strong></a>] [<a href="https://deformnet-site.github.io/DeformNet-website/"><strong>DeformNet</strong></a>, <a href="https://arxiv.org/abs/1708.04672"><strong>WACV18:arXiv</strong></a>] [<a href="https://deformnet-site.github.io/DeformNet-website/files/corl.pdf"><strong>CoRL17:Grasping</strong></a>]</dd>
+</dl>
+
+<hr />
+
+<h6 id="skill-learning-in-surgical-subtasks">Skill Learning in Surgical Subtasks</h6>
+
+<p>Robot Assisted Minimally Invasive Surgery (RMIS) was used in manual teleoperation mode in over <em>570,000</em> procedures worldwide in 2014 with <em>3000</em> Da Vinci systems. However, RMIS procedures are tedious and depend highly on surgeon skill. Autonomy of surgical subtasks has the potential to assist surgeons, reduce fatigue, and enhance manual telesurgery. Moreover, the growing corpus of surgical data can enable <em>data-driven learning for automation</em>. I research learning from expert demonstrations in surgery with unique challenges such as specular workspace, constrained dexterity, and highly noisy datasets.</p>
+
+<!-- Currently, robot-assisted minimally invasive surgery (RMIS) devices are controlled by surgeons in a local tele-operation mode. Procedures often last multiple hours and highly depend on surgeon skill. Autonomy of surgical subtasks has the potential to assist surgeons, reduce fatigue, and facilitate supervised autonomy for tele-surgery.  We consider learning task representations as **milestones** from demonstrations and use multimodal sensory input for classification of success criterion. The goal of this work is semi-supervised learning of *necessary* conditions of success, eventually allowing demonstrations to be **Actor Agnostic**. -->
+
+<!-- #### Sub-Task Learning -->
+
+<dl>
+  <dt><img src="/~garg/research/images/gpas-case16.png" alt="GPAS" /></dt>
+  <dd><strong><a href="http://berkeleyautomation.github.io/gpas/files/garg-case16-gpas.pdf">Tumor Localization using Automated Palpation</a></strong><br />
+We propose a Gaussian Process based Adaptive Sampling method that improves sample complexity level set discovery in tumor localization.<br />
+[<a href="http://berkeleyautomation.github.io/gpas/files/garg-case16-gpas.pdf"><strong>CASE16</strong></a>] [<a href="http://berkeleyautomation.github.io/gpas/"><strong>Project Page</strong></a>]</dd>
+</dl>
+
+<!-- #### Sub-Task Automation -->
+
+<dl>
+  <dt><a href="http://berkeleyautomation.github.io/amts/"><img src="/~garg/research/images/NeedleStitchingFaded2-01.jpg" alt="surgical-suturing" /></a></dt>
+  <dd><strong><a href="http://berkeleyautomation.github.io/amts/">Autonomous Multi-Throw Suturing</a></strong><br />
+We present an optimization framework and a novel mechanical needle guide design to perform supervised automation of multi-throw suturing.<br />
+[<a href="http://berkeleyautomation.github.io/amts/"><strong>ICRA16</strong></a>] [<a href="https://www.youtube.com/watch?v=z1ehShXFToc"><strong>Suturing-Video</strong></a>]</dd>
+  <dt><a href="http://berkeleyautomation.github.io/surgical-tools/"><img src="/~garg/research/images/surgical-tools.jpg" alt="surgical-tools" /></a></dt>
+  <dd><strong><a href="http://berkeleyautomation.github.io/surgical-tools/">Autonomous Tumor Localization &amp; Resection</a></strong><br />
+We present two designs for surgical automation: a low-cost end-effector mount and a fluid injection system.  We automate a 4-step tumor resection procedure to locate and debride a subcutaneous tumor.<br />
+[<a href="http://berkeleyautomation.github.io/surgical-tools/"><strong>CASE16</strong></a>] [<a href="https://www.youtube.com/watch?v=YiPq9t0tR3U"><strong>Video</strong></a>] <strong><font color="red">Best Video Award</font></strong></dd>
+  <dt><a href="/~garg/files/mckinley-disposable-2015.pdf"><img src="/~garg/research/images/ProbeSkinDVRK-01.jpg" alt="Palpation Probe" /></a></dt>
+  <dd><strong><a href="/~garg/files/mckinley-disposable-2015.pdf">Disposable Sensors for Minimally Invasive Surgery</a></strong><br />
+We proposed a Disposable Haptic Palpation Probe for Locating Subcutaneous Blood Vessels in Robot-Assisted Minimally Invasive Surgery.<br />
+[<a href="/~garg/files/mckinley-disposable-2015.pdf"><strong>CASE15</strong></a>] <strong><font color="red">Best Poster/Demo Award.</font></strong></dd>
+  <dt><a href="http://www.youtube.com/watch?v=beVWB6NtAaA"><img src="/~garg/research/images/tasks-dvrk-v2.jpg" alt="DVRK" /></a></dt>
+  <dd><strong><a href="/~garg/files/murali-LBO-2015.pdf">Learning by Observation for Surgical Subtasks</a></strong><br />
+We proposed a Learning by Observation algorithm for surgical subtasks demosttrated with multilateral Cutting of 3D Viscoelastic and 2D Orthotropic Tissue Phantoms.<br />
+[<a href="/~garg/files/murali-LBO-2015.pdf"><strong>ICRA15</strong></a>] [<a href="http://www.youtube.com/watch?v=beVWB6NtAaA"><strong>Video</strong></a>] [<a href="https://youtu.be/Eye92IXOkxE"><strong>Short Talk</strong></a>]<br />
+<strong><font color="red">Best Medical Robotics Paper Award Finalist</font></strong></dd>
+</dl>
+
+<hr />
+
+<h6 id="radiation-therapy-for-cancer-planning-and-delivery">Radiation Therapy for Cancer: Planning and Delivery</h6>
+
+<p>High Dose Rate Brachytherapy (HDR-BT) is an internal radiation therapy and is used for over <em>500,000</em> cancer patients annually in the US. It is prevalent for treatment in many body sites such as mouth, breast and prostate. It involves radioactive sources placed temporarily proximal to or within tumors. 
+Current methods for intracavitary and interstitial HDR-BT use generic templates which result in inadequate dose coverage and healthy organ puncture, respectively.<br />
+We present novel patient specific <strong>3D-printed implants</strong> and <strong>needle guides</strong> for respective modes; we also evaluate <strong>robot-assisted needle implants</strong> for interstitial HDR-BT. 
+<!-- Further, we pose the treatment planning for problem as a discrete conic optimization to achieve optimality guarantees.  --></p>
+
+<dl>
+  <dt><a href="https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS"><img src="/~garg/research/images/research-anatomy-implant.png" alt="3dImplants" /></a></dt>
+  <dd><strong><a href="/~garg/files/garg-3dpImplant-case-2013.pdf">3D Printed Implants for Intracavitary Brachytherapy</a></strong><br />
+We propose a new approach that builds on progress in 3D printing and steerable needle motion planning to create customized implants containing customized curvature-constrained internal channels that fit securely, minimize air gaps, and precisely guide radioactive sources through printed channels.<br />
+[<a href="/~garg/files/garg-3dpImplant-case-2013.pdf"><strong>CASE13</strong></a>] [<a href="https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS"><strong>Short Talk</strong></a>] [<a href="http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx"><strong>Slides</strong></a>]</dd>
+  <dt><a href="/~garg/files/JACMP-published-version.pdf"><img src="/~garg/research/images/matEval-jacmp.png" alt="material-Evaluation" /></a></dt>
+  <dd><strong><a href="/~garg/files/JACMP-published-version.pdf">Material Evaluation of 3D Printed GYN Implants</a></strong><br />
+The study evaluates the radiation attenuation properties of PC-ISO, a commercially available, biocompatible, sterilizable 3D printing material, and its suitability for customized, single-use gynecologic (GYN) brachytherapy applicators that have the potential for accurate guiding of seeds through linear and curved internal channels.<br />
+[<a href="/~garg/files/JACMP-published-version.pdf"><strong>JACMP14</strong></a>]</dd>
+  <dt><a href="https://youtu.be/Kk_wHiu8nGg"><img src="/~garg/research/images/research-AcubotPlusImplant.png" alt="Acubot-Brachy" /></a></dt>
+  <dd><strong><a href="/~garg/files/garg-brachy-tase-2013.pdf">Robot-Guided Needle Insertion for HDR-BT</a></strong><br />
+We leverage human-centered automation to reduce side effects from HDR-BT in prostate cancer by efficiently delivering radiation to the prostate while minimizing trauma to sensitive structures such as the penile bulb. We modify the <a href="http://urobotics.urology.jhu.edu/projects/RND/">Acubot-RND</a> system to guide needles into desired skew-line arrangements algorithmically calculated with needle planning and inverse dose planning algorithms.<br />
+[<a href="/~garg/files/garg-brachy-case-2012.pdf"><strong>CASE12</strong></a>] [<a href="/~garg/files/garg-brachy-tase-2013.pdf"><strong>T-ASE13</strong></a>] [<a href="https://youtu.be/Kk_wHiu8nGg"><strong>Video</strong></a>] [<a href="https://youtu.be/TGEIRpbuS_I"><strong>CASE-Talk</strong></a>]<br />
+<strong><font color="red">Best Application Paper Award.</font></strong></dd>
+  <dt><a href="/~garg/files/garg-3dpImplant-case-2013.pdf"><img src="/~garg/research/images/anatomyExample-noAxesLabel.png" alt="reachability" /></a></dt>
+  <dd><strong><a href="/~garg/files/garg-3dpImplant-case-2013.pdf">Reachability Analysis for Needle Planning in HDR-BT</a></strong><br />
+We propose a new approach that builds on recent results in 3D printing and steerable needle motion planning to create customized implants containing customized curvature-constrained internal channels that fit securely, minimize air gaps, and precisely
+guide radioactive sources through printed channels.<br />
+[<a href="/~garg/files/garg-3dpImplant-case-2013.pdf"><strong>CASE14</strong></a>]</dd>
+</dl>
+
+<!--![externalImplants](/~garg/research/images/comingSoon.jpg) -->
+<dl>
+  <dt><img src="/~garg/research/images/3DP-ExternalTemplate-1-small.jpg" alt="externalImplants" /></dt>
+  <dd><strong>3D Printed Guides for Prostate Brachytherapy</strong><br />
+We propose the use of patient specific custom needle guides for needle configuration implant in Prostate HDR-BT. This work builds upon the robot-guided needle implants, and attempts to evaluate a low-cost yet effective method for achieving clinical objectives.<br />
+[<a href="/~garg/research/"><strong>PDF</strong>-soon!</a>] [<a href="http://www.sciencedirect.com/science/article/pii/S1538472114004863"><strong>Brachytherapy14</strong></a>]</dd>
+</dl>
+
+<hr />
+
+<div id="footer">
+<b>Copyright notice</b>: This material is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
+</div>
+:ET

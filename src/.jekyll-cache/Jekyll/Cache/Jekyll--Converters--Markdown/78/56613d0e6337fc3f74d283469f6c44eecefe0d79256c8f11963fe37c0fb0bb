@@ -1,0 +1,36 @@
+I"�
+<h2 id="welcome">Welcome!</h2>
+
+<!-- ####     🌟 <font color="red"> I'm on the faculty job market in Spring 2018! </font> 🌟 -->
+
+<p>I am a Assistant Professor of <a href="https://web.cs.toronto.edu">Computer Science</a> at <a href="https://www.utoronto.ca/">University of Toronto</a> and a Faculty Member at the <a href="https://vectorinstitute.ai/">Vector Institute</a>. I lead the <a href="http://pair.toronto.edu/">Toronto People, AI and Robotics (PAIR)</a> research group.</p>
+
+<p>I am affiliated with <a href="https://mie.utoronto.ca">Mechanical and Industrial Engineering</a> (courtesy) and <a href="https://robotics.utoronto.ca/">Toronto Robotics Institute</a>. <br />
+I also share time as a senior research scientist at <a href="https://www.nvidia.com/en-us/research/">Nvidia</a> in ML and Robotics.</p>
+
+<p>Prior to this, I was a postdoc at <a href="http://ai.stanford.edu/">Stanford AI Lab</a> working with <a href="http://vision.stanford.edu/feifeili/">Fei-Fei Li</a> and <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>. I received MS in <a href="http://www.eecs.berkeley.edu/Research/Areas/AI/">Computer Science</a> and Ph.D. in <a href="http://ieor.berkeley.edu">Operations Research</a> from the <a href="http://www.berkeley.edu">UC, Berkeley</a> in 2016.  I was advised by <a href="http://goldberg.berkeley.edu/">Ken Goldberg</a> in the <a href="http://automation.berkeley.edu/">Automation Lab</a> as a part of the <a href="http://bair.berkeley.edu">Berkeley AI Research Lab (BAIR)</a>. I also worked closely with <a href="http://www.cs.berkeley.edu/~pabbeel">Pieter Abbeel</a>, <a href="http://www.ieor.berkeley.edu/~atamturk/">Alper Atamturk</a> and <a href="ucsf">UCSF</a> Radiation Oncology.</p>
+
+<!-- I am also a postdoc at [Stanford AI Lab][sail] working with [Fei-Fei Li][ffl] and [Silvio Savarese][silvio] at [Stanford AI Lab][sail]. I lead the [Stanford People, AI and Robotics (PAIR)][pair-svl] research in the [Vision & Learning][svl] group. -->
+<!-- I also collaborate closely with [Marco Pavone][marco] and his group.  -->
+
+<p>My current research focuses on machine learning algorithms for perception and control in robotics. 
+I develop algorithmic methods to enable efficient robot learning for long-term sequential tasks through
+Generalizable Autonomy. The principal focus of my research is to understand representations and
+algorithms to enable the efficiency and generality of learning for interaction in autonomous agents.</p>
+
+<p><strong>Research Interests</strong>: Robotics, Reinforcement Learning, Computer Vision and Optimal Control. I work on
+applications of autonomous manipulation in surgical, personal and warehouse robotics.</p>
+
+<!-- My thesis work was on algorithms at the intersection of Optimization and Design for Automation.  I studied the interaction of data-driven *Learning for Autonomy* and *Design for Automation* for human skill-augmentation and decision support. -->
+
+<!-- Complete list of [collaborators](/~garg/people/). -->
+
+<!-- I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support.    -->
+<!-- My work employs and contributes to techniques in non-convex discrete optimization and representation learning. I envision enabling ease of robot operation by laymen to an extent where the *user manual* becomes unnecessary. 
+
+My research spans *Machine Learning*, *Operations Research*, *Robotics* and *Design*.   
+ -->
+
+<!-- **Research Interests**: Optimization (Mixed Integer, Non-convex), Machine Learning and Design for Automation in Healthcare & Robotics.   -->
+
+:ET

@@ -9,46 +9,32 @@ layout: default
 For an online listing please see: [**Google Scholar**](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en) | [**Semantic Scholar**](https://www.semanticscholar.org/author/Animesh-Garg/1873736).  
 #### [**Listing by Topic**]({{ site.baseurl }}/research/)  
 
---- 
-###### Theses
----  
-<!-- * **PhD Thesis**: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks]({{ site.baseurl }}/files/garg-phdthesis-2016.pdf)
-
-* **MS Thesis**: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
- -->
-
-![phdthesis]({{ 'phdthesis16-2.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks](http://escholarship.org/uc/item/89k6f68d)**   
-    PhD Thesis, IEOR Department, University of California, Berkeley, 2016.
-
-![mscs]({{ 'msthesis16.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
-:   **[Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)**  
-    MS Thesis, EECS Department, University of California, Berkeley, 2016.
 
 --- 
 ###### Preprints 
 ---  
 
-![Roboturkv2]({{ 'roboturkv2.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Scaling  Robot  Supervision  to  Hundreds  of  Hours  with  RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity](http://roboturk.stanford.edu/realrobotdataset)**  
-    Ajay Mandlekar, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, **Animesh Garg**, Silvio Savarese, Li Fei-Fei.  
-    *Under review at IROS, 2019.*   
+![infocnf]({{ 'infocnf.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[InfoCNF: An Efficient Conditional Continuous Normalizing Flow with Adaptive Solvers](https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_27.pdf)**  
+    Tan Nguyen, **Animesh Garg**, Richard Baraniuk, Animashree Anandkumar.  
+    *ICML 2019 Workshop on Invertible Neural Networks and Normalizing Flows*.  
 
-![CPDDL]({{ 'cpddl.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Continuous  Relaxation  of  Symbolic  Planner  forOne-Shot  Imitation  Learning]()**  
-    De-An Huang, Danfei Xu, Yuke Zhu, **Animesh Garg**, Silvio Savarese, Li Fei-Fei, and Juan Carlos Niebles.  
-    *Under review at IROS, 2019.*   
+![shannon]({{ 'shannon.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[SHANNON: Resource-Efficient Bayesian Model Compression under User-Defined Constraints]()**  
+    Vinu Joseph, Saurav Muralidharan, **Animesh Garg**, Michael Garland.  
+    *Under Review*.  
 
-![DynImp]({{ 'dynImp.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Variable Impedance in End-Effector Space: An Action Space for Reinforcement Learning of Contact-Rich Tasks]()**  
-    Roberto Martín-Martín, Michelle A. Lee, Rachel Gardner, Jeannette Bohg, Silvio Savarese, **Animesh Garg**.   
-    *Under review at IROS, 2019.*   
+![AVH]({{ 'avh.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Angular Visual Hardness](https://openreview.net/forum?id=r1l3P4Sn34)**  
+    Beidi Chen, Weiyang Liu, **Animesh Garg**, Zhiding Yu, Anshumali Shrivastava, Animashree Anandkumar.  
+    *ICML 2019 Workshop on Identifying and Understanding Deep Learning Phenomena*.  
+    \[[*ICML Workshop Talk*](https://www.youtube.com/watch?v=1rpVTSj-7Uk)\]
 
+![lvp]({{ 'lvp.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Video Interpolation and Prediction with Unsupervised Landmarks]()**  
+    Kevin Shih, Aysegul Dundar, **Animesh Garg**, Robert Pottorff, Andrew Tao, Bryan Catanzaro.  
+    *Under Review*.  
 
-![TGS3]({{ 'tgs3-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
-:   **[Learning Task-Oriented Grasping for Tool Manipulation with Simulated Self-Supervision](https://sites.google.com/view/task-oriented-grasp)**  
-    Kuan Fang, Yuke Zhu, **Animesh Garg**, Viraj Mehta, Andrey Kurenkov, Li Fei-Fei, Silvio Savarese.  
-    *Under review at IJRR, 2018.*   \[[Video](https://www.youtube.com/watch?v=YI-3sf067f8)\]
 
 <!-- * \[1\] **[Needle Placement using Patient-Specific, Skew-Line Needle Guides for Prostate HDR Brachytherapy: An Open-Loop Phantom Study.]()**  
 Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow Hsu, Jean Pouliot. *Under Preparation.*-->
@@ -57,17 +43,53 @@ Timmy Siauw, **Animesh Garg**, J. Adam Cunha, Sachin Patil, Ken Goldberg, I-Chow
 ###### Publications
 ---  
 
+![ACT]({{ 'act.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[AC-Teach: A Bayesian Actor-Critic Method for Policy Learning with an Ensemble of Suboptimal Teachers]()**  
+    Andrey Kurenkov, Ajay Mandlekar, Roberto Martín-Martín, Silvio Savarese, **Animesh Garg**.  
+    *Conference on Robot Learning (CoRL) 2019.*
+    \[[arXiv 1909.04121](https://arxiv.org/abs/1909.04121)\] \[[Blog Post](http://ai.stanford.edu/blog/acteach/)\] \[[Project Webpage](https://sites.google.com/view/acteach//)\]  
+
+![FDP]({{ 'fdp.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Dynamics Learning with Cascaded Variational Inference for Multi-Step Manipulation]()**  
+    Kuan Fang, Yuke Zhu, **Animesh Garg**, Silvio Savarese, Li Fei-Fei.  
+    *Conference on Robot Learning (CoRL) 2019.*  
+
+![DynImp]({{ 'dynImp.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Variable  Impedance  Control  in  End-Effector  Space: An  Action  Space  for  Reinforcement  Learning  in  Contact-Rich  Tasks](https://arxiv.org/abs/1906.08880)**  
+    Roberto Martín-Martín, Michelle A. Lee, Rachel Gardner, Silvio Savarese, Jeannette Bohg, **Animesh Garg**.   
+    *Int'l Conf. on Intelligent Robots and Systems (IROS), 2019.*   
+     \[[arXiv 1906.08880](https://arxiv.org/abs/1906.08880)\]  \[[Project Webpage](https://stanfordvl.github.io/vices/)\]
+
+![Roboturkv2]({{ 'roboturkv2.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Scaling  Robot  Supervision  to  Hundreds  of  Hours  with  RoboTurk: Robotic Manipulation Dataset through Human Reasoning and Dexterity](http://roboturk.stanford.edu/realrobotdataset)**  
+    Ajay Mandlekar, Jonathan Booher, Max Spero, Albert Tung, Anchit Gupta, Yuke Zhu, **Animesh Garg**, Silvio Savarese, Li Fei-Fei.  
+    *Int'l Conf. on Intelligent Robots and Systems (IROS), 2019.*   
+    \[[Project Webpage](http://roboturk.stanford.edu/realrobotdataset)\]  
+    **🏆 <font color="red">IROS Best Cognitive Robotics Paper Finalist</font>** 
+
+![CPDDL]({{ 'cpddl.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Continuous  Relaxation  of  Symbolic  Planner  for One-Shot  Imitation  Learning](https://arxiv.org/abs/1908.06769)**  
+    De-An Huang, Danfei Xu, Yuke Zhu, **Animesh Garg**, Silvio Savarese, Li Fei-Fei, and Juan Carlos Niebles.  
+    *Int'l Conf. on Intelligent Robots and Systems (IROS), 2019.*   
+    \[[arXiv 1908.06769](https://arxiv.org/abs/1908.06769)\]
+
+![TGS3]({{ 'tgs3-v2.png' | prepend: '/research/images/' | prepend: site.baseurl }})
+:   **[Learning Task-Oriented Grasping for Tool Manipulation with Simulated Self-Supervision](https://sites.google.com/view/task-oriented-grasp)**  
+    Kuan Fang, Yuke Zhu, **Animesh Garg**, Viraj Mehta, Andrey Kurenkov, Li Fei-Fei, Silvio Savarese.  
+    *International Journal of Robotics Research (IJRR), 2019.*  \[[Video](https://www.youtube.com/watch?v=YI-3sf067f8)\]
+
 ![NTG]({{ 'ntg.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration](https://arxiv.org/abs/1807.03480)**  
     De-an Huang, Suraj Nair, Danfei Xu, Yuke Zhu, **Animesh Garg**, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles.  
-    *IEEE Conf. on Computer Vision & Pattern Recognition (CVPR), 2019.* (**🏆<font color="red">Oral</font>**)  
-    \[[arXiv 1807.03480](https://arxiv.org/abs/1807.03480)\]
+    *IEEE Conf. on Computer Vision & Pattern Recognition (CVPR), 2019.* (**🏆<font color="red">Oral</font>**)      
+    \[[arXiv 1807.03480](https://arxiv.org/abs/1807.03480)\] 
 
 ![MSVT]({{ 'msvt.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks](https://arxiv.org/abs/1810.10191)**  
     Michelle A. Lee\*, Yuke Zhu\*, Krishnan Srinivasan, Parth Shah, Silvio Savarese, Li Fei-Fei, **Animesh Garg**, Jeannette Bohg.  
-    *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2019.*    
-    \[[arXiv 1810.10191](https://arxiv.org/abs/1810.10191)\]. \[[Project Webpage](https://sites.google.com/view/visionandtouch)\] \[[Video](https://youtu.be/TjwDJ_R2204)\]
+    *IEEE Int'l Conf. on Robotics and Automation (ICRA) 2019.*.  
+    \[[arXiv 1810.10191](https://arxiv.org/abs/1810.10191)\]. \[[Project Webpage](https://sites.google.com/view/visionandtouch)\] \[[Video](https://youtu.be/TjwDJ_R2204)\]  
+    **🏆 <font color="red">ICRA Best Paper Award</font>**, **🏆 <font color="red">ICRA Best Cognitive Robotics Paper Finalist</font>**s
 
 ![mech-search]({{ 'kurenkov-icra18-mechsearch.jpg' | prepend: '/research/images/' | prepend: site.baseurl }})
 :   **[Mechanical Search: Multi-Step Retrieval of a Target Object Occluded by Clutter](https://ai.stanford.edu/mech-search/)**  
@@ -335,6 +357,22 @@ Ann Majewicz, John Swensen, Tom Wedlick, Kyle Reed, Ron Alterovitz, Vinutha Kall
 *IEEE IROS 2011 Demonstrations.* 
 
 <!-- Abstract: A live demonstration of robotic needle steering in artificial tissue, as well as videos and posters about models and simulations, path planners, controllers, and integration with medical imaging. -->
+
+--- 
+###### Theses
+---  
+<!-- * **PhD Thesis**: [Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks]({{ site.baseurl }}/files/garg-phdthesis-2016.pdf)
+
+* **MS Thesis**: [Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)
+ -->
+
+![phdthesis]({{ 'phdthesis16-2.png' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks](http://escholarship.org/uc/item/89k6f68d)**   
+    PhD Thesis, IEOR Department, University of California, Berkeley, 2016.
+
+![mscs]({{ 'msthesis16.jpg' | prepend: '/research/images/' | prepend: site.baseurl  }})
+:   **[Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html)**  
+    MS Thesis, EECS Department, University of California, Berkeley, 2016.
 
 --- 
 ###### Patents

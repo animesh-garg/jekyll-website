@@ -1,5 +1,6 @@
 {% capture stuff %}
 
+
 ![RL]({{ site.baseurl }}/research/images/rl-teaser.png)
 : [**Rethinking Generalization in Robot Learning**]({{ site.baseurl }}/research/#generalization-in-robotics-tasks)  
   At Stanford, I am leading the effort in *Rethinking Generalization in Robot Learning*. It is a multi-proged effort in developing hierarcical Deep RL abstractions along with learning from video demonstrations. 

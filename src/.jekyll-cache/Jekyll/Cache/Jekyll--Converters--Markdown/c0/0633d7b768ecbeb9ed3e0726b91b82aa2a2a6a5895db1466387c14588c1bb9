@@ -1,0 +1,35 @@
+I")	<h3 id="accepted-papers-at-isrr-corl-and-3dv-2017"><strong>Accepted papers at ISRR, CoRL and 3DV, 2017</strong></h3>
+
+<p>One paper on Policy Transfer accepted at <em>Int’l Symposium on Robotics Research (<a href="https://parasol.tamu.edu/isrr/isrr2017/">ISRR</a>) 2017</em>.</p>
+<ul>
+  <li><strong><a href="https://arxiv.org/abs/1707.04674">AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems</a></strong> <br />
+  James Harrison*, <strong>Animesh Garg</strong>*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone (* equal contribution).<br />
+  <em>Int’l Symposium on Robotics Research (<a href="https://parasol.tamu.edu/isrr/isrr2017/">ISRR</a>) 2017</em>  [<a href="https://arxiv.org/abs/1707.04674">arXiv 1707.04674</a>]</li>
+</ul>
+
+<p>One paper on 3D reconstruction accepted at <em>Int’l Conf. on 3D Vision (<a href="http://irc.cs.sdu.edu.cn/3dv/">3DV</a>), 2017.</em>.</p>
+<ul>
+  <li><strong><a href="https://arxiv.org/abs/1705.10904">Weakly Supervised Generative Adversarial Networks for 3D Reconstruction</a></strong> <br />
+  JunYoung Gwak*, Christopher B. Choy*, <strong>Animesh Garg</strong>, Manmohan Chandraker, Silvio Savarese. (* equal contribution).<br />
+  <em>Int’l Conf. on 3D Vision (3DV), 2017.</em> [<a href="https://arxiv.org/abs/1705.10904">arXiv 1705.10904</a>]</li>
+</ul>
+
+<p>Two papers accepted to non-archival track at <a href="http://www.robot-learning.org/accepted-papers">Conference on Robot Learning (CoRL)</a>, 2017.</p>
+
+<ul>
+  <li>
+    <p><strong><a href="">Neural Task Programming: Learning to Generalize Across Hierarchical Tasks</a></strong><br />
+Danfei Xu, Yuke Zhu, <strong>Animesh Garg</strong>, Julian Gao, Li Fei-Fei, Silvio Savarese.<br />
+<em>Conference on Robot Learning (<a href="http://www.robot-learning.org/">CoRL</a>) 2017</em>.</p>
+  </li>
+  <li>
+    <p><strong><a href="">Towards Grasp Transfer using Shape Deformation</a></strong><br />
+Andrey Kuryenkov*, Viraj Mehta*, Jingwei Ji, <strong>Animesh Garg</strong>, Silvio Savarese (* equal contribution).<br />
+<em>Conference on Robot Learning (<a href="http://www.robot-learning.org/">CoRL</a>) 2017</em>.</p>
+  </li>
+</ul>
+
+<p>Check out the <a href="/~garg/publications.html">publications</a> for public drafts.<br />
+Please feel free to send me an email with comments and suggestions.</p>
+
+:ET

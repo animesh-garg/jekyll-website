@@ -1,0 +1,253 @@
+I"�2
+<div class="projects">
+
+<h2 id="welcome">Welcome!</h2>
+
+<!-- ####     🌟 <font color="red"> I'm on the faculty job market in Spring 2018! </font> 🌟 -->
+
+<p>I am a Assistant Professor of <a href="https://web.cs.toronto.edu">Computer Science</a> at <a href="https://www.utoronto.ca/">University of Toronto</a> and a Faculty Member at the <a href="https://vectorinstitute.ai/">Vector Institute</a>. I lead the <a href="http://pair.toronto.edu/">Toronto People, AI and Robotics (PAIR)</a> research group.</p>
+
+<p>I am affiliated with <a href="https://mie.utoronto.ca">Mechanical and Industrial Engineering</a> (courtesy) and <a href="https://robotics.utoronto.ca/">Toronto Robotics Institute</a>. <br />
+I also share time as a senior research scientist at <a href="https://www.nvidia.com/en-us/research/">Nvidia</a> in ML and Robotics.</p>
+
+<p>Prior to this, I was a postdoc at <a href="http://ai.stanford.edu/">Stanford AI Lab</a> working with <a href="http://vision.stanford.edu/feifeili/">Fei-Fei Li</a> and <a href="http://cvgl.stanford.edu/silvio/">Silvio Savarese</a>. I received MS in <a href="http://www.eecs.berkeley.edu/Research/Areas/AI/">Computer Science</a> and Ph.D. in <a href="http://ieor.berkeley.edu">Operations Research</a> from the <a href="http://www.berkeley.edu">UC, Berkeley</a> in 2016.  I was advised by <a href="http://goldberg.berkeley.edu/">Ken Goldberg</a> in the <a href="http://automation.berkeley.edu/">Automation Lab</a> as a part of the <a href="http://bair.berkeley.edu">Berkeley AI Research Lab (BAIR)</a>. I also worked closely with <a href="http://www.cs.berkeley.edu/~pabbeel">Pieter Abbeel</a>, <a href="http://www.ieor.berkeley.edu/~atamturk/">Alper Atamturk</a> and <a href="ucsf">UCSF</a> Radiation Oncology.</p>
+
+<!-- I am also a postdoc at [Stanford AI Lab][sail] working with [Fei-Fei Li][ffl] and [Silvio Savarese][silvio] at [Stanford AI Lab][sail]. I lead the [Stanford People, AI and Robotics (PAIR)][pair-svl] research in the [Vision & Learning][svl] group. -->
+<!-- I also collaborate closely with [Marco Pavone][marco] and his group.  -->
+
+<p>My current research focuses on machine learning algorithms for perception and control in robotics. 
+I develop algorithmic methods to enable efficient robot learning for long-term sequential tasks through
+Generalizable Autonomy. The principal focus of my research is to understand representations and
+algorithms to enable the efficiency and generality of learning for interaction in autonomous agents.</p>
+
+<p><strong>Research Interests</strong>: Robotics, Reinforcement Learning, Computer Vision and Optimal Control. I work on
+applications of autonomous manipulation in surgical, personal and warehouse robotics.</p>
+
+<!-- My thesis work was on algorithms at the intersection of Optimization and Design for Automation.  I studied the interaction of data-driven *Learning for Autonomy* and *Design for Automation* for human skill-augmentation and decision support. -->
+
+<!-- Complete list of [collaborators](/~garg/people/). -->
+
+<!-- I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support.    -->
+<!-- My work employs and contributes to techniques in non-convex discrete optimization and representation learning. I envision enabling ease of robot operation by laymen to an extent where the *user manual* becomes unnecessary. 
+
+My research spans *Machine Learning*, *Operations Research*, *Robotics* and *Design*.   
+ -->
+
+<!-- **Research Interests**: Optimization (Mixed Integer, Non-convex), Machine Learning and Design for Automation in Healthcare & Robotics.   -->
+
+
+</div>
+
+<p><span class="hide-on-desktop">
+	Contact me:
+		<a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#097;&#110;&#105;&#109;&#101;&#115;&#104;&#046;&#103;&#097;&#114;&#103;&#064;&#098;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#046;&#101;&#100;&#117;"><span style="font-size: 98%">garg@cs<strong>·</strong>stanford<strong>·</strong>edu </span></a>
+	<br />
+	Find me on:
+		<a href="https://github.com/animesh-garg"><i class="fa fa-git fa-lg"></i></a>    <strong> · </strong>   
+		<a href="https://twitter.com/animesh_garg"><i class="fa fa-twitter fa-lg"></i></a>    <strong> · </strong>   
+		<a href="http://www.linkedin.com/in/animeshgarg"><i class="fa fa-linkedin fa-lg"></i></a>   <strong> · </strong>   
+		<a href="https://www.facebook.com/garganimesh"><i class="fa fa-facebook-square fa-lg"></i></a>    <br />
+</span></p>
+
+<hr />
+
+<h3 id="prospective-applicants">Prospective <a href="">Applicants</a></h3>
+
+<p>🌟 I am accepting new students at all levels. Thanks for your interest in my group. However, kindly do not contact me directly with regard to MS or PhD admissions. Please read this before contacting me and apply accordingly:</p>
+
+<ul>
+  <li>UofT PhD and Postdocs: Please send me a brief <a href="mailto:garg@cs.toronto.edu">email</a> about collaboration or advising.</li>
+  <li><a href="https://forms.gle/BtFqLGV33kC5FXAu9">UofT Undergraduate/Masters</a></li>
+  <li>External <a href="https://forms.gle/TWJr36iDucTmDWQX7">Postdoc and Research Scientist</a></li>
+  <li>External <a href="https://forms.gle/ouy1RR8mtC3GNXki7">Visiting Scholar</a></li>
+</ul>
+
+<hr />
+
+<h3 id="recent-news">Recent <a href="/~garg/news/"><strong>News</strong></a></h3>
+<ul class="inset">
+
+  <li>
+    <a href="/~garg/news/corl19.html"><strong>08 Sep 2019</strong></a>: <p>2 papers at CoRL 2019</p>
+
+  </li>
+
+  <li>
+    <a href="/~garg/news/iros19.html"><strong>21 Jun 2019</strong></a>: <p>3 papers at IROS 2019 &amp; a <strong>Best Paper Nomination</strong> 🏆</p>
+
+  </li>
+
+  <li>
+    <a href="/~garg/news/icra19-award.html"><strong>25 Mar 2019</strong></a>: <p>ICRA 2019 Paper wins <strong>Best Paper Award</strong> 🏆</p>
+
+  </li>
+
+  <li>
+    <a href="/~garg/news/iros19-sub.html"><strong>01 Mar 2019</strong></a>: <p>3 new papers submitted to IROS 2019</p>
+
+  </li>
+
+  <li>
+    <a href="/~garg/news/cvpr19.html"><strong>26 Feb 2019</strong></a>: <p>Paper accepted at CVPR 2019 as Oral! 🏆🎙️</p>
+
+  </li>
+
+</ul>
+
+<hr />
+
+<h3 id="recent-research">Recent <a href="/~garg/research/"><strong>Research</strong></a></h3>
+
+<div class="projects">
+
+<!-- <div class="projects">
+
+<dl>
+  <dt><img src="/~garg/research/images/rl-teaser.png" alt="RL" /></dt>
+  <dd><a href="/~garg/research/#generalization-in-robotics-tasks"><strong>Rethinking Generalization in Robot Learning</strong></a><br />
+At Stanford, I am leading the effort in <em>Rethinking Generalization in Robot Learning</em>. It is a multi-proged effort in developing hierarcical Deep RL abstractions along with learning from video demonstrations. 
+<a href="/~garg/research/#generalization-in-robotics-tasks"><em>Read More</em></a>…</dd>
+</dl>
+
+</div>
+ -->
+
+<dl>
+  <dt><img src="/~garg/research/images/rl-teaser.png" alt="RL" /></dt>
+  <dd><a href="/~garg/research/#generalization-in-robotics-tasks"><strong>Rethinking Generalization in Robot Learning</strong></a><br />
+At Stanford, I am leading the effort in <em>Rethinking Generalization in Robot Learning</em>. It is a multi-proged effort in developing hierarcical Deep RL abstractions along with learning from video demonstrations. 
+<a href="/~garg/research/#generalization-in-robotics-tasks"><em>Read More</em></a>…</dd>
+</dl>
+
+<!-- In my Ph.D., I have primarily worked on algorithmic solutions for challenges in: -->
+
+<dl>
+  <dt><img src="/~garg/research/images/linearCutProcess-v3.jpg" alt="surgical" /></dt>
+  <dd><strong><a href="/~garg/research/#skill-learning-in-surgical-subtasks">Learning &amp; Automation in Surgical Subtasks</a></strong><br />
+We are working towards surgical sub-task automation and exploring a data driven approach for reduction in training effort with unsupervised task structure learning. 
+<!-- Our recent work includes a '[Learning by Observation](/~garg/files/murali-LBO-2015.pdf)' approach for multilateral cutting, and a [disposable probe](/~garg/research/#learning--automation-in-surgical-subtasks) for RMIS. -->
+<a href="/~garg/research/#learning--automation-in-surgical-subtasks"><em>Read More</em></a>…</dd>
+</dl>
+
+<!-- ![brachy](/~garg/research/images/3dpBrachy.jpg)
+: **[Brachytherapy for Cancer: Planning and Delivery](/~garg/research/#radiation-therapy-for-cancer-planning-and-delivery)**  
+Brachytherapy is an internal form of radiotherapy for cancer, involving radioactive source placement in proximity of the tumor. We have worked on novel patient specific delivery methods for interstitial (e.g. prostate) and intracavitary (e.g. oral/thoracic, GYN) tumors.
+[*Read More*](/~garg/research/#radiation-therapy-for-cancer-planning-and-delivery)...   -->
+
+
+</div>
+
+<hr />
+
+<h3 id="coverage-in-mediapress">Coverage in <a href="/~garg/news/#research-coverage-in-media-and-press"><strong>Media/Press</strong></a></h3>
+
+<div class="projects">
+
+<ul class="inset">
+
+  <li>
+    <a href="https://www.correiobraziliense.com.br/app/noticia/tecnologia/2018/11/19/interna_tecnologia,720148/plataforma-permite-ensinar-tarefas-basicas-a-robos-por-meio-de-celular.shtml"><img src="/~garg/news/press/roboturk-cartoon.jpg" alt="TechXplore" width="200" height="100" /></a>
+  </li>
+
+  <li>
+    <a href="https://news.stanford.edu/2018/10/26/robots-learn-tasks-people/"><img src="/~garg/news/press/stanford-news-logo.png" alt="TechXplore" width="200" height="55" /></a>
+  </li>
+
+  <li>
+    <a href="https://techxplore.com/news/2018-11-roboturk-crowdsourcing-platform-imitation-robotics.html"><img src="/~garg/news/press/techxplore-logo.png" alt="TechXplore" width="200" height="55" /></a>
+  </li>
+
+  <li>
+    <a href="http://spectrum.ieee.org/robotics/medical-robots/would-you-trust-a-robot-surgeon-to-operate-on-you"><img src="/~garg/news/press/ieee-spectrum-logo.jpg" alt="IEEE Spectrum" width="200" height="50" /></a>
+  </li>
+
+  <li>
+    <a href="http://www.rollingstone.com/culture/features/inside-the-artificial-intelligence-revolution-a-special-report-pt-2-20160309"><img src="/~garg/news/press/rolling-stone-logo.png" alt="IEEE Spectrum" width="200" height="60" /></a>
+  </li>
+
+  <li>
+    <a href="https://www.youtube.com/watch?v=_DA8mf4Aj8A&amp;feature=youtu.be"><img src="/~garg/news/press/cnet_logo.jpg" alt="IEEE Spectrum" width="200" height="60" /></a>
+  </li>
+
+  <li>
+    <a href="http://www.nytimes.com/2014/10/23/science/new-research-center-aims-to-develop-second-generation-of-surgical-robots.html"><img src="/~garg/news/press/nyt-logo.png" alt="New York Times" width="200" height="35" /></a>
+  </li>
+
+  <li>
+    <a href="http://www.medgadget.com/2014/10/berkeleys-autonomous-surgical-robotic-system.html"><img src="/~garg/news/press/Medgadget_logo.png" alt="Med Gadget" width="200" height="40" /></a>    
+  </li>
+
+  <li>
+    <a href="http://www.3dprinterworld.com/article/using-3d-printing-improve-radiation-therapy"><img src="/~garg/news/press/3dpw.png" alt="3D Printing World" width="200" height="60" /></a>
+  </li>
+
+  <li>
+    <a href="http://phys.org/news/2012-12-big-nsf-grant-funds-robots.html"><img src="/~garg/news/press/physorg_logo.png" alt="Phys.Org" width="200" height="50" /></a>
+  </li>
+
+</ul>
+
+</div>
+
+<hr />
+
+<!-- ### Recent [**Blog**](/~garg/articles/)
+<ul class="inset">
+
+  <li>
+    <a href="/~garg/articles/Nanorobots-in-Medicine.html"><strong>27 Nov 2014</strong></a>: <p>Nanorobots in Cancer Treatment</p>
+
+  </li>
+
+  <li>
+    <a href="/~garg/articles/HOWTO-Make-Videos-from-Talks-and-Presentations.textile"><strong>01 Aug 2013</strong></a>: <p>HOWTO Make Videos from Talks and Presentations</p>
+
+  </li>
+
+</ul> -->
+
+<!--
+* [**Customized Treatment methods for HDR Brachytherapy**](/~garg/research/Brachytherapy.html)  
+
+<div align="center">
+<img src="/~garg/research/images/panel-Labelled-v3.png" alt="custom workflow" style="width: 80%" align="middle" />
+</div>
+
+* [**Learning from Expert Demonstrations for Surgical Robotics**](/~garg/research/Robotics.html)  
+
+<div align="center">
+<img src="/~garg/research/images/circleProcess.jpg" alt="dvrk-lbo" style="width: 80%" align="middle" />
+</div>  
+-->
+
+<!--
+<ul class="inset">
+
+  <li>
+    <a href="/~garg/research/Brachytherapy.html"><strong><p>Brachytherapy – Cancer Treatment with Internal Radiation Therapy</p>
+</strong></a> <br>
+<p>Incorporating optimization models for improved radiotherapy along with systems to deliver therapy using 3D printed Customized implants and robotics.</p>
+
+  </li>
+
+  <li>
+    <a href="/~garg/research/Robotics.html"><strong><p>Learning from Expert Demonstrations for Surgical Robotics</p>
+</strong></a> <br>
+<p>Semi-supervised learning from demonstrations in robotic surgery.</p>
+
+  </li>
+
+</ul>
+-->
+
+<!--
+<div class="footer">
+&copy; Last updated on: 02 Oct 2019
+</div>
+
+<div id="footer">
+<br>
+Template by <a href="http://sergeykarayev.com/">Sergey Karayev</a> | Adapted by Animesh Garg
+</div>
+-->
+:ET

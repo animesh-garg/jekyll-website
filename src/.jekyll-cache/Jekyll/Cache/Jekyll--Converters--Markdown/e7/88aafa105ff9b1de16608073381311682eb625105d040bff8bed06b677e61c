@@ -1,0 +1,269 @@
+I"�;<!--  -->
+
+<div class="figure">
+<img src="/~garg/images/burlingame-school-may15.jpg" width="70%" align="center" />
+</div>
+
+<!-- My research spans *Operations Research*, *Machine Learning*, *Robotics* and *Design*, combining theory with experiments. 
+I study the interaction of data-driven *Learning for Autonomy* and *Design for Automation* for human skill-augmentation and decision support. I am interested in enabling autonomous systems to learn from imprecise information for performing a range of tasks with independence and flexibility.  My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
+ -->
+<!-- I am interested in problems at the intersection of optimization, machine learning, AI and robotics. I study integration of algorithms with hardware design for applications in medical robotics and healthcare. I aim to develop models for human-machine collaboration, skill-augmentation, semi-supervised autonomy and healthcare decision support. My work employs and contributes to techniques in non-convex discrete optimization and representation learning.  
+ -->
+
+<!-- I grew up in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior). I received a B.E. in Manufacturing & Automation from [University of Delhi][du] and an M.S. in IE from [Georgia Tech](http://www.isye.gatech.edu/).   -->
+<h4 id="curriculum-vitae-in-pdf-may-2019"><strong><a href="/~garg/files/jobs/garg-cv-may18.pdf">Curriculum Vitae in PDF (may 2019)</a></strong></h4>
+
+<!-- During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded solutions for:  
+- [Learning & Automation in Surgical Subtasks](/~garg/research/#learning--automation-in-surgical-subtasks)  
+- [Radiation Therapy for Cancer: Planning and Delivery](/~garg/research/#radiation-therapy-for-cancer-planning-and-delivery)  
+ -->
+<!-- Please [email me](mailto:animesh.garg@berkeley.edu) for a pdf version of latest CV.    -->
+
+<hr />
+
+<h6 id="education">Education</h6>
+
+<dl>
+  <dt>2016  <em>Committee</em></dt>
+  <dd><strong>Ph.D. Operations Research</strong> · <a href="http://ieor.berkeley.edu">University of California, Berkeley</a><br />
+<a href="http://goldberg.berkeley.edu/">Ken Goldberg</a>, <a href="http://www.ieor.berkeley.edu/~atamturk/">Alper Atamturk</a>, <a href="http://www.cs.berkeley.edu/~pabbeel">Pieter Abbeel</a>, <a href="http://www.eecs.berkeley.edu/~elghaoui/">Laurent El Ghaoui</a>, <a href="http://profiles.ucsf.edu/jean.pouliot">Jean Pouliot</a><br />
+Thesis: <a href="(/~garg/files/garg-phdthesis-2016.pdf)">Optimization and Design for Automation of Brachytherapy Delivery and Learning Robot-Assisted Surgical Subtasks</a>
+<!--*Coursework*: Linear and Non Linear Optimization, Stochastic Modeling, Network Algorithms and Graph Theory, Statistical Learning, Controls, Robotics.--></dd>
+  <dt>2016</dt>
+  <dd><strong>M.S. Computer Science</strong> · <a href="http://www.eecs.berkeley.edu/Research/Areas/AI/">University of California, Berkeley</a><br />
+<em>Advisors</em>: <a href="http://goldberg.berkeley.edu/">Ken Goldberg</a> and <a href="http://www.cs.berkeley.edu/~pabbeel">Pieter Abbeel</a><br />
+Thesis: <a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2016/EECS-2016-140.html">Autonomous Palpation for Tumor Localization: Design of a Palpation Probe and Gaussian Process Adaptive Sampling</a></dd>
+  <dt>2011</dt>
+  <dd><strong>M.S. Industrial Engineering</strong> · <a href="http://www.isye.gatech.edu/">Georgia Institute of Technology</a>, Atlanta</dd>
+  <dt>2010</dt>
+  <dd><strong>Bachelor in Engineering, Manufacturing Processes &amp; Automation</strong><br />
+<a href="http://nsit.ac.in">Netaji Subhas Institute of Technology</a>, <a href="http://www.du.ac.in/index.php?id=4">University of Delhi</a> (India)<br />
+<em>Advisors</em>: Pradeep Khanna, Sachin Maheshwari and Satish Chand</dd>
+</dl>
+
+<hr />
+
+<h6 id="honors-and-awards">Honors and Awards</h6>
+
+<dl>
+  <dt>2019</dt>
+  <dd>IEEE ICRA 2019 <a href="https://www.icra2019.org/program/awards">Best Paper Award</a><br />
+IEEE ICRA 2019 <a href="https://www.icra2019.org/program/awards">Best Paper in Cognitive Robotics Finalist</a></dd>
+  <dt>2015</dt>
+  <dd>Hamlyn Surgical Robotics Challenge 2015 <a href="http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015">Best Video Award</a><br />
+IEEE ICRA Medical Robotics Workshop 2015 <a href="http://research.intusurg.com/workshops/icra-2015/">Best Poster/Demo Award</a><br />
+IEEE ICRA 2015 <a href="http://icra2015.org/conference/awards#medical">Best Medical Robotics Paper Award Finalist</a><br />
+<!-- IEEE ICRA 2015 [Speaker @ PhD Forum](http://icra2015.org/conference/forums/11-conference/57-ph-d-forum)   -->
+UC Berkeley Ira Abraham Fellowship</dd>
+  <dt>2014</dt>
+  <dd>UC Regents Fellowship (Summer)</dd>
+  <dt>2013</dt>
+  <dd>NSF Travel Support for IEEE CASE 2013<br />
+S. Tashiera Fellowship, UC Berkeley (Summer)</dd>
+  <dt>2012</dt>
+  <dd>IEEE CASE 2012 <a href="http://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/81-ieee-case-best-application-paper-award-sponsored-by-qsi">Best Application Paper Award</a><br />
+Berkeley International Office Tuition Award</dd>
+  <dt>2012 – 13</dt>
+  <dd>Earl C. Anthony Graduate Fellowship, UC Berkeley</dd>
+  <dt>2010</dt>
+  <dd>Erasmus Mundus Fellowship at TU Munich (full tuition &amp; stipend)</dd>
+  <dt>2007 – 10</dt>
+  <dd>University of Delhi Academic Merit Scholarship Award (full tuition)</dd>
+  <dt>2004 – 10</dt>
+  <dd>State Bank of India Meritorious Student Scholarship (stipend)</dd>
+</dl>
+
+<hr />
+
+<h6 id="invited-talks">Invited Talks</h6>
+
+<dl>
+  <dt>Sept-Oct 2016</dt>
+  <dd>Closing the Visuo-Motor Loop with Deep Reinforcement Learning<br />
+SAIL-Toyota AI Center Annual Review  <br />
+Stanford <a href="http://web.stanford.edu/class/cs331b/">CS 331B Representation Learning Guest Lecturer</a></dd>
+  <dt>Mar-Apr 2016</dt>
+  <dd>Algorithmic Automation in Medical Robotics <br />
+MIT, UC San Diego, Stanford <br />
+Uber Marketplace Optimization, Amazon Research,  Baidu Research, Drive.ai</dd>
+  <dt>Feb 2016</dt>
+  <dd>Unsupervised Segmentation of Surgical Subtasks<br />
+<em><a href="http://www.eecs.berkeley.edu/bears/#">BEARS Research Symposium</a>, Berkeley, CA</em></dd>
+  <dt>Nov 2015</dt>
+  <dd>Unsupervised Task Segmentation For Learning from Demonstrations<br />
+<em><a href="http://citris-uc.org/people-and-robots-events/algshri/">Algorithms for HRI Workshop</a></em></dd>
+  <dt>Nov 2015</dt>
+  <dd>Algorithms for 3D Printed Implants for Brachytherapy in Intracavitary Tumors 
+<em><a href="http://meetings2.informs.org/wordpress/philadelphia/">INFORMS 2015</a></em></dd>
+  <dt>Oct 2015</dt>
+  <dd>Transition State Clustering for Unsupervised Task Segmentation<br />
+<em><a href="http://rll.berkeley.edu/BARS2015/index.html">Bay Area Robotics Symposium</a>, Berkeley, CA</em></dd>
+  <dt>Sept 2015</dt>
+  <dd>Lecture on Algorithms in Cancer Treatment, <em>Intro to IEOR</em> (IEOR 24)<br />
+<em>University of California, Berkeley</em></dd>
+  <dt>Feb 2015</dt>
+  <dd><a href="https://youtu.be/Eye92IXOkxE">Learning by Observation for Surgical Subtasks</a><br />
+<em><a href="http://www.eecs.berkeley.edu/bears/2015/">BEARS Research Symposium</a>, Berkeley, CA</em> [<a href="https://youtu.be/Eye92IXOkxE"><strong>Video Talk</strong></a>]</dd>
+  <dt>Oct 2014</dt>
+  <dd>Custom 3D printed Implants for High Dose Rate Brachytherapy.<br />
+<a href="http://asl.stanford.edu/SBRS2014/">Stanford Berkeley Robotics Symposium</a></dd>
+  <dt>Feb 2014</dt>
+  <dd><a href="https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS">Custom 3D printed Implants for High Dose Rate Brachytherapy</a>.<br />
+<a href="http://www.eecs.berkeley.edu/bears/2014/">BEARS Research Symposium</a>, Berkeley, CA [<a href="https://youtu.be/sLnrddnAGks?list=PLOyuQaVrp4qqNdUbezfWvP8qtmKDuYzLS"><strong>Video Talk</strong></a>] [<a href="http://www.eecs.berkeley.edu/XRG/BEARS/2014/presentations/garg.pptx"><strong>Slides</strong></a>]</dd>
+  <dt>Sept 2011</dt>
+  <dd>Lecture on Linear Programming, <em>Introduction to IEOR</em> (IEOR 24)<br />
+<em>University of California, Berkeley</em></dd>
+  <dt>Sept 2011</dt>
+  <dd>A Robotic System for Needle Steering, <em>IEEE IROS 2011</em> Demonstrations</dd>
+</dl>
+
+<hr />
+
+<h6 id="teaching">Teaching</h6>
+<dl>
+  <dt><a href="http://cs332.stanford.edu/#!index.md">CS 332</a></dt>
+  <dd><strong>Advanced Survey of Reinforcement Learning</strong>, Co-Instructor (<em>F-17</em>) <br />
+with <a href="http://cs.stanford.edu/people/ebrun/">Emma Brunskill</a>, <em>Stanford University</em></dd>
+  <dt><a href="http://www.ieor.berkeley.edu/~ieor131/">IEOR 131</a></dt>
+  <dd><strong>Discrete Event Simulation</strong>, TA (<em>Sp-16</em>) <br />
+<a href="http://www.ieor.berkeley.edu/~schruben/">Lee Schruben</a>, <em>University of California, Berkeley</em></dd>
+  <dt><a href="http://www.ieor.berkeley.edu/~ieor170/">IEOR 170</a></dt>
+  <dd><strong>Industrial Design &amp; Human Factors</strong>, TA (<em>Sp-15</em>) <br />
+<a href="http://goldberg.berkeley.edu/">Ken Goldberg</a>, <em>University of California, Berkeley</em></dd>
+  <dt><a href="http://www.ieor.berkeley.edu/~ieor115/">IEOR 115</a></dt>
+  <dd><strong>Industrial &amp; Commercial Data Systems</strong>, TA (<em>F-11, F-13, F-14, Sp-13</em>)<br />
+<a href="http://goldberg.berkeley.edu/">Ken Goldberg</a>, <em>University of California, Berkeley</em></dd>
+  <dt><a href="http://www2.ieor.berkeley.edu/courses/ieor-191">IEOR 191</a></dt>
+  <dd><strong>Technology Entrepreneurship</strong>, TA (<em>F-12</em>)<br />
+<a href="http://ronlesniak.com/">Ron Lesniak</a>, <em>University of California, Berkeley</em></dd>
+  <dt><a href="http://www.cc.gatech.edu/graphics/courses.html">CS 3451</a></dt>
+  <dd><strong>Computer Graphics</strong>, Reader (<em>Sp-11</em>) <br />
+<a href="http://www.cc.gatech.edu/~turk/">Greg Turk</a>, <em>Georgia Institute of Technology</em></dd>
+</dl>
+
+<hr />
+
+<h6 id="employment">Employment</h6>
+
+<dl>
+  <dt>2018 – <em>Present</em></dt>
+  <dd><strong>Nvidia Research</strong>, Senior Research Scientist
+Reinforcement Learning for Robot Manipulationw</dd>
+  <dt>2016 – <em>Present</em></dt>
+  <dd><strong>Stanford University</strong>, Post-doctoral Researcher<br />
+Machine Learning Algorithms for Perception and Control in Robotics</dd>
+  <dt>2016 – 2017</dt>
+  <dd><a href="http://www.osaro.com/"><strong>Osaro Inc.</strong></a>, Robotics Consultant<br />
+Algorithmic Research for Robot Learning applications</dd>
+  <dt>2011 – 2016</dt>
+  <dd><strong>UC Berkeley</strong>, Graduate Student Researcher  <br />
+Learning algorithms for greater autonomy in surgical tasks.<br />
+Implement autonomy in clinical brachytherapy.</dd>
+  <dt>2010 – 11</dt>
+  <dd><strong>Georgia Institute of Technology</strong>, Graduate Student Researcher<br />
+Efficient object segmentation in video using Integer Programming.</dd>
+  <dt>2009</dt>
+  <dd><strong><a href="http://www.drdo.gov.in/drdo/labs/CFEES/English/index.jsp?pg=homebody.jsp">Defence Research &amp; Development Org.</a>, India</strong>, Research Assistant     <br />
+Design &amp; simulation of a fire-protection system in a vessel emulator.</dd>
+  <dt>2009</dt>
+  <dd><strong><a href="http://www.ntpc.co.in/power-generation/coal-based-power-stations/badarpur">National Thermal Power Corporation</a>, India</strong>, Engineering Intern   <br />
+Control &amp; Instrumentation in the coal thermal power plant.</dd>
+  <dt>2007</dt>
+  <dd><strong><a href="http://www.jktyre.com/">JK Tyres India Pvt. Ltd</a></strong> , Engineering Intern   <br />
+ Worked on PLC systems for automatic mixing processes involving composites used alongside rubber in tyre manufacturing.</dd>
+</dl>
+
+<hr />
+
+<h6 id="student-mentoring">Student Mentoring</h6>
+
+<dl>
+  <dt>‌</dt>
+  <dd>Please see <a href="/~garg/people/#student-collaboration-and-advising"><strong>People Page</strong></a></dd>
+</dl>
+
+<!-- 
+&zwnj;
+: **Stanford**
+
+PhD
+: James Harrison (2016-) --   
+  Kuan Fang  (2017-) --   
+  Danfei Xu  (2017-) --   
+  De-An Huan  (2017-) --   
+  Ajay Mandlekar    (2017-) --   
+
+MS
+: Andrey Kurenkov  (2016-) --  
+  Boris Ivanovic  (2016-) --  
+  Julian Gao   (2016-) --  
+  Lucio Dery (2016-) --   
+  Orry Despo (2016-17)   
+
+&zwnj;
+: ---  
+
+&zwnj;
+: **UC Berkeley** 
+
+UG  
+: Heimdall Siao (2011-12) -- Grad School (Georgia Tech), Qualcomm  
+Nikitha Singh (2013-14) -- Grad School (MIT)  
+Zach Mulder (2013-14) -- Grad School (Berkeley)   
+Siddarth Sen (2014-16) --  Grad School (Berkeley), Intuitive Surgical  
+Adithyavairavan Murali (2014-15) --  Grad School (CMU)  
+Yiming Jen (2015-16) --  Berkeley, Pinterest  
+Richard Liaw (2015-2016) --   Rising Senior (Berkeley)  
+Brijen Thananjeyan (2016-2016) -- Rising Junior (Berkeley)
+
+M.Eng
+: Anwaar El-Zireeni (2013-14) -- Startup   
+  Jennifer Wong (2013-14) -- ZS Associates  
+  Rashmi Ramtani (2013-14)   
+-->
+
+<hr />
+
+<h6 id="service">Service</h6>
+<!-- Ongoing
+: Reviewer for [T-ASE](http://www.ieee-ras.org/publications/t-ase), CASE \[2013, [2014](http://www.case2014.org/), [2015](http://case2015.org/)\], IROS [2015](http://www.iros2015.org/), ICRA [2014](http://www.icra2014.com/), [APES 2014](http://www.springer.com/biomed/journal/13246) -->
+
+<dl>
+  <dt>‌</dt>
+  <dd><strong>Workshop Organization</strong></dd>
+  <dt>2017</dt>
+  <dd><a href="http://bioeng.nus.edu.sg/mm/c4r.html">C4 Surgical Robots: Compliant, Continuum, Cognitive, and Collaborative</a>, <a href="http://www.icra2017.org/">ICRA</a></dd>
+  <dt>2016</dt>
+  <dd><a href="http://3dv.stanford.edu/visuo-motor/">Understanding 3D and Visuo-Motor Learning</a>,  <a href="http://3dv.stanford.edu/">International Conference on 3D Vision</a></dd>
+  <dt><strong>Reviewer</strong></dt>
+  <dd><a href="">IJRR</a> <a href="http://www.ieee-ras.org/publications/t-ase">T-ASE</a>, <a href="http://www.ieee-ras.org/conferences-workshops">CASE</a>, <a href="http://www.ieee-ras.org/conferences-workshops">IROS</a>, <a href="http://www.ieee-ras.org/conferences-workshops">ICRA</a>, <a href="http://www.springer.com/biomed/journal/13246">APES</a>, <a href="">CVIU</a>, <a href="">AAAI</a></dd>
+  <dt>2015</dt>
+  <dd>Organized Lab Tour for Society of Women Engineers Mini University Event</dd>
+  <dt>2013 – 15</dt>
+  <dd>Organizer Automation Sciences Lab Annual <a href="http://calday.berkeley.edu/index.php">Open House @ Cal Day</a></dd>
+  <dt>2014</dt>
+  <dd>Volunteer for local organization: <a href="http://rll.berkeley.edu/RSS2014/">RSS 2014</a>, <a href="http://meetings2.informs.org/sanfrancisco2014/">INFORMS 2014</a></dd>
+  <dt>2009 – 10</dt>
+  <dd><a href="http://nsitalumni.org/">NSIT Alumni Association</a><br />
+Founded an online alumni network and a magazine -<a href="http://nsitalumni.org/main/index.php/reminisce-2009-10.html"><em>Reminisce</em></a></dd>
+  <dt>2008 – 10</dt>
+  <dd>NSIT Placement Team<br />
+Assisted in coordinating recruitments for the batch of 2010.</dd>
+</dl>
+
+<hr />
+<!--
+###### Publications
+
+* For a full list of papers, go to [Publications](/~garg/publications.html) page.  
+* For an online listing please visit [Google Scholar](http://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en).
+---
+
+-->
+
+<!--
+<div class="footer">
+&copy; Last updated on: 02 Oct 2019
+</div>
+-->
+:ET

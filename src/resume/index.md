@@ -21,7 +21,7 @@ I study the interaction of data-driven *Learning for Autonomy* and *Design for A
  -->
 
 <!-- I grew up in [Gwalior, India](http://en.wikipedia.org/wiki/Gwalior). I received a B.E. in Manufacturing & Automation from [University of Delhi][du] and an M.S. in IE from [Georgia Tech](http://www.isye.gatech.edu/).   -->
-#### **[Curriculum Vitae in PDF]({{ site.baseurl }}/files/jobs/garg-cv-dec18.pdf)**  
+#### **[Curriculum Vitae in PDF (may 2019)]({{ site.baseurl }}/files/jobs/garg-cv-may18.pdf)**  
 
 <!-- During my Ph.D. at [Berkeley][ieor], I have studied algorithmically grounded solutions for:  
 - [Learning & Automation in Surgical Subtasks]({{ site.baseurl }}/research/#learning--automation-in-surgical-subtasks)  
@@ -55,6 +55,11 @@ I study the interaction of data-driven *Learning for Autonomy* and *Design for A
 ---  
 
 ###### Honors and Awards
+
+2019
+: IEEE ICRA 2019 [Best Paper Award](https://www.icra2019.org/program/awards)  
+  IEEE ICRA 2019 [Best Paper in Cognitive Robotics Finalist](https://www.icra2019.org/program/awards)
+
 2015
 :  Hamlyn Surgical Robotics Challenge 2015 [Best Video Award](http://hamlyn.doc.ic.ac.uk/hsmr/events/surgical-robot-challenge-2015)  
    IEEE ICRA Medical Robotics Workshop 2015 [Best Poster/Demo Award](http://research.intusurg.com/workshops/icra-2015/)  
