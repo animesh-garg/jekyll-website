@@ -1,5 +1,4 @@
 _site/
-site_online/
 work/files
 src/files/*
 src/images/*
@@ -7,6 +6,12 @@ src/google412d508479e429f6.html
 todo.txt
 load-site.sh
 *~
+#################
+## jekyll
+#################
+.jekll_cache/
+.jekyll-metadata
+
 #################
 ## Eclipse
 #################
