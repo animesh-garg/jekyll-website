@@ -10,7 +10,7 @@ load-site.sh
 ## jekyll
 #################
 .jekll_cache/
-.jekyll-metadata
+src/.jekyll-metadata
 
 #################
 ## Eclipse
